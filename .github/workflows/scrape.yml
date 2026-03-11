@@ -1,0 +1,88 @@
+name: Daily News Scraper
+
+on:
+  # Run every day at 01:00 UTC (09:00 MYT)
+  schedule:
+    - cron: "0 1 * * *"
+
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Date to scrape (YYYY-MM-DD). Leave blank for today (MYT)."
+        required: false
+        default: ""
+      no_summarize:
+        description: "Skip AI summarisation (saves API costs)"
+        required: false
+        type: boolean
+        default: false
+      force:
+        description: "Re-scrape even if data already exists for that date"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write  # needed to commit data/ files back to the repo
+
+jobs:
+  scrape:
+    name: Scrape & Summarise News
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout ────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so git push works correctly
+          fetch-depth: 1
+
+      # ── 2. Python ─────────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      # ── 3. Run scraper ─────────────────────────────────────────────────────
+      - name: Run scraper
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          ARGS=""
+
+          # Optional date override
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            ARGS="$ARGS --date ${{ github.event.inputs.date }}"
+          fi
+
+          # Optional flags
+          if [ "${{ github.event.inputs.no_summarize }}" = "true" ]; then
+            ARGS="$ARGS --no-summarize"
+          fi
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+
+          python scripts/scraper.py $ARGS
+
+      # ── 4. Commit updated data files ───────────────────────────────────────
+      - name: Commit and push data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No new data to commit."
+          else
+            DATE_LABEL=$(date -u +"%Y-%m-%d")
+            git commit -m "data: news update ${DATE_LABEL} [skip ci]"
+            git push
+          fi

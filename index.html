@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MY News Digest — Malaysia & SEA</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>" />
+</head>
+<body>
+
+  <!-- ── Header ────────────────────────────────────────────────────── -->
+  <header class="header">
+    <div class="header-left">
+      <span class="header-logo">📰</span>
+      <div class="header-titles">
+        <h1 class="header-title">MY News Digest</h1>
+        <span class="header-subtitle">Malaysia &amp; Southeast Asia</span>
+      </div>
+    </div>
+
+    <div class="header-controls">
+      <div class="date-nav">
+        <button class="btn-icon" id="btnPrevDay" title="Previous day" aria-label="Previous day">&#8592;</button>
+        <select id="datePicker" class="date-select" aria-label="Select date"></select>
+        <button class="btn-icon" id="btnNextDay" title="Next day" aria-label="Next day">&#8594;</button>
+        <button class="btn-today" id="btnToday" title="Jump to latest">Latest</button>
+      </div>
+      <div class="header-meta" id="lastUpdated"></div>
+    </div>
+  </header>
+
+  <!-- ── Layout ────────────────────────────────────────────────────── -->
+  <div class="layout">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <nav class="cat-nav" id="catNav" role="navigation" aria-label="Categories">
+        <!-- Injected by JS -->
+      </nav>
+
+      <div class="sidebar-stats" id="sidebarStats">
+        <!-- Injected by JS -->
+      </div>
+
+      <div class="sidebar-actions">
+        <a id="ghActionsLink" class="btn-action" target="_blank" rel="noopener" style="display:none">
+          ⚡ Trigger scrape
+        </a>
+        <button class="btn-action" id="btnRefresh">↻ Refresh data</button>
+      </div>
+    </aside>
+
+    <!-- Main content -->
+    <main class="main" id="main">
+
+      <!-- Loading state -->
+      <div class="loading-state" id="loadingState">
+        <div class="spinner"></div>
+        <p>Loading news&hellip;</p>
+      </div>
+
+      <!-- Empty / setup state -->
+      <div class="empty-state" id="emptyState" style="display:none">
+        <div class="empty-icon">📭</div>
+        <h2>No data yet</h2>
+        <p>Run the scraper to populate today's news:</p>
+        <pre class="code-block">python scripts/scraper.py</pre>
+        <p>Or trigger the GitHub Actions workflow manually.<br>
+        See <strong>README.md</strong> for full setup instructions.</p>
+      </div>
+
+      <!-- Error state -->
+      <div class="error-state" id="errorState" style="display:none">
+        <div class="empty-icon">⚠️</div>
+        <h2 id="errorTitle">Something went wrong</h2>
+        <p id="errorMsg"></p>
+      </div>
+
+      <!-- Content area (shown when data loads) -->
+      <div id="contentArea" style="display:none">
+
+        <!-- Search bar -->
+        <div class="search-bar">
+          <span class="search-icon">🔍</span>
+          <input
+            type="search"
+            id="searchInput"
+            class="search-input"
+            placeholder="Search articles…"
+            aria-label="Search articles"
+          />
+          <span class="search-count" id="searchCount"></span>
+        </div>
+
+        <!-- AI Briefing card -->
+        <section class="briefing-card" id="briefingCard" aria-label="AI Daily Briefing">
+          <div class="briefing-header">
+            <span class="briefing-badge">🤖 AI Briefing</span>
+            <span class="briefing-category" id="briefingLabel"></span>
+          </div>
+          <p class="briefing-text" id="briefingText"></p>
+        </section>
+
+        <!-- Article grid -->
+        <section class="articles-section">
+          <div class="articles-header">
+            <h2 class="articles-title" id="articlesTitle"></h2>
+            <span class="articles-count" id="articlesCount"></span>
+          </div>
+          <div class="article-grid" id="articleGrid" role="list">
+            <!-- Cards injected by JS -->
+          </div>
+          <div class="no-results" id="noResults" style="display:none">
+            <p>No articles match your search. Try a different keyword.</p>
+          </div>
+        </section>
+
+      </div>
+    </main>
+  </div>
+
+  <!-- ── Article modal ──────────────────────────────────────────────── -->
+  <div class="modal-backdrop" id="modalBackdrop" style="display:none" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal">
+      <button class="modal-close" id="modalClose" aria-label="Close">&times;</button>
+      <div class="modal-source" id="modalSource"></div>
+      <h2 class="modal-title" id="modalTitle"></h2>
+      <div class="modal-meta" id="modalMeta"></div>
+      <p class="modal-summary" id="modalSummary"></p>
+      <a class="modal-link" id="modalLink" target="_blank" rel="noopener noreferrer">
+        Read full article ↗
+      </a>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
