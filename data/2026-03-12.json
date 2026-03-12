@@ -1,0 +1,477 @@
+{
+  "date": "2026-03-12",
+  "generated_at": "2026-03-12T05:19:54.037486+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "1d61a1102f16",
+          "title": "Booking.com Promo Codes and Deals: Up to 20% Off",
+          "url": "https://www.wired.com/story/booking-com-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-12T05:04:00+00:00",
+          "summary": "Enjoy big savings on your next adventure with our Booking.com coupons and handpicked travel deals.",
+          "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg"
+        },
+        {
+          "id": "9d42ade5b946",
+          "title": "Expedia Coupons and Deals: Up to 75% Off Select Trips",
+          "url": "https://www.wired.com/story/expedia-coupon/",
+          "source": "Wired",
+          "published": "2026-03-12T05:02:00+00:00",
+          "summary": "Book your next getaway with Expedia and get up to 75%off your stay, with or without a promo code.",
+          "image": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg"
+        },
+        {
+          "id": "282bf7c9358a",
+          "title": "Birdfy Discount Code: Save Up to 40% on Smart Bird Feeders",
+          "url": "https://www.wired.com/story/birdfy-discount-code/",
+          "source": "Wired",
+          "published": "2026-03-12T05:01:00+00:00",
+          "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
+          "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png"
+        },
+        {
+          "id": "17d7cc94824c",
+          "title": "Chinese brain interface startup Gestala raises $21M just two months after launch",
+          "url": "https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/",
+          "source": "TechCrunch",
+          "published": "2026-03-12T04:00:00+00:00",
+          "summary": "This is the largest early-stage funding in China’s brain computer interface industry.",
+          "image": null
+        },
+        {
+          "id": "6f24104efb3f",
+          "title": "What to Do in Dumbo If You’re Here for Business (2026)",
+          "url": "https://www.wired.com/story/the-wired-guide-to-dumbo-for-business-travelers/",
+          "source": "Wired",
+          "published": "2026-03-12T01:33:00+00:00",
+          "summary": "The Big Apple has had a tech boom in the past few years—here’s where to stay, play, eat, and work in the city’s tech-dense Dumbo neighborhood.",
+          "image": "https://media.wired.com/photos/690d30c5fc40524223ebe1f4/master/pass/CITY%20GUIDE%20Dumbo.png"
+        },
+        {
+          "id": "6c2cd5633369",
+          "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+          "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+          "source": "TechCrunch",
+          "published": "2026-03-11T23:35:03+00:00",
+          "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+          "image": null
+        },
+        {
+          "id": "7f62587ea925",
+          "title": "Nuro is testing its autonomous vehicle tech on Tokyo’s streets",
+          "url": "https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/",
+          "source": "TechCrunch",
+          "published": "2026-03-11T23:09:38+00:00",
+          "summary": "Nuro began testing its self-driving software on public roads in Tokyo, marking the first international expansion for the AV startup.",
+          "image": null
+        },
+        {
+          "id": "45df3fe11e14",
+          "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android",
+          "url": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
+          "source": "Ars Technica",
+          "published": "2026-03-11T23:00:36+00:00",
+          "summary": "Google has been tinkering with porting its Play Games platform to Windows for several years, but it started getting serious about it last year. Now, with the 2026 Game Developer Conference underway, Google has announced a new batch of updates for its desktop gaming efforts. The c",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Play-Games-PC-1-500x500.jpg"
+        },
+        {
+          "id": "8dcfa6891777",
+          "title": "Google Play is adding new paid and PC games, game trials, community posts, and more",
+          "url": "https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/",
+          "source": "TechCrunch",
+          "published": "2026-03-11T23:00:00+00:00",
+          "summary": "The updates indicate that Google is focused on transforming Google Play into an enhanced gaming hub.",
+          "image": null
+        },
+        {
+          "id": "622b36b98f17",
+          "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+          "source": "The Verge",
+          "published": "2026-03-11T22:51:53+00:00",
+          "summary": "Journalist Julia Angwin is one of the writers whose likeness was used in Grammarly’s “expert review” feature. | Photo: Eóin Noonan / Sportsfile via Getty Images For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestion",
+          "image": null
+        },
+        {
+          "id": "0648a5bd1999",
+          "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+          "url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+          "source": "TechCrunch",
+          "published": "2026-03-11T22:51:39+00:00",
+          "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+          "image": null
+        },
+        {
+          "id": "44f49647d04c",
+          "title": "Ride-hailing inDrive acquires Pakistan’s Krave Mart to bolster grocery delivery",
+          "url": "https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/",
+          "source": "TechCrunch",
+          "published": "2026-03-11T22:45:35+00:00",
+          "summary": "inDrive has closed its acquisition of KraveMart, expanding grocery delivery in a market dominated by Foodpanda.",
+          "image": null
+        },
+        {
+          "id": "70145a5888ab",
+          "title": "Zendesk acquires agentic customer service startup Forethought",
+          "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+          "source": "TechCrunch",
+          "published": "2026-03-11T22:41:27+00:00",
+          "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
+          "image": null
+        },
+        {
+          "id": "6eeb0e6161c0",
+          "title": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID",
+          "url": "https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor",
+          "source": "The Verge",
+          "published": "2026-03-11T22:22:33+00:00",
+          "summary": "The folding iPhone might come with an inner display the size of an iPad Mini, according to Bloomberg. Apple's rumored foldable iPhone will come with an iPad-style interface that will allow users to view apps side-by-side, according to a report from Bloomberg 's Mark Gurman . Gurm",
+          "image": null
+        },
+        {
+          "id": "865bc5795e05",
+          "title": "Report: RFK Jr.’s anti-vaccine agenda curbed as GOP realizes it's unpopular",
+          "url": "https://arstechnica.com/health/2026/03/report-trump-admin-trying-to-rein-in-rfk-jr-s-unpopular-anti-vaccine-agenda/",
+          "source": "Ars Technica",
+          "published": "2026-03-11T22:19:27+00:00",
+          "summary": "Health Secretary Robert F. Kennedy Jr.'s relentless anti-vaccine agenda is getting reined in as Republicans warn that further attacks on lifesaving vaccines could harm the party during the midterms, according to a report by The Washington Post . The Post reported Wednesday that K",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2216099156-500x500.jpg"
+        },
+        {
+          "id": "67f658a7941c",
+          "title": "India neobank Fi winds down banking services on its platform",
+          "url": "https://techcrunch.com/2026/03/11/india-neobank-fi-winds-down-banking-services-on-its-platform/",
+          "source": "TechCrunch",
+          "published": "2026-03-11T22:17:44+00:00",
+          "summary": "Fi, founded by former Google Pay executives, is discontinuing banking services over four years after launch.",
+          "image": null
+        },
+        {
+          "id": "da622c944dac",
+          "title": "The South Carolina Measles Outbreak Is Slowing Down",
+          "url": "https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/",
+          "source": "Wired",
+          "published": "2026-03-11T22:12:36+00:00",
+          "summary": "The biggest US measles outbreak in decades may be over sooner than expected.",
+          "image": "https://media.wired.com/photos/69b06741afd392d14ab2c8ea/master/pass/science_measles_GettyImages-2259641016.jpg"
+        },
+        {
+          "id": "938727ea70c5",
+          "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation",
+          "url": "https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/",
+          "source": "Ars Technica",
+          "published": "2026-03-11T22:04:42+00:00",
+          "summary": "It is fairly common for satellite companies to verbally spar over constellations, battling over territory such as preferred orbits and the electromagnetic spectrum for data transmission. The venue for such disputes is often the Federal Communications Commission, which has regulat",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/brendan-carr-500x500-1751402471.jpg"
+        },
+        {
+          "id": "d57ba567a6a1",
+          "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
+          "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+          "source": "TechCrunch",
+          "published": "2026-03-11T22:00:05+00:00",
+          "summary": "This deal could rank as among the streaming giant's largest acquisitions ever.",
+          "image": null
+        },
+        {
+          "id": "099b58e11551",
+          "title": "INC Ransomware Group Holds Healthcare Hostage in Oceania",
+          "url": "https://www.darkreading.com/threat-intelligence/inc-ransomware-healthcare-oceania",
+          "source": "Dark Reading",
+          "published": "2026-03-11T22:00:00+00:00",
+          "summary": "Government agencies, emergency clinics, and others in Australia, New Zealand, and Tonga have had serious run-ins with the prolific ransomware outfit.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt345666426f400d25/69b191d934cdd7dc39b13805/Australia_health-JJ_Gouin-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "f14b1c5dde7e",
+          "title": "How the Iran War Could Jack Up Prices on Store Shelves",
+          "url": "https://www.wired.com/story/how-the-iran-war-could-jack-up-prices-on-store-shelves/",
+          "source": "Wired",
+          "published": "2026-03-11T21:59:00+00:00",
+          "summary": "The Strait of Hormuz, a busy waterway off the coast of Iran, has come to a near standstill. If the war drags on much longer, it could mean higher prices for consumer goods around the world.",
+          "image": "https://media.wired.com/photos/69b1a17dbbfe9fc728a58c39/master/pass/gear_StraitofHormuz_GettyImages-1048419626.jpg"
+        },
+        {
+          "id": "8b8c746583c6",
+          "title": "Some of the best horror games ever made are included in Humble’s latest $15 bundle",
+          "url": "https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam",
+          "source": "The Verge",
+          "published": "2026-03-11T21:50:28+00:00",
+          "summary": "Humble has teamed up with Frictional Games for a new bundle of PC games that pushed the horror genre forward. The bundle includes the Penumbra Collectors Pack , all four Amnesia titles ( The Dark Descent, A Machine for Pigs, The Bunker, and Rebirth ), and Soma , which I consider ",
+          "image": null
+        },
+        {
+          "id": "4e1827396ab9",
+          "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
+          "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+          "source": "TechCrunch",
+          "published": "2026-03-11T21:40:49+00:00",
+          "summary": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
+          "image": null
+        },
+        {
+          "id": "da52a18be696",
+          "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
+          "url": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/",
+          "source": "Ars Technica",
+          "published": "2026-03-11T21:27:16+00:00",
+          "summary": "Researchers say they have uncovered a takedown-resistant botnet of 14,000 routers and other network devices—primarily made by Asus—that have been conscripted into a proxy network that anonymously carries traffic used for cybercrime. The malware—dubbed KadNap—takes hold by exploit",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/GettyImages-926536690-500x500.jpg"
+        },
+        {
+          "id": "12ad722a2abd",
+          "title": "Valve says it will fight New York s loot box lawsuit",
+          "url": "https://www.theverge.com/games/893383/valve-steam-loot-box-gambling-cd2-dota-tf2",
+          "source": "The Verge",
+          "published": "2026-03-11T21:23:35+00:00",
+          "summary": "Valve wants players to know that it plans on fighting New York Attorney General Letitia James' lawsuit, which last month accused the company of promoting \"illegal gambling\" through its in-game loot boxes . In an email sent to Counter-Strike 2 , Dota 2 , and Team Fortress 2 player",
+          "image": null
+        },
+        {
+          "id": "10b32988ef32",
+          "title": "Explain it like I'm 5: Why is everyone on speakerphone in public?",
+          "url": "https://arstechnica.com/culture/2026/03/explain-it-like-im-5-why-is-everyone-on-speakerphone-in-public/",
+          "source": "Ars Technica",
+          "published": "2026-03-11T21:09:12+00:00",
+          "summary": "The key to working at a place like Ars Technica is solid news judgment. I'm talking about the kind of news judgment that knows whether a pet peeve is merely a pet peeve or whether it is, instead, a meaningful example of the Ways that Technology is Changing our World. The differen",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/septa-sign-500x500.jpeg"
+        },
+        {
+          "id": "ebb2a2d38375",
+          "title": "Windows 11's Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April",
+          "url": "https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/",
+          "source": "Ars Technica",
+          "published": "2026-03-11T20:55:50+00:00",
+          "summary": "When Asus and Microsoft launched the ROG Xbox Ally X last summer, it came with a bespoke controller-driven full-screen interface running on top of Windows 11. The handheld was still running Windows under the hood, and you could bring up the typical Windows desktop any time, but i",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/rog-xbox-ally-500x500-1773259666.jpeg"
+        },
+        {
+          "id": "7d0078f7470b",
+          "title": "Quince hits $10B valuation with giant $500M round led by Iconiq",
+          "url": "https://techcrunch.com/2026/03/11/quince-series-e-10b-valuation-with-500m-round-led-by-iconiq/",
+          "source": "TechCrunch",
+          "published": "2026-03-11T20:50:17+00:00",
+          "summary": "E-commerce company Quince has raised another massive round, less than a year after its previous raise.",
+          "image": null
+        },
+        {
+          "id": "a8803b995143",
+          "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
+          "url": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+          "source": "Wired",
+          "published": "2026-03-11T20:45:03+00:00",
+          "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
+          "image": "https://media.wired.com/photos/69b1c8b19fd417e67bc5b525/master/pass/031126-grammarly-AI-experts-1.jpg"
+        },
+        {
+          "id": "8aed77c8bd68",
+          "title": "\"Use a gun\" or \"beat the crap out of him\": AI chatbot urged violence, study finds",
+          "url": "https://arstechnica.com/tech-policy/2026/03/use-a-gun-or-beat-the-crap-out-of-him-ai-chatbot-urged-violence-study-finds/",
+          "source": "Ars Technica",
+          "published": "2026-03-11T20:44:13+00:00",
+          "summary": "An advocacy group said its study of 10 artificial intelligence chatbots found that most of them gave at least some help to users planning violent attacks and that nearly all failed to discourage users from violence. Several chatbot makers say they have made changes to improve saf",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/character-ai-500x500.jpg"
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 13,
+      "briefing": "Today's Race, Religion & Royalty section covers 13 stories.",
+      "articles": [
+        {
+          "id": "1b9a5a309d19",
+          "title": "Thunderstorms, heavy rain forecast in Pahang, Johor and Sarawak until 4pm",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/12/thunderstorms-heavy-rain-forecast-in-pahang-johor-and-sarawak-until-4pm",
+          "source": "The Star Malaysia",
+          "published": "2026-03-12T05:07:00+00:00",
+          "summary": "KUALA LUMPUR: Thunderstorms, heavy rain and strong winds are expected to affect parts of Pahang, Johor and Sarawak until 4pm on Thursday (March 12), according to the Malaysian Meteorological Department (MetMalaysia). Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/12/3809309.jpg"
+        },
+        {
+          "id": "348d774a212c",
+          "title": "Three crew ‘believed trapped’ aboard Thai ship attacked in Gulf",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/03/12/three-crew-believed-trapped-aboard-thai-ship-attacked-in-gulf",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T05:01:00+00:00",
+          "summary": "The Omani navy rescued 20 Thai sailors and is trying to reach three others believed trapped in the engine room. (AFP/Royal Thai Navy pic) BANGKOK: Three crew members were believed to be trapped aboard a Thai bulk carrier that was hit by two projectiles on Wednesday while travelli",
+          "image": null
+        },
+        {
+          "id": "250d72e707f8",
+          "title": "Bukan hanya harga minyak, kerajaan nilai kesan konflik Asia Barat secara menyeluruh",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/12/bukan-hanya-harga-minyak-kerajaan-nilai-kesan-konflik-asia-barat-secara-menyeluruh",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T04:16:12+00:00",
+          "summary": "Menteri Ekonomi Akmal Nasrullah Nasir berkata jawatankuasa khas bagi menilai impak ekonomi, kesan konflik Asia Barat akan mengadakan mesyuarat bersama Jemaah Menteri esok. (Gambar Bernama) PUTRAJAYA: Kerajaan akan menilai konflik Iran-Amerika Syarikat (AS) secara menyeluruh, buka",
+          "image": null
+        },
+        {
+          "id": "516acd8bc8b4",
+          "title": "MyRMK system launched to track 13MP projects, ensure funds reach the people",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/12/myrmk-system-launched-to-track-13mp-projects-ensure-funds-reach-the-people",
+          "source": "The Star Malaysia",
+          "published": "2026-03-12T04:13:00+00:00",
+          "summary": "PUTRAJAYA: With a massive RM611bil in total development commitments under the 13th Malaysia Plan (13MP), the government has rolled out a new digital monitoring platform to ensure these funds translate into real benefits for the people. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/12/3809254.jpg"
+        },
+        {
+          "id": "ab75b3a5ad27",
+          "title": "Study finds racial bias in Klang Valley room rentals",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/12/study-finds-racial-bias-in-klang-valley-room-rentals",
+          "source": "The Star Malaysia",
+          "published": "2026-03-12T04:10:00+00:00",
+          "summary": "complaints with residents in SS2 about houses there being converted into crowded commercial room rentals, causing a nuisance to the neighbourhood. Low Boon Tat/ The Star.",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/12/3809253.jpg"
+        },
+        {
+          "id": "c4b480248c12",
+          "title": "Malaysia to adopt smarter mobility systems to strengthen road connectivity",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/12/malaysia-to-adopt-smarter-mobility-systems-to-strengthen-road-connectivity",
+          "source": "The Star Malaysia",
+          "published": "2026-03-12T04:05:00+00:00",
+          "summary": "-filepic",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/12/3809250.JPG"
+        },
+        {
+          "id": "36e529c3c852",
+          "title": "Five vessels attacked in Gulf, Hormuz as war hits merchant ships",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/03/12/five-vessels-attacked-in-gulf-hormuz-as-war-hits-merchant-ships",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T04:04:03+00:00",
+          "summary": "Smoke seen rising from the Thai bulk carrier Mayuree Naree in the Strait of Hormuz after an attack on Wednesday. (AFP/Royal Thai Navy) DUBAI: Iranian explosive-laden boats appear to have attacked two fuel tankers in Iraqi waters, setting them ablaze and killing one crew member on",
+          "image": null
+        },
+        {
+          "id": "f5155a5b327d",
+          "title": "Timbalan CEO SSM mengaku tak salah terima RM50,000 daripada anak Hamzah",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/12/timbalan-ceo-ssm-mengaku-tak-salah-terima-rm50000-daripada-anak-hamzah",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T03:51:01+00:00",
+          "summary": "Khuzairi Yahaya didakwa mengikut Seksyen 165 Kanun Keseksaan yang membawa hukuman penjara sehingga dua tahun, denda atau kedua-duanya, jika sabit kesalahan. KUALA LUMPUR: Seorang timbalan ketua pegawai eksekutif (CEO) Suruhanjaya Syarikat Malaysia (SSM) mengaku tidak bersalah di ",
+          "image": null
+        },
+        {
+          "id": "a7d5219bc4f5",
+          "title": "LTAT declares 5.35% dividend payout for FY2025",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/12/ltat-declares-5-35-dividend-payout-for-fy2025",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T03:45:52+00:00",
+          "summary": "LTAT chief executive Ashraf Radzi said the returns are the result of a deliberate long-term structural shift in how the fund operates. (LTAT pic) KUALA LUMPUR: The Armed Forces Fund Board (LTAT) has declared a 5.35% dividend for the financial year ended Dec 31, 2025 (FY2025), mar",
+          "image": null
+        },
+        {
+          "id": "382cc54e74ac",
+          "title": "Economy Ministry closely monitoring inflation and supply chain disruptions amid Middle East conflict, says Akmal",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/12/economy-ministry-closely-monitoring-inflation-and-supply-chain-disruptions-amid-middle-east-conflict-says-akmal",
+          "source": "The Star Malaysia",
+          "published": "2026-03-12T03:43:00+00:00",
+          "summary": "PUTRAJAYA: The Economy Ministry is closely monitoring the ongoing conflict in Iran to assess its broader macroeconomic impact on the country, particularly concerning inflation and supply chain disruptions, says Akmal Nasrullah Mohd Nasir Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/12/3809191.jpg"
+        },
+        {
+          "id": "4408a87f4932",
+          "title": "KLIA mula ujian sistem VAMS di Terminal 2",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/12/klia-mula-ujian-sistem-vams-di-terminal-2",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T03:38:51+00:00",
+          "summary": "Sistem baharu ini mengawal aliran masuk dan keluar kenderaan melalui pintu penghalang automatik, dan bayaran dikenakan jika kenderaan menunggu lebih daripada masa ditetapkan. (Gambar MAHB) PETALING JAYA: Ujian sistem pengurusan akses kenderaan (VAMS) kini sedang dijalankan di Ter",
+          "image": null
+        },
+        {
+          "id": "b79d6808811e",
+          "title": "SSM deputy CEO claims trial to receiving cash from Hamzah Zainudin’s son",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/12/ssm-deputy-ceo-claims-trial-to-receiving-cash-from-hamzah-zainudins-son",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T03:34:39+00:00",
+          "summary": "Khuzairi Yahaya was charged under Section 165 of the Penal Code and, if convicted, faces imprisonment of up to two years, a fine, or both. KUALA LUMPUR: A deputy CEO of the Companies Commission of Malaysia (SSM) pleaded not guilty at the sessions court here to a charge of receivi",
+          "image": null
+        },
+        {
+          "id": "de7413ae4b6b",
+          "title": "Criminalising dissent endangers Malaysia’s democratic progress",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/12/criminalising-dissent-endangers-malaysias-democratic-progress",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T03:30:00+00:00",
+          "summary": "From Charles Santiago The recent summoning of civil society actors and commentators for police questioning under allegations of “activity detrimental to parliamentary democracy” raises serious concerns about the direction of democratic freedoms in Malaysia. Most recently, Pushpan",
+          "image": null
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 6,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 6 stories.",
+      "articles": [
+        {
+          "id": "348d774a212c",
+          "title": "Three crew ‘believed trapped’ aboard Thai ship attacked in Gulf",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/03/12/three-crew-believed-trapped-aboard-thai-ship-attacked-in-gulf",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T05:01:00+00:00",
+          "summary": "The Omani navy rescued 20 Thai sailors and is trying to reach three others believed trapped in the engine room. (AFP/Royal Thai Navy pic) BANGKOK: Three crew members were believed to be trapped aboard a Thai bulk carrier that was hit by two projectiles on Wednesday while travelli",
+          "image": null
+        },
+        {
+          "id": "250d72e707f8",
+          "title": "Bukan hanya harga minyak, kerajaan nilai kesan konflik Asia Barat secara menyeluruh",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/12/bukan-hanya-harga-minyak-kerajaan-nilai-kesan-konflik-asia-barat-secara-menyeluruh",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T04:16:12+00:00",
+          "summary": "Menteri Ekonomi Akmal Nasrullah Nasir berkata jawatankuasa khas bagi menilai impak ekonomi, kesan konflik Asia Barat akan mengadakan mesyuarat bersama Jemaah Menteri esok. (Gambar Bernama) PUTRAJAYA: Kerajaan akan menilai konflik Iran-Amerika Syarikat (AS) secara menyeluruh, buka",
+          "image": null
+        },
+        {
+          "id": "516acd8bc8b4",
+          "title": "MyRMK system launched to track 13MP projects, ensure funds reach the people",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/12/myrmk-system-launched-to-track-13mp-projects-ensure-funds-reach-the-people",
+          "source": "The Star Malaysia",
+          "published": "2026-03-12T04:13:00+00:00",
+          "summary": "PUTRAJAYA: With a massive RM611bil in total development commitments under the 13th Malaysia Plan (13MP), the government has rolled out a new digital monitoring platform to ensure these funds translate into real benefits for the people. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/12/3809254.jpg"
+        },
+        {
+          "id": "36e529c3c852",
+          "title": "Five vessels attacked in Gulf, Hormuz as war hits merchant ships",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/03/12/five-vessels-attacked-in-gulf-hormuz-as-war-hits-merchant-ships",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T04:04:03+00:00",
+          "summary": "Smoke seen rising from the Thai bulk carrier Mayuree Naree in the Strait of Hormuz after an attack on Wednesday. (AFP/Royal Thai Navy) DUBAI: Iranian explosive-laden boats appear to have attacked two fuel tankers in Iraqi waters, setting them ablaze and killing one crew member on",
+          "image": null
+        },
+        {
+          "id": "b79d6808811e",
+          "title": "SSM deputy CEO claims trial to receiving cash from Hamzah Zainudin’s son",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/12/ssm-deputy-ceo-claims-trial-to-receiving-cash-from-hamzah-zainudins-son",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T03:34:39+00:00",
+          "summary": "Khuzairi Yahaya was charged under Section 165 of the Penal Code and, if convicted, faces imprisonment of up to two years, a fine, or both. KUALA LUMPUR: A deputy CEO of the Companies Commission of Malaysia (SSM) pleaded not guilty at the sessions court here to a charge of receivi",
+          "image": null
+        },
+        {
+          "id": "de7413ae4b6b",
+          "title": "Criminalising dissent endangers Malaysia’s democratic progress",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/12/criminalising-dissent-endangers-malaysias-democratic-progress",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-12T03:30:00+00:00",
+          "summary": "From Charles Santiago The recent summoning of civil society actors and commentators for police questioning under allegations of “activity detrimental to parliamentary democracy” raises serious concerns about the direction of democratic freedoms in Malaysia. Most recently, Pushpan",
+          "image": null
+        }
+      ]
+    }
+  }
+}
