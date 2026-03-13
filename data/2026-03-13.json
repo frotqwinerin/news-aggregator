@@ -1,0 +1,531 @@
+{
+  "date": "2026-03-13",
+  "generated_at": "2026-03-13T05:17:26.351873+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "9355da23077c",
+          "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
+          "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
+          "source": "TechCrunch",
+          "published": "2026-03-13T05:00:00+00:00",
+          "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
+          "image": null
+        },
+        {
+          "id": "c97b0f984e50",
+          "title": "Truecaller now lets you hang up on scammers — on behalf of your family",
+          "url": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
+          "source": "TechCrunch",
+          "published": "2026-03-13T04:30:00+00:00",
+          "summary": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed. The company, ",
+          "image": null
+        },
+        {
+          "id": "2e2e03bed31a",
+          "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+          "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+          "source": "TechCrunch",
+          "published": "2026-03-12T23:25:39+00:00",
+          "summary": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role ",
+          "image": null
+        },
+        {
+          "id": "85fd28677db1",
+          "title": "The best Bluetooth trackers for Apple and Android phones",
+          "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+          "source": "The Verge",
+          "published": "2026-03-12T22:30:35+00:00",
+          "summary": "Bluetooth trackers come in all shapes and sizes. | ﻿Illustration: Cath Virginia / The Verge Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest",
+          "image": null
+        },
+        {
+          "id": "408ad0a6068b",
+          "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+          "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+          "source": "TechCrunch",
+          "published": "2026-03-12T22:25:50+00:00",
+          "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+          "image": null
+        },
+        {
+          "id": "aeb248b6f947",
+          "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+          "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+          "source": "MIT Tech Review",
+          "published": "2026-03-12T22:23:34+00:00",
+          "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI",
+          "image": null
+        },
+        {
+          "id": "8d6d028621db",
+          "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
+          "url": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
+          "source": "Ars Technica",
+          "published": "2026-03-12T22:18:11+00:00",
+          "summary": "Within hours of the US and Israel launching airstrikes on Iran two weeks ago, security professionals warned organizations around the world to be on heightened watch for destructive retaliatory hacks. On Wednesday, the predictions appeared to come true as Stryker, a multinational ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-500x500.jpg"
+        },
+        {
+          "id": "058b5cf12884",
+          "title": "Google Chrome is coming to Arm-powered Linux devices later this year",
+          "url": "https://www.theverge.com/tech/894095/google-chrome-for-arm-linux",
+          "source": "The Verge",
+          "published": "2026-03-12T21:33:04+00:00",
+          "summary": "You can download Chrome for Linux, and you can download Chrome for Arm devices - but if you've got a computer running Linux on Arm, not so much ! Now, Google says it's finally bringing Chrome to ARM64 Linux machines in Q2 2026, following Chrome for Arm Macs in 2020 and Chrome for",
+          "image": null
+        },
+        {
+          "id": "c11f3899f67d",
+          "title": "Canadian retail giant Loblaw notifies customers of data breach",
+          "url": "https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/",
+          "source": "BleepingComputer",
+          "published": "2026-03-12T21:32:21+00:00",
+          "summary": "Still, out of an abundance of caution, Loblaw says it has automatically logged out all customers from their accounts. Account holders who need to access the company's digital services will have to log in again. [...]",
+          "image": null
+        },
+        {
+          "id": "0030a503626c",
+          "title": "Iran MOIS Colludes With Criminals to Boost Cyberattacks",
+          "url": "https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks",
+          "source": "Dark Reading",
+          "published": "2026-03-12T21:11:20+00:00",
+          "summary": "Iranian APTs have long pretended to be cybercriminal groups. Now they're working with actual cybercriminal groups.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt984d5f4e8378926b/69b2f7fe22822bf9496407b1/Khamenei_Khatib-ZUMA_Press_Inc.-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "f91b0d83bad7",
+          "title": "Live Nation director boasted of gouging ticket buyers, \"robbing them blind\"",
+          "url": "https://arstechnica.com/tech-policy/2026/03/live-nation-director-boasted-of-gouging-ticket-buyers-robbing-them-blind/",
+          "source": "Ars Technica",
+          "published": "2026-03-12T20:47:58+00:00",
+          "summary": "Newly unsealed documents show that a Live Nation regional director boasted of gouging ticket buyers and \"robbing them blind\" with fees for ancillary services such as slight upgrades to parking. Live Nation has tried to exclude Slack messages from a trial that seeks a breakup of L",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/live-nation-500x500-1773346298.jpg"
+        },
+        {
+          "id": "cd6fc989848c",
+          "title": "England Hockey investigating ransomware data breach",
+          "url": "https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/",
+          "source": "BleepingComputer",
+          "published": "2026-03-12T20:37:16+00:00",
+          "summary": "England Hockey, the governing body for field hockey in England, is investigating a potential data breach after the AiLock ransomware gang listed it as a victim on its data leak site. [...]",
+          "image": null
+        },
+        {
+          "id": "ee3306745f15",
+          "title": "Commercial Spyware Opponents Fear US Policy Shifting",
+          "url": "https://www.darkreading.com/threat-intelligence/commercial-spyware-opponents-fear-us-policy-shifting",
+          "source": "Dark Reading",
+          "published": "2026-03-12T20:35:25+00:00",
+          "summary": "Rescinded sanctions and reactivated contracts have created confusion about the Trump administration's spyware policy and where it draws the line.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b3b8c88410c0a0b/69b2dbc1f31518032934f25d/nso_EddieGerald_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "fb33fedc7b43",
+          "title": "HP has new incentive to stop blocking third-party ink in its printers",
+          "url": "https://arstechnica.com/gadgets/2026/03/hp-has-new-incentive-to-stop-blocking-third-party-ink-in-its-printers/",
+          "source": "Ars Technica",
+          "published": "2026-03-12T20:29:19+00:00",
+          "summary": "Members of the International Imaging Technology Council (Int’l ITC) are calling out HP for issuing firmware updates that brick third-party ink and toner functionality in its printers. HP calls this Dynamic Security and has been doing it for years ; however, the Int'l ITC is takin",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-458639693-500x500.jpg"
+        },
+        {
+          "id": "e23ab7d5f05b",
+          "title": "Channel Surfer lets you watch YouTube like it’s old-school cable TV",
+          "url": "https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/",
+          "source": "TechCrunch",
+          "published": "2026-03-12T20:27:17+00:00",
+          "summary": "The web app lets you turn on YouTube and surf channels like you're watching cable TV in the '90s.",
+          "image": null
+        },
+        {
+          "id": "e8667601fbe9",
+          "title": "Why Rivian is holding the $45,000 base model R2 until ‘late 2027’",
+          "url": "https://techcrunch.com/2026/03/12/why-rivian-is-holding-the-45000-base-model-r2-until-late-2027/",
+          "source": "TechCrunch",
+          "published": "2026-03-12T20:24:02+00:00",
+          "summary": "Rivian spent the last two years promoting the R2 as a $45,000 SUV. But buyers won't be able to pay that price until late next year -- if at all.",
+          "image": null
+        },
+        {
+          "id": "2d4dc2e80c14",
+          "title": "John Solly Is the DOGE Operative Accused of Planning to Take Social Security Data to His New Job",
+          "url": "https://www.wired.com/story/john-solly-doge-operative-accused-social-security-data-leidos/",
+          "source": "Wired",
+          "published": "2026-03-12T20:15:41+00:00",
+          "summary": "A whistleblower complaint alleges John Solly claimed to have stored highly sensitive Social Security data on a thumb drive. Solly and Leidos, his current employer, strongly deny the allegations.",
+          "image": "https://media.wired.com/photos/69b1e2dbc3f018fe4f48986f/master/pass/pol_DOGESSA_GettyImages-2205899439.jpg"
+        },
+        {
+          "id": "eeb727bd91ee",
+          "title": "AI-generated Slopoly malware used in Interlock ransomware attack",
+          "url": "https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/",
+          "source": "BleepingComputer",
+          "published": "2026-03-12T20:01:27+00:00",
+          "summary": "A new malware strain dubbed Slopoly, likely created using generative AI tools, allowed a threat actor to remain on a compromised server for more than a week and steal data in an Interlock ransomware attack. [...]",
+          "image": null
+        },
+        {
+          "id": "013668783c9e",
+          "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+          "source": "Wired",
+          "published": "2026-03-12T19:48:21+00:00",
+          "summary": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
+          "image": "https://media.wired.com/photos/69b1c94d9fd417e67bc5b52b/master/pass/Uncanny-Valley-Anthropic-vs-DoD-Business-2256654494.jpg"
+        },
+        {
+          "id": "9effa2cadda8",
+          "title": "What it was like to watch grieving parents stare down Mark Zuckerberg in court",
+          "url": "https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube",
+          "source": "The Verge",
+          "published": "2026-03-12T18:58:58+00:00",
+          "summary": "Around a dozen parents huddled in the dim hallway outside the courtroom in February, nervously gripping paper tickets. They were glaring at a gray tote bag held by a member of the court staff - the one who'd determine, by lottery, if they made it inside. Pinned on bags and coats,",
+          "image": null
+        },
+        {
+          "id": "e03b0e7c5e01",
+          "title": "Trump's DOJ is not falling for Sam Bankman-Fried's MAGA makeover on X",
+          "url": "https://arstechnica.com/tech-policy/2026/03/trumps-doj-is-not-falling-for-sam-bankman-frieds-maga-makeover-on-x/",
+          "source": "Ars Technica",
+          "published": "2026-03-12T18:58:07+00:00",
+          "summary": "Ever since Donald Trump took office and declared himself a \"pro-crypto president,\" FTX's disgraced founder, Sam Bankman-Fried, has been working to convince the administration that he's a Republican now. The former Democratic megadonor apparently hopes that a right-wing pivot migh",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1258714131-500x500.jpg"
+        },
+        {
+          "id": "018e998c072a",
+          "title": "The original AirTag is the cheapest it’s ever been",
+          "url": "https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale",
+          "source": "The Verge",
+          "published": "2026-03-12T18:50:23+00:00",
+          "summary": "The original AirTags are still great value, especially now they’re over half off. | Photo by Vjeran Pavic / The Verge Despite the fact Apple released a new AirTag in January, the first-generation AirTag is still a top-notch tracker if you’re embedded in Apple’s ecosystem. And rig",
+          "image": null
+        },
+        {
+          "id": "ab552c49bb90",
+          "title": "KPop Demon Hunters is getting a sequel, obviously",
+          "url": "https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel",
+          "source": "The Verge",
+          "published": "2026-03-12T18:45:32+00:00",
+          "summary": "The girl group is coming back. Get ready to get even more K-pop, demonier, and as huntery as possible. Netflix's smash-hit, Oscar-nominated animated film KPop Demon Hunters is returning for a sequel, with the fictional Korean girl group HUNTR/X coming back to lay down pop hits an",
+          "image": null
+        },
+        {
+          "id": "e1b01d9008fb",
+          "title": "Substack launches a built-in recording studio",
+          "url": "https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/",
+          "source": "TechCrunch",
+          "published": "2026-03-12T18:24:18+00:00",
+          "summary": "Substack creators can pre-record video conversations with up to two guests, then publish directly on the platform.",
+          "image": null
+        },
+        {
+          "id": "7c1b491c66f3",
+          "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+          "url": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+          "source": "TechCrunch",
+          "published": "2026-03-12T18:20:33+00:00",
+          "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+          "image": null
+        },
+        {
+          "id": "90ff0f7ce64e",
+          "title": "Google Is Not Ruling Out Ads in Gemini",
+          "url": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+          "source": "Wired",
+          "published": "2026-03-12T18:15:00+00:00",
+          "summary": "WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.",
+          "image": "https://media.wired.com/photos/69af5d1bac57452caf2d27d4/master/pass/Model-Behavior-How-AI-Is-Changing-Googles-Advertising-Business.jpg"
+        },
+        {
+          "id": "7d60438ad9ce",
+          "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+          "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+          "source": "TechCrunch",
+          "published": "2026-03-12T18:00:00+00:00",
+          "summary": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+          "image": null
+        },
+        {
+          "id": "00f32951d6c2",
+          "title": "US Lawmakers Move to Kill the FBI’s Warrantless Wiretap Access",
+          "url": "https://www.wired.com/story/us-lawmakers-move-to-kill-the-fbis-warrantless-wiretap-access/",
+          "source": "Wired",
+          "published": "2026-03-12T18:00:00+00:00",
+          "summary": "A bipartisan bill would force the FBI to get a warrant to read Americans’ messages and ban the federal purchase of commercial data on US residents ahead of a critical April deadline.",
+          "image": "https://media.wired.com/photos/69b2d3ec462d71631c0d928b/master/pass/GettyImages-2259627298.jpg"
+        },
+        {
+          "id": "7ee7d2ef3ea0",
+          "title": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
+          "url": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
+          "source": "The Verge",
+          "published": "2026-03-12T17:59:32+00:00",
+          "summary": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages. You can toggle on the auto-",
+          "image": null
+        },
+        {
+          "id": "1a792a4f8369",
+          "title": "Lucid announces midsize EV platform, says profitability lies with SUVs",
+          "url": "https://arstechnica.com/cars/2026/03/lucid-announces-midsize-ev-platform-says-profitability-lies-with-suvs/",
+          "source": "Ars Technica",
+          "published": "2026-03-12T17:54:35+00:00",
+          "summary": "Lucid's entry into the highly competitive, high-volume midsize SUV market will be key to achieving profitability, the company told investors today. And it's going to do that with a trio of electric SUVs that will use its new midsize EV platform, which it says has been engineered ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/CUV_HARNESS-500x500.jpg"
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 15,
+      "briefing": "Today's Race, Religion & Royalty section covers 15 stories.",
+      "articles": [
+        {
+          "id": "6f9f0a807dde",
+          "title": "Police called me in as witness, not suspect, says academic",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/13/police-called-me-in-as-witness-not-suspect-says-academic",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T05:12:31+00:00",
+          "summary": "Syaza Shukri said the Political Science Students’ Association had incorrectly reported that Bukit Aman summoned her and several other people under suspicion of ‘activity detrimental to parliamentary democracy’. (Facebook pic) PETALING JAYA: Political commentator Syaza Shukri says",
+          "image": null
+        },
+        {
+          "id": "ad3b919db0f7",
+          "title": "Trio nabbed over threats",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/13/trio-nabbed-over-threats",
+          "source": "The Star Malaysia",
+          "published": "2026-03-13T05:03:00+00:00",
+          "summary": "KUALA LUMPUR: Three men, believed to be loan sharks, were detained for allegedly making threats against a victim. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/13/3811401.jpg"
+        },
+        {
+          "id": "241efe40ee8d",
+          "title": "Enough petrol for Hari Raya, says Amir Hamzah",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/13/enough-petrol-for-hari-raya-says-amir-hamzah",
+          "source": "The Star Malaysia",
+          "published": "2026-03-13T05:00:00+00:00",
+          "summary": "PUTRAJAYA: Petrol supplies are sufficient for the upcoming Hari Raya Aidilfitri season and the public should not worry about dry pumps, says Finance Minister II Datuk Seri Amir Hamzah Azizan. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/13/3811396.jpg"
+        },
+        {
+          "id": "41787221aa25",
+          "title": "Penang DCM, religious council threaten to sue Chegubard, PAS leaders for defamation",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/13/penang-dcm-religious-council-threaten-to-sue-chegubard-pas-leaders-for-defamation",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T04:46:36+00:00",
+          "summary": "Penang DCM I Mohamad Abdul Khalid with members of the state’s Islamic religious council at the press conference today. He said letters of demand had been served to Bersatu’s Badrul Hisham Shaharin and three state PAS leaders. GEORGE TOWN: Penang deputy chief I Mohamad Abdul Hamid",
+          "image": null
+        },
+        {
+          "id": "b05b728379a7",
+          "title": "Penang DCM slams malicious, defamatory claims on land deal, scholarships and overseas trips",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/13/penang-dcm-slams-039malicious-defamatory039-claims-on-land-deal-scholarships-and-overseas-trips",
+          "source": "The Star Malaysia",
+          "published": "2026-03-13T04:40:00+00:00",
+          "summary": "GEORGE TOWN: Penang Deputy Chief Minister I Datuk Mohamad Abdul Hamid says the allegations levelled against him, the Penang State Islamic Religious Council (MAINPP) and Zakat MAINPP are malicious claims intended to create negative public perception. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/13/3811378.jpg"
+        },
+        {
+          "id": "8aca64eda641",
+          "title": "Soaring oil prices push Malaysia’s fuel subsidy bill into the billions",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/13/soaring-oil-prices-push-malaysias-fuel-subsidy-bill-into-the-billions",
+          "source": "The Star Malaysia",
+          "published": "2026-03-13T04:29:00+00:00",
+          "summary": "KUALA LUMPUR, March 9 -- Second Finance Minister Datuk Seri Amir Hamzah Azizan delivers a speech at the 2nd ASEAN Banking & Finance Summit 2026 today. --fotoBERNAMA (2026) COPYRIGHT RESERVED",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/13/3811369.jpg"
+        },
+        {
+          "id": "ca2c0f8dda5d",
+          "title": "Stadium Nasional Bukit Jalil dinamakan TM Stadium Nasional",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/13/stadium-nasional-bukit-jalil-dinamakan-tm-stadium-nasional",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T04:09:59+00:00",
+          "summary": "Penjenamaan semula Stadium Nasional disertai komitmen meningkatkan aspek kelestarian serta menaik taraf kemudahan bagi memastikan ia kekal sesuai menjadi venue acara sukan dan hiburan bertaraf dunia. (Gambar Bernama) PETALING JAYA: Stadium Nasional Bukit Jalil kini dinamakan semu",
+          "image": null
+        },
+        {
+          "id": "814f6e001d5d",
+          "title": "Bukit Jalil National Stadium renamed TM National Stadium",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/13/bukit-jalil-national-stadium-renamed-tm-national-stadium",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T03:52:22+00:00",
+          "summary": "The renaming of the national stadium comes with a commitment to enhance sustainability and upgrade facilities to ensure it remains a suitable venue for hosting world-class sporting and entertainment events. (Bernama pic) PETALING JAYA: The Bukit Jalil National Stadium has been re",
+          "image": null
+        },
+        {
+          "id": "f90e73e9da1a",
+          "title": "Sistem O&G bersepadu lindungi ekonomi daripada kejutan global, kata penganalisis",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/13/sistem-og-bersepadu-lindungi-ekonomi-daripada-kejutan-global-kata-penganalisis",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T03:46:19+00:00",
+          "summary": "Petronas mengurus aktiviti penerokaan dan pengeluaran huluan, menyelia operasi penapisan serta petrokimia, terlibat dalam pasaran gas asli cecair (LNG) global dan mengekalkan rangkaian perdagangan antarabangsa. PETALING JAYA: Industri minyak dan gas Malaysia yang dibangunkan seca",
+          "image": null
+        },
+        {
+          "id": "edc0cd858700",
+          "title": "Pengarah syarikat didakwa kemuka tuntutan palsu lebih RM4.2 juta",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/13/pengarah-syarikat-didakwa-kemuka-tuntutan-palsu-lebih-rm4-2-juta",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T03:34:29+00:00",
+          "summary": "Tertuduh, Sohpian Ariffin, 46, mengaku tidak bersalah di Mahkamah Sesyen Kuala Lumpur atas tiga pertuduhan mengemukakan dokumen tuntutan palsu berhubung baucar bayaran berjumlah lebih RM4.2 juta kepada sebuah agensi berkaitan kerajaan. KUALA LUMPUR: Seorang pengarah syarikat meng",
+          "image": null
+        },
+        {
+          "id": "265ae21d6242",
+          "title": "Malaysia shows compassion, competence with wartime repatriation",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/13/malaysia-shows-compassion-competence-with-wartime-repatriation",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T03:30:17+00:00",
+          "summary": "The arrival of 163 Malaysians and seven foreign family members at the Kuala Lumpur International Airport on March 11 represents more than a routine evacuation. It is a reminder that, in times of crisis, a government s ultimate responsibility is to protect its citizens lives, wher",
+          "image": null
+        },
+        {
+          "id": "9899dcfb57fc",
+          "title": "Agrobank rai keunikan kanak-kanak autisme menerusi video raya ‘Maaf saya…’",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/13/agrobank-rai-keunikan-kanak-kanak-autisme-menerusi-video-raya-maaf-saya",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T03:23:49+00:00",
+          "summary": "Ketua Pegawai Eksekutif Kumpulan Agrobank Tengku Ahmad Badli Shah Raja Hussin dan Timbalan Menteri Pertanian dan Keterjaminan Makanan Chan Foong Hin menyempurnakan pelancaran video raya korporat Maaf Saya di Kuala Lumpur semalam. KUALA LUMPUR: Agrobank tampil dengan kelainan deng",
+          "image": null
+        },
+        {
+          "id": "2830f3167177",
+          "title": "Malaysia condemns closure of Al-Aqsa Mosque by Israel",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/13/malaysia-condemns-closure-of-al-aqsa-mosque-by-israel-says-minister",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T03:14:04+00:00",
+          "summary": "Foreign minister Mohamad Hasan and his counterparts from eight other countries issued a joint statement yesterday, urging Israel to immediately stop closing the entrances to the Al-Aqsa Mosque compound. SEREMBAN: Malaysia has described Israel’s move to close the Al-Aqsa Mosque as",
+          "image": null
+        },
+        {
+          "id": "537de69c24e1",
+          "title": "Thai-flagged Cargo Vessel Hit By Iranian Projectiles in Strait of Hormuz",
+          "url": "https://thediplomat.com/2026/03/thai-flagged-cargo-vessel-hit-by-iranian-projectiles-in-strait-of-hormuz/",
+          "source": "The Diplomat",
+          "published": "2026-03-12T02:15:00+00:00",
+          "summary": "The Royal Thai Navy says that three members of the 23-person crew remain unaccounted for after yesterday's attack.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-12-112603.jpg"
+        },
+        {
+          "id": "39e5691fa858",
+          "title": "Southeast Asia Reels From Middle East Oil Supply Shortages",
+          "url": "https://thediplomat.com/2026/03/southeast-asia-reels-from-middle-east-oil-supply-shortages/",
+          "source": "The Diplomat",
+          "published": "2026-03-12T00:23:00+00:00",
+          "summary": "From Manila to Hanoi, the region's governments are taking steps to absorb supply shocks and depress demand for increasingly scarce fuels.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2022/09/thediplomat_2022-09-20-071450.jpg"
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 10,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 10 stories.",
+      "articles": [
+        {
+          "id": "6f9f0a807dde",
+          "title": "Police called me in as witness, not suspect, says academic",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/13/police-called-me-in-as-witness-not-suspect-says-academic",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T05:12:31+00:00",
+          "summary": "Syaza Shukri said the Political Science Students’ Association had incorrectly reported that Bukit Aman summoned her and several other people under suspicion of ‘activity detrimental to parliamentary democracy’. (Facebook pic) PETALING JAYA: Political commentator Syaza Shukri says",
+          "image": null
+        },
+        {
+          "id": "ad3b919db0f7",
+          "title": "Trio nabbed over threats",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/13/trio-nabbed-over-threats",
+          "source": "The Star Malaysia",
+          "published": "2026-03-13T05:03:00+00:00",
+          "summary": "KUALA LUMPUR: Three men, believed to be loan sharks, were detained for allegedly making threats against a victim. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/13/3811401.jpg"
+        },
+        {
+          "id": "ed3f2681aa22",
+          "title": "Singapore turns tide in evolving fight against scams",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/03/13/singapore-turns-tide-in-evolving-fight-against-scams",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T05:00:55+00:00",
+          "summary": "People walk past a poster warning of online scam threats in the Raffles Place financial business district in Singapore. (AFP pic) SINGAPORE: Building his cryptocurrency holdings over eight years and helping out defrauded traders, Singaporean investor Mark Koh had thought he was s",
+          "image": null
+        },
+        {
+          "id": "ee4135178403",
+          "title": "Moscow piles pressure on US over oil sanctions",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/03/13/moscow-piles-pressure-on-us-over-oil-sanctions",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T04:59:50+00:00",
+          "summary": "The US eased certain oil sanctions on Russia over its Ukraine invasion, drawing Western allies’ criticism as the conflict continued. (AFP pic) WASHINGTON: Moscow said on Friday that the global energy market cannot remain stable without its oil, piling pressure on Washington to li",
+          "image": null
+        },
+        {
+          "id": "f90e73e9da1a",
+          "title": "Sistem O&G bersepadu lindungi ekonomi daripada kejutan global, kata penganalisis",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/13/sistem-og-bersepadu-lindungi-ekonomi-daripada-kejutan-global-kata-penganalisis",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T03:46:19+00:00",
+          "summary": "Petronas mengurus aktiviti penerokaan dan pengeluaran huluan, menyelia operasi penapisan serta petrokimia, terlibat dalam pasaran gas asli cecair (LNG) global dan mengekalkan rangkaian perdagangan antarabangsa. PETALING JAYA: Industri minyak dan gas Malaysia yang dibangunkan seca",
+          "image": null
+        },
+        {
+          "id": "265ae21d6242",
+          "title": "Malaysia shows compassion, competence with wartime repatriation",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/13/malaysia-shows-compassion-competence-with-wartime-repatriation",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T03:30:17+00:00",
+          "summary": "The arrival of 163 Malaysians and seven foreign family members at the Kuala Lumpur International Airport on March 11 represents more than a routine evacuation. It is a reminder that, in times of crisis, a government s ultimate responsibility is to protect its citizens lives, wher",
+          "image": null
+        },
+        {
+          "id": "9899dcfb57fc",
+          "title": "Agrobank rai keunikan kanak-kanak autisme menerusi video raya ‘Maaf saya…’",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/13/agrobank-rai-keunikan-kanak-kanak-autisme-menerusi-video-raya-maaf-saya",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-13T03:23:49+00:00",
+          "summary": "Ketua Pegawai Eksekutif Kumpulan Agrobank Tengku Ahmad Badli Shah Raja Hussin dan Timbalan Menteri Pertanian dan Keterjaminan Makanan Chan Foong Hin menyempurnakan pelancaran video raya korporat Maaf Saya di Kuala Lumpur semalam. KUALA LUMPUR: Agrobank tampil dengan kelainan deng",
+          "image": null
+        },
+        {
+          "id": "21a51de31652",
+          "title": "Regional Crises Are Dealing a Heavy Blow to Afghanistan’s Fragile Economy",
+          "url": "https://thediplomat.com/2026/03/regional-crises-are-dealing-a-heavy-blow-to-afghanistans-fragile-economy/",
+          "source": "The Diplomat",
+          "published": "2026-03-12T13:34:00+00:00",
+          "summary": "For a country whose economy remains deeply dependent on regional trade routes, migration, and external assistance, instability on multiple fronts can quickly translate into economic crisis.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-12-223730.jpg"
+        },
+        {
+          "id": "aaa538d0c1e7",
+          "title": "Laundering Dirty Crypto in Cambodia",
+          "url": "https://thediplomat.com/2026/03/laundering-dirty-crypto-in-cambodia/",
+          "source": "The Diplomat",
+          "published": "2026-03-12T04:03:00+00:00",
+          "summary": "A digital currency pegged to the U.S. dollar keeps cyber criminals afloat.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2022/05/thediplomat_2022-05-09-114130.jpg"
+        },
+        {
+          "id": "537de69c24e1",
+          "title": "Thai-flagged Cargo Vessel Hit By Iranian Projectiles in Strait of Hormuz",
+          "url": "https://thediplomat.com/2026/03/thai-flagged-cargo-vessel-hit-by-iranian-projectiles-in-strait-of-hormuz/",
+          "source": "The Diplomat",
+          "published": "2026-03-12T02:15:00+00:00",
+          "summary": "The Royal Thai Navy says that three members of the 23-person crew remain unaccounted for after yesterday's attack.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-12-112603.jpg"
+        }
+      ]
+    }
+  }
+}
