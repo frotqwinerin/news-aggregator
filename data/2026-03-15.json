@@ -1,0 +1,576 @@
+{
+  "date": "2026-03-15",
+  "generated_at": "2026-03-15T05:51:45.967905+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "e882a1bdd27c",
+          "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
+          "url": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
+          "source": "The Verge",
+          "published": "2026-03-14T21:57:07+00:00",
+          "summary": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee \" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the range of $10 billion. The money is supposedly being paid by ne",
+          "image": null
+        },
+        {
+          "id": "b4030acbdc87",
+          "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/",
+          "source": "BleepingComputer",
+          "published": "2026-03-14T21:48:14+00:00",
+          "summary": "Microsoft has released an out-of-band (OOB) update to fix a security vulnerabilities affecting Windows 11 Enterprise devices that receive hotpatch updates instead of the regular Patch Tuesday cumulative updates. [...]",
+          "image": null
+        },
+        {
+          "id": "a34f005ff045",
+          "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+          "url": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+          "source": "TechCrunch",
+          "published": "2026-03-14T21:24:10+00:00",
+          "summary": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\"",
+          "image": null
+        },
+        {
+          "id": "698dff862036",
+          "title": "US Army announces contract with Anduril worth up to $20B",
+          "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+          "source": "TechCrunch",
+          "published": "2026-03-14T20:47:47+00:00",
+          "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+          "image": null
+        },
+        {
+          "id": "01e419df1fe1",
+          "title": "Meta is reportedly laying off up to 20 percent of its staff",
+          "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+          "source": "The Verge",
+          "published": "2026-03-14T18:48:56+00:00",
+          "summary": "According to Reuters , Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminating roughly 15,800 positions. That would be the largest ser",
+          "image": null
+        },
+        {
+          "id": "8d3fdf104600",
+          "title": "Honda is killing its EVs — and any chance of competing in the future",
+          "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
+          "source": "TechCrunch",
+          "published": "2026-03-14T17:23:24+00:00",
+          "summary": "Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.",
+          "image": null
+        },
+        {
+          "id": "e66d04d6ddca",
+          "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+          "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+          "source": "TechCrunch",
+          "published": "2026-03-14T16:28:42+00:00",
+          "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+          "image": null
+        },
+        {
+          "id": "0e11f0e660d1",
+          "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
+          "url": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
+          "source": "The Hacker News",
+          "published": "2026-03-14T16:17:00+00:00",
+          "summary": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial intelligence (AI) agent. In a post shared o",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2mVucJhli25A25joXcap-ewfeMT1Vh-95wQKQfGOue7PwZJ1_55YsG8OQ1DQF7WVOU8tsOy73kGDzgfpTLLeqTYQ1k9LqrFWTNavDmfvCV-9IIER9PfrRsdg1wA5UzpIMrer3xC1mBClBzKkaT6pfczDbppMjZM7afcWu-RURquDGrEfjq3vVBsmlltLm/s1600/open-clawss.jpg"
+        },
+        {
+          "id": "00a693d0dd02",
+          "title": "As people look for ways to make new friends, here are the apps promising to help",
+          "url": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+          "source": "TechCrunch",
+          "published": "2026-03-14T16:00:00+00:00",
+          "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+          "image": null
+        },
+        {
+          "id": "e16526519c83",
+          "title": "Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals",
+          "url": "https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale",
+          "source": "The Verge",
+          "published": "2026-03-14T15:46:28+00:00",
+          "summary": "Happy Saturday, all! This week, we found a number of deals that should help you unwind and relax over the next few days (and beyond). If you’re planning to stream the Oscars on Sunday, there’s still time to take advantage of a great deal on Hulu and Disney Plus , as well as Googl",
+          "image": null
+        },
+        {
+          "id": "671d080f4f94",
+          "title": "Prediction markets want the Oscars to be your gateway drug to betting on everything",
+          "url": "https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling",
+          "source": "The Verge",
+          "published": "2026-03-14T15:30:00+00:00",
+          "summary": "Though it was weird to see the Golden Globes partner with Polymarket for its most recent awards show , the collaboration wasn't shocking given the way that people have begun using prediction markets to gamble on basically anything. Prediction markets are being used to bet on ever",
+          "image": null
+        },
+        {
+          "id": "355ffead9f53",
+          "title": "MacBook Air M5 review: a small update for the ‘just right’ Mac",
+          "url": "https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review",
+          "source": "The Verge",
+          "published": "2026-03-14T15:00:00+00:00",
+          "summary": "Neo to the left of me. Pros are to the right. | Photo: Antonio G. Di Benedetto / The Verge Not much has changed in the new MacBook Air for 2026: It now has the M5 chip, Wi-Fi 7, and faster storage starting at 512GB instead of 256GB. It's just as outstanding a computer as last yea",
+          "image": null
+        },
+        {
+          "id": "0f77406db096",
+          "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
+          "url": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
+          "source": "BleepingComputer",
+          "published": "2026-03-14T14:36:42+00:00",
+          "summary": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack. [...]",
+          "image": null
+        },
+        {
+          "id": "8e24874f06f9",
+          "title": "A Scavengers Reign artist explores contemplative sci-fi in new comics",
+          "url": "https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign",
+          "source": "The Verge",
+          "published": "2026-03-14T14:00:00+00:00",
+          "summary": "You may recognize Jonathan Djob Nkondo 's work from animated projects like the surreal sci-fi series Scavengers Reign or the recent Gorillaz short film The Mountain, The Moon Cave and The Sad God . But before that the French artist and animator made self-published comics that dep",
+          "image": null
+        },
+        {
+          "id": "9687495f3a58",
+          "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+          "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+          "source": "TechCrunch",
+          "published": "2026-03-14T13:00:00+00:00",
+          "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+          "image": null
+        },
+        {
+          "id": "f482e0a9f491",
+          "title": "Asus’ new open earbuds are a wonderful companion for handheld gaming",
+          "url": "https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions",
+          "source": "The Verge",
+          "published": "2026-03-14T13:00:00+00:00",
+          "summary": "They look like your average open earbuds, but with optional RGB LED effects. | Photo by Cameron Faulkner / The Verge The Cetra Open Wireless aren’t like most other gaming earbuds. They’re large, with an open-style design that rests just outside of your ears, letting game audio mi",
+          "image": null
+        },
+        {
+          "id": "8c636190a335",
+          "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
+          "url": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
+          "source": "The Hacker News",
+          "published": "2026-03-14T12:55:00+00:00",
+          "summary": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry. \"Instead of requiring every malicious listing to embed the loader directly, the threat actor is",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4d-2XpiCS0UYnMWh32sQEJP9LnlN_m7m2hok9CnY_vu05XXwWn4INodYCvrEdweEzpho7XqcuOFvEPnnEWlHCRa_q3HY3V5O_ii35MVWAimRwsgrpNQrvGqeUchhZ48FRUl91zTpYQdLMRxVvRjV_T8GEm-J9mnMesefzlgeaoE_EU7Ba32liTr63SsQq/s1600/open.jpg"
+        },
+        {
+          "id": "a547ba5944ee",
+          "title": "Samsung Galaxy S26 Ultra review: show off",
+          "url": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
+          "source": "The Verge",
+          "published": "2026-03-14T12:00:00+00:00",
+          "summary": "A notable phone. \"Someone might be watching everything I'm doing on my screen,\" I tell myself in public. Even when I'm doing nothing of consequence - just making my little Wordle guesses - there's a sense of unease that stays with me. It's never bothered me too much, and I genera",
+          "image": null
+        },
+        {
+          "id": "a5ecc5709d87",
+          "title": "5 great indie games from GDC 2026",
+          "url": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
+          "source": "The Verge",
+          "published": "2026-03-14T12:00:00+00:00",
+          "summary": "I just got back from the GDC Festival of Gaming, a big industry-focused event in San Francisco that was formerly known as the Game Developers Conference. While the show is mostly about educational sessions and networking opportunities for working developers, there were also a bun",
+          "image": null
+        },
+        {
+          "id": "aee6620e0213",
+          "title": "Wordle’s creator made a fun new puzzle game",
+          "url": "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer",
+          "source": "The Verge",
+          "published": "2026-03-14T12:00:00+00:00",
+          "summary": "Hi, friends! Welcome to Installer No. 119, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, hope your agents are well, and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Pixar's future",
+          "image": null
+        },
+        {
+          "id": "eedceb2a63e9",
+          "title": "How to Buy Used or Refurbished Electronics (2026)",
+          "url": "https://www.wired.com/story/how-to-buy-refurbished-electronics/",
+          "source": "Wired",
+          "published": "2026-03-14T11:30:00+00:00",
+          "summary": "Save money and reduce your carbon footprint with these tips to snag the best deals on quality refurbished and used electronics.",
+          "image": "https://media.wired.com/photos/69b46d1dabbbb99979b2e5d8/master/pass/GettyImages-1280239247.jpg"
+        },
+        {
+          "id": "6ea008b1bacb",
+          "title": "You Can Approximate Pi by Dropping Needles on the Floor",
+          "url": "https://www.wired.com/story/you-can-approximate-pi-by-dropping-needles-on-the-floor/",
+          "source": "Wired",
+          "published": "2026-03-14T11:00:00+00:00",
+          "summary": "Who needs a supercomputer when you can calculate pi with a box of sewing needles?",
+          "image": "https://media.wired.com/photos/69b4529a7f3e3000e5be196d/master/pass/Pi-Day-Science-2255375835.jpg"
+        },
+        {
+          "id": "588ee6e9d53b",
+          "title": "Samsung Galaxy S26 Ultra Review: The Privacy Screen",
+          "url": "https://www.wired.com/review/samsung-galaxy-s26-ultra/",
+          "source": "Wired",
+          "published": "2026-03-14T11:00:00+00:00",
+          "summary": "There's not much else groundbreaking about the company's latest flagship, but the built-in privacy display works well without much trade-off.",
+          "image": "https://media.wired.com/photos/69b4a38f35ad66c4a99cb61d/master/pass/Samsung%20Galaxy%20S26%20Ultra%20SOURCE%20Julian%20Chokkattu.jpg"
+        },
+        {
+          "id": "997163ab9540",
+          "title": "A Hacker Accidentally Broke Into the FBI’s Epstein Files",
+          "url": "https://www.wired.com/story/security-news-this-week-a-hacker-accidentally-broke-into-the-fbis-epstein-files/",
+          "source": "Wired",
+          "published": "2026-03-14T10:30:00+00:00",
+          "summary": "Plus: A porn-quitting app exposed the masturbation habits of hundreds of thousands of users, Russian hackers are trying to take over people’s Signal accounts, and more.",
+          "image": "https://media.wired.com/photos/69b48fe9f7bf82b48959d097/master/pass/Security_EpsteinNews_GettyImages-2260272890.jpg"
+        },
+        {
+          "id": "dca242ced5a7",
+          "title": "Identity Theft Protection Services: Do You Actually Need One?",
+          "url": "https://www.wired.com/story/best-id-protection-services/",
+          "source": "Wired",
+          "published": "2026-03-14T10:30:00+00:00",
+          "summary": "Here's the best advice I have for protecting your identity online.",
+          "image": "https://media.wired.com/photos/69b0f54c5922ceb01a5360bf/master/pass/What-Do-Identity-Protection-Services-Do,-And-Are-They-Worth-It-.jpg"
+        },
+        {
+          "id": "99dd97570269",
+          "title": "Norda 001A G+ Trail Running Shoe Review: As Expensive as an Apple Watch",
+          "url": "https://www.wired.com/review/norda-001a-g-trail-shoe/",
+          "source": "Wired",
+          "published": "2026-03-14T10:00:00+00:00",
+          "summary": "Do you really need a $300 trail running shoe? We test the treads, and the creds, of the Norda 001A G+.",
+          "image": "https://media.wired.com/photos/69b300d501cb4aeea5c2d56c/master/pass/PXL_20260304_155852802.jpg"
+        },
+        {
+          "id": "73a96fbeaa29",
+          "title": "I Regret to Inform You That You’re Using an Inferior Pour-Over Coffee Brewer",
+          "url": "https://www.wired.com/story/kalita-wave-pour-over-coffee-brewer/",
+          "source": "Wired",
+          "published": "2026-03-14T09:33:00+00:00",
+          "summary": "The unique flat-bottom design of the Kalita Wave makes brewing exceptional coffee dead simple—especially if you can’t summon the rigor required to make perfect pour-over.",
+          "image": "https://media.wired.com/photos/69b3048c0219c4791754b89a/master/pass/I-Regret-to-Inform-You-That-You're-Using-an-Inferior-Pour-Over-Coffee-Brewer.jpg"
+        },
+        {
+          "id": "defff18cc54f",
+          "title": "How to Watch March Madness 2026",
+          "url": "https://www.wired.com/story/how-to-watch-march-madness/",
+          "source": "Wired",
+          "published": "2026-03-14T09:00:00+00:00",
+          "summary": "Tune in to watch the men’s and women’s teams fight to win the 2026 NCAA Division I Basketball championship.",
+          "image": "https://media.wired.com/photos/67cb75d367738ee482c4f92b/master/pass/Gear_MarchMadness_GettyImages-2203848378.jpg"
+        },
+        {
+          "id": "16a13e415252",
+          "title": "Japan Approves the World’s First Treatment Made With Reprogrammed Human Cells",
+          "url": "https://www.wired.com/story/japan-approves-the-worlds-first-treatment-made-with-reprogrammed-human-cells/",
+          "source": "Wired",
+          "published": "2026-03-14T09:00:00+00:00",
+          "summary": "Researchers in Japan pioneered reprogrammed cells 20 years ago. Now the country has given the first-ever authorizations to manufacture and sell medical products based on the technology.",
+          "image": "https://media.wired.com/photos/69b43a24423c539d73b3ed38/master/pass/human_iPS.JPG"
+        },
+        {
+          "id": "0554ed9cd47c",
+          "title": "Spring Cleaning? Here's How to Declutter Responsibly—and Maybe Earn Some Cash",
+          "url": "https://www.wired.com/story/spring-cleaning-how-to-declutter-responsibly/",
+          "source": "Wired",
+          "published": "2026-03-14T09:00:00+00:00",
+          "summary": "Declutter and deep clean your home sanely by breaking it into smaller tasks. You're also bound to discover there are things you no longer need that you can sell.",
+          "image": "https://media.wired.com/photos/69b310517b5e35f42538769c/master/pass/How-to-Declutter-Responsibly-Gear-1219847189.jpg"
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 20,
+      "briefing": "Today's Race, Religion & Royalty section covers 20 stories.",
+      "articles": [
+        {
+          "id": "1b6a8af6d645",
+          "title": "Raja Puan Muda Perlis berkenan rasmi program Tadabbur dan Khatam al-Quran peringkat negeri",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/15/raja-puan-muda-perlis-berkenan-rasmi-program-tadabbur-dan-khatam-al-quran-peringkat-negeri",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T05:32:15+00:00",
+          "summary": "Raja Puan Muda Perlis Tuanku Lailatul Shahreen Akashah Khalil berkenan berangkat merasmikan Majlis Tadabbur dan Khatam al-Quran peringkat negeri di Masjid Al-Muqarrabin, Behor Empiang, Kangar, baru-baru ini. PETALING JAYA: Raja Puan Muda Perlis Tuanku Lailatul Shahreen Akashah Kh",
+          "image": null
+        },
+        {
+          "id": "e0832deb9b34",
+          "title": "4 nabbed over Putrajaya MRT line cable theft",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/15/4-nabbed-over-putrajaya-mrt-line-cable-theft",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T04:56:42+00:00",
+          "summary": "The Putrajaya MRT line experienced a three-day service disruption earlier this month due to cable theft. PETALING JAYA: Police have arrested four suspects for their alleged involvement in the cable theft along the Putrajaya MRT line recently, Prasarana Malaysia Bhd said. The cabl",
+          "image": null
+        },
+        {
+          "id": "92783e0aa290",
+          "title": "Semua kementerian main peranan penting tangani isu 3R, kata Aaron",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/15/semua-kementerian-main-peranan-penting-tangani-isu-3r-kata-aaron",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T04:51:33+00:00",
+          "summary": "Menteri Perpaduan Negara Aaron Ago Dagang berkata kerajaan komited memastikan keharmonian masyarakat, kestabilan negara dan semangat perpaduan sentiasa dipelihara. PUTRAJAYA: Setiap kementerian serta agensi kerajaan memainkan peranan penting dalam menangani isu berkaitan agama, k",
+          "image": null
+        },
+        {
+          "id": "d6c01f5454a4",
+          "title": "Extra Raya holiday on March 23 if Aidilfitri falls on Friday",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/15/extra-raya-holiday-on-march-23-if-aidilfitri-falls-on-friday",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T04:48:02+00:00",
+          "summary": "Prime Minister Anwar Ibrahim announced the additional Hari Raya holiday amid speculation of the first day of Syawal. PETALING JAYA: Prime Minister Anwar Ibrahim has announced that March 23, Monday, will be declared an additional Hari Raya holiday if Aidilfitri falls on Friday (Ma",
+          "image": null
+        },
+        {
+          "id": "894c67a6a209",
+          "title": "Three Iranian women soccer players to return home after seeking asylum in Australia",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/15/three-iranian-women-soccer-players-to-return-home-after-seeking-asylum-in-australia",
+          "source": "The Star Malaysia",
+          "published": "2026-03-15T04:40:00+00:00",
+          "summary": "FILE PHOTO: Australia s Home Affairs Minister Tony Burke poses with Fatemeh Pasandideh, Mona Hamoudi, Atefeh Ramezanizadeh, Zahra Ghanbari and Zahra Sarbali, the five women from the Iranian women’s soccer team who were granted humanitarian visas, in Queensland, Australia, March 9",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/15/3813862.JPG"
+        },
+        {
+          "id": "776e02552c50",
+          "title": "All ministries play key role in handling 3R issues, says Aaron",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/15/all-ministries-play-key-role-in-handling-3r-issues-says-aaron",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T04:39:49+00:00",
+          "summary": "National unity minister Aaron Ago Dagang said a Unity Analytics Dashboard has been developed to identify locations at high risk of racial or religious tension. PUTRAJAYA: Every ministry has an important role to play in addressing issues involving religion, race and the royal inst",
+          "image": null
+        },
+        {
+          "id": "437ae7897c09",
+          "title": "Jangan kelirukan rakyat, negara masih teguh berdepan cabaran krisis Asia Barat",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/15/jangan-kelirukan-rakyat-negara-masih-teguh-berdepan-cabaran-krisis-asia-barat",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T04:37:52+00:00",
+          "summary": "Tengku Zafrul Aziz berkata pengalaman ketika harga minyak dunia melonjak pada 2022 menunjukkan kerajaan berupaya mengekalkan subsidi tanpa membebankan rakyat. (Gambar Bernama) KUALA LUMPUR: Kerajaan telah mengambil langkah fiskal yang kukuh dan bersifat proaktif bagi memastikan e",
+          "image": null
+        },
+        {
+          "id": "49f2d3dc5823",
+          "title": "Revamped Kota Bharu airport terminal to start operations tomorrow",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/15/revamped-kota-bharu-airport-terminal-to-start-operations-tomorrow",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T04:34:56+00:00",
+          "summary": "The official launching ceremony for the expanded Sultan Ismail Petra Airport terminal will be announced at a later date. (Facebook pic) PETALING JAYA: The transport ministry has announced the completion of expansion works at Sultan Ismail Petra Airport in Kota Bharu, Kelantan, wi",
+          "image": null
+        },
+        {
+          "id": "f23118d02302",
+          "title": "Sultan Ismail Petra Airport to start full operation tomorrow after expansion works",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/15/sultan-ismail-petra-airport-to-start-full-operation-tomorrow-after-expansion-works",
+          "source": "The Star Malaysia",
+          "published": "2026-03-15T04:27:00+00:00",
+          "summary": "PUTRAJAYA: The expansion of Sultan Ismail Petra Airport, Kota Bharu (KBR) in Kelantan has been completed, and it will be fully operational starting Monday (March 16), said Transport Minister Anthony Loke. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/15/3813857.jpg"
+        },
+        {
+          "id": "1ead48886d62",
+          "title": "Four nabbed for cable theft along MRT Putrajaya Line",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/15/four-nabbed-for-cable-theft-along-mrt-putrajaya-line",
+          "source": "The Star Malaysia",
+          "published": "2026-03-15T04:02:00+00:00",
+          "summary": "KUALA LUMPUR: Four suspected cable thieves who targeted the MRT Putrajaya Line have been arrested in a recent operation. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/15/3813840.jpg"
+        },
+        {
+          "id": "8b447b025d40",
+          "title": "All ministries play key role in handling 3R issues, says Aaron",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/15/all-ministries-play-key-role-in-handling-3r-issues-says-aaron",
+          "source": "The Star Malaysia",
+          "published": "2026-03-15T03:59:00+00:00",
+          "summary": "PUTRAJAYA: Every ministry plays an important role in addressing issues involving religion, race and the royal institution (3R) to ensure national harmony and unity are preserved, said National Unity Minister Datuk Aaron Ago Dagang. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/15/3813841.jpeg"
+        },
+        {
+          "id": "ade3de82175c",
+          "title": "4 lelaki curi kabel MRT Laluan Putrajaya ditahan",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/15/4-lelaki-curi-kabel-mrt-laluan-putrajaya-ditahan",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T03:57:12+00:00",
+          "summary": "Kecurian kabel menyebabkan gangguan operasi MRT Laluan Putrajaya selama tiga hari sekali gus menimbulkan kesulitan kepada ribuan pengguna pengangkutan awam. (Gambar Prasarana) PETALING JAYA: Polis menahan empat lelaki disyaki terlibat kes kecurian kabel yang menjejaskan operasi M",
+          "image": null
+        },
+        {
+          "id": "5fa86d580891",
+          "title": "Suhakam, NGOs urge moratorium on Sosma detention of children",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/15/suhakam-ngos-urge-moratorium-on-sosma-detention-of-children",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T03:52:30+00:00",
+          "summary": "On March 6, Inspector-General of Police Khalid Ismail said six male suspects, including minors, were arrested last month for alleged involvement in Islamic State militant activities. (Envato Elements pic) PETALING JAYA: The Human Rights Commission of Malaysia (Suhakam) and severa",
+          "image": null
+        },
+        {
+          "id": "f3c5f4f44e76",
+          "title": "End divisive race and religion rhetoric",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/15/end-divisive-race-and-religion-rhetoric",
+          "source": "The Star Malaysia",
+          "published": "2026-03-15T03:28:00+00:00",
+          "summary": "KUALA LUMPUR: Malaysia certainly deserves better than the race and religion rhetoric fanned by several figures who are using social media as their platform. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/15/3813823.jpg"
+        },
+        {
+          "id": "737286f3f549",
+          "title": "MTEN to assess fuel supply security, impact of global energy disruptions",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/15/mten-to-assess-fuel-supply-security-impact-of-global-energy-disruptions",
+          "source": "The Star Malaysia",
+          "published": "2026-03-15T03:14:00+00:00",
+          "summary": "JOHOR BARU: The government will assess Malaysia's oil supply security and the potential economic impact of global energy disruptions at the upcoming National Economic Action Council (MTEN) meeting, says Economy Minister Akmal Nasrullah Mohd Nasir. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/15/3813825.jpg"
+        },
+        {
+          "id": "93d3e7667c37",
+          "title": "Kanak-kanak mangsa eksploitasi ‘online’ perlu dilindung, bukan ditahan Sosma",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/15/kanak-kanak-mangsa-eksploitasi-online-perlu-dilindung-bukan-ditahan-sosma",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T03:00:08+00:00",
+          "summary": "Enam lelaki termasuk tiga remaja bawah umur ditahan kerana disyaki terlibat aktiviti berorientasikan keganasan berkaitan kumpulan IS dalam operasi Bukit Aman pada 14 dan 15 Feb lalu. (Gambar Envato Elements) PETALING JAYA: Kanak-kanak menjadi mangsa eksploitasi keganasan dalam ta",
+          "image": null
+        },
+        {
+          "id": "fae183213ac5",
+          "title": "Teen radicalisation limited but requires close attention, say experts",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/15/teen-radicalisation-limited-but-requires-close-attention-say-experts",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T02:40:31+00:00",
+          "summary": "Young people are often targeted by radical influences due to their age, access to technology and tendency to search for identity. (Bernama pic) PETALING JAYA: Radicalisation among teenagers remains limited and largely under control, but still warrants deep concern as the process ",
+          "image": null
+        },
+        {
+          "id": "b9ccf64715c8",
+          "title": "Ancaman radikalisasi remaja terkawal tapi serius, kata pakar",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/15/ancaman-radikalisasi-remaja-terkawal-tapi-serius-kata-pakar",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T02:00:35+00:00",
+          "summary": "Golongan muda sering menjadi sasaran pengaruh radikal kerana faktor usia, akses teknologi, dan kecenderungan mencari identiti. (Gambar Bernama) PETALING JAYA: Ancaman radikalisasi dalam kalangan remaja masih pada tahap terhad dan terkawal, namun perlu perhatian serius kerana pros",
+          "image": null
+        },
+        {
+          "id": "2236b7f7fc65",
+          "title": "Old Raya songs vs new releases: why the classics still speak to us",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/15/old-raya-songs-vs-new-releases-why-the-classics-still-speak-to-us",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T01:30:44+00:00",
+          "summary": "From Irham Zulkernain Every year, someone releases a new Raya song. The production gets better, the music video glossier, the featured artistes more well-known. Yet every year, Malaysians go back to the same old songs from decades past. This doesn t reflect a shortage of talent o",
+          "image": null
+        },
+        {
+          "id": "75031d8a3a5f",
+          "title": "Air China to resume North Korea flights after 6 years amid warming ties",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3346590/air-china-resume-north-korea-flights-after-6-years-amid-warming-ties?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "published": "2026-03-14T11:00:54+00:00",
+          "summary": "China’s national flag carrier is set to run direct passenger flights to North Korea for the first time in six years later this month, the latest sign of warming ties between the two neighbours. The official app of Air China, one of the country’s largest state-owned airlines, show",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/14/a8f51a8d-7d3a-43f6-a744-d1925bde9d49_8ff30a92.jpg?itok=DsxCKxuL&v=1773474074"
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 10,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 10 stories.",
+      "articles": [
+        {
+          "id": "e0832deb9b34",
+          "title": "4 nabbed over Putrajaya MRT line cable theft",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/15/4-nabbed-over-putrajaya-mrt-line-cable-theft",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T04:56:42+00:00",
+          "summary": "The Putrajaya MRT line experienced a three-day service disruption earlier this month due to cable theft. PETALING JAYA: Police have arrested four suspects for their alleged involvement in the cable theft along the Putrajaya MRT line recently, Prasarana Malaysia Bhd said. The cabl",
+          "image": null
+        },
+        {
+          "id": "92783e0aa290",
+          "title": "Semua kementerian main peranan penting tangani isu 3R, kata Aaron",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/15/semua-kementerian-main-peranan-penting-tangani-isu-3r-kata-aaron",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T04:51:33+00:00",
+          "summary": "Menteri Perpaduan Negara Aaron Ago Dagang berkata kerajaan komited memastikan keharmonian masyarakat, kestabilan negara dan semangat perpaduan sentiasa dipelihara. PUTRAJAYA: Setiap kementerian serta agensi kerajaan memainkan peranan penting dalam menangani isu berkaitan agama, k",
+          "image": null
+        },
+        {
+          "id": "776e02552c50",
+          "title": "All ministries play key role in handling 3R issues, says Aaron",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/15/all-ministries-play-key-role-in-handling-3r-issues-says-aaron",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T04:39:49+00:00",
+          "summary": "National unity minister Aaron Ago Dagang said a Unity Analytics Dashboard has been developed to identify locations at high risk of racial or religious tension. PUTRAJAYA: Every ministry has an important role to play in addressing issues involving religion, race and the royal inst",
+          "image": null
+        },
+        {
+          "id": "437ae7897c09",
+          "title": "Jangan kelirukan rakyat, negara masih teguh berdepan cabaran krisis Asia Barat",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/15/jangan-kelirukan-rakyat-negara-masih-teguh-berdepan-cabaran-krisis-asia-barat",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T04:37:52+00:00",
+          "summary": "Tengku Zafrul Aziz berkata pengalaman ketika harga minyak dunia melonjak pada 2022 menunjukkan kerajaan berupaya mengekalkan subsidi tanpa membebankan rakyat. (Gambar Bernama) KUALA LUMPUR: Kerajaan telah mengambil langkah fiskal yang kukuh dan bersifat proaktif bagi memastikan e",
+          "image": null
+        },
+        {
+          "id": "1ead48886d62",
+          "title": "Four nabbed for cable theft along MRT Putrajaya Line",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/15/four-nabbed-for-cable-theft-along-mrt-putrajaya-line",
+          "source": "The Star Malaysia",
+          "published": "2026-03-15T04:02:00+00:00",
+          "summary": "KUALA LUMPUR: Four suspected cable thieves who targeted the MRT Putrajaya Line have been arrested in a recent operation. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/15/3813840.jpg"
+        },
+        {
+          "id": "8b447b025d40",
+          "title": "All ministries play key role in handling 3R issues, says Aaron",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/15/all-ministries-play-key-role-in-handling-3r-issues-says-aaron",
+          "source": "The Star Malaysia",
+          "published": "2026-03-15T03:59:00+00:00",
+          "summary": "PUTRAJAYA: Every ministry plays an important role in addressing issues involving religion, race and the royal institution (3R) to ensure national harmony and unity are preserved, said National Unity Minister Datuk Aaron Ago Dagang. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/15/3813841.jpeg"
+        },
+        {
+          "id": "ade3de82175c",
+          "title": "4 lelaki curi kabel MRT Laluan Putrajaya ditahan",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/15/4-lelaki-curi-kabel-mrt-laluan-putrajaya-ditahan",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T03:57:12+00:00",
+          "summary": "Kecurian kabel menyebabkan gangguan operasi MRT Laluan Putrajaya selama tiga hari sekali gus menimbulkan kesulitan kepada ribuan pengguna pengangkutan awam. (Gambar Prasarana) PETALING JAYA: Polis menahan empat lelaki disyaki terlibat kes kecurian kabel yang menjejaskan operasi M",
+          "image": null
+        },
+        {
+          "id": "5fa86d580891",
+          "title": "Suhakam, NGOs urge moratorium on Sosma detention of children",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/15/suhakam-ngos-urge-moratorium-on-sosma-detention-of-children",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T03:52:30+00:00",
+          "summary": "On March 6, Inspector-General of Police Khalid Ismail said six male suspects, including minors, were arrested last month for alleged involvement in Islamic State militant activities. (Envato Elements pic) PETALING JAYA: The Human Rights Commission of Malaysia (Suhakam) and severa",
+          "image": null
+        },
+        {
+          "id": "fae183213ac5",
+          "title": "Teen radicalisation limited but requires close attention, say experts",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/15/teen-radicalisation-limited-but-requires-close-attention-say-experts",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T02:40:31+00:00",
+          "summary": "Young people are often targeted by radical influences due to their age, access to technology and tendency to search for identity. (Bernama pic) PETALING JAYA: Radicalisation among teenagers remains limited and largely under control, but still warrants deep concern as the process ",
+          "image": null
+        },
+        {
+          "id": "46b9b8c18652",
+          "title": "F1 batal GP Bahrain, Arab Saudi",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/dunia/2026/03/15/f1-batal-gp-bahrain-arab-saudi",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-15T02:37:20+00:00",
+          "summary": "Susulan ketegangan di Asia Barat F1 membatalkan perlumbaaan di Bahrain dan Arab Saudi. (Gambar EPA Images) ISTANBUL: Formula Satu (F1) mengesahkan pada awal Ahad perlumbaan Grand Prix (GP) Bahrain dan Arab Saudi tidak akan berlangsung pada April berikutan ketegangan yang semakin ",
+          "image": null
+        }
+      ]
+    }
+  }
+}
