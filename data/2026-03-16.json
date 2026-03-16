@@ -1,0 +1,423 @@
+{
+  "date": "2026-03-16",
+  "generated_at": "2026-03-16T06:10:49.891192+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "c88cedfd8850",
+          "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+          "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
+          "source": "The Hacker News",
+          "published": "2026-03-16T05:43:00+00:00",
+          "summary": "Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API. The change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week. AAPM was in",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvueuqNoIDsAH4vpBnbAGr2wz0tlhGECqZdmLWdnSPn-mZNpKuAIMPRyOR4B9C9RDKQKYKskTM-idN3OQ5zligs_i092dM4LLMP5jo1v2UHOe2hK9hV2GuX_5RvWrrmSh8b0FbKiVB7-5vuISiT_-ko5MbCTZs1YjLqFjUDZG8QFHIrV6MDlr1R1RdbM7/s1600/android-security.jpg"
+        },
+        {
+          "id": "84b08896b076",
+          "title": "These 15 Amazon Spring Sale Tech Deals Are Actually Good. WWe Checked the Price History (2026)",
+          "url": "https://www.wired.com/story/amazon-spring-sale-2026/",
+          "source": "Wired",
+          "published": "2026-03-16T05:01:00+00:00",
+          "summary": "This sale spans almost an entire week, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.",
+          "image": "https://media.wired.com/photos/69b46904c31047dc3da91a22/master/pass/The-Best-Early-Deals-from-the-Amazon-Big-Spring-Sale.jpg"
+        },
+        {
+          "id": "e01992da5481",
+          "title": "The billionaires made a promise — now some want out",
+          "url": "https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/",
+          "source": "TechCrunch",
+          "published": "2026-03-16T04:40:24+00:00",
+          "summary": "In 2010, Warren Buffett and Bill Gates launched a disarmingly simple campaign they called the Giving Pledge: a public commitment, open to the world s wealthiest people, to give away more than half their fortune during their lifetime or upon their death. The moment seemed to call ",
+          "image": null
+        },
+        {
+          "id": "ffbca7fa8935",
+          "title": "Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two",
+          "url": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
+          "source": "TechCrunch",
+          "published": "2026-03-16T02:27:18+00:00",
+          "summary": "“Frankenstein” won for Best Production Design, Best Costume Design, and Best Makeup and Hairstyling, while “KPop Demon Hunters” won for Best Animated Feature and Best Original Song.",
+          "image": null
+        },
+        {
+          "id": "10ec118d014f",
+          "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
+          "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+          "source": "TechCrunch",
+          "published": "2026-03-16T00:30:00+00:00",
+          "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+          "image": null
+        },
+        {
+          "id": "c717f338c00e",
+          "title": "OpenAI says ChatGPT ads are not rolling out globally for now",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
+          "source": "BleepingComputer",
+          "published": "2026-03-15T23:13:28+00:00",
+          "summary": "OpenAI told BleepingComputer that ChatGPT ads on Free and Go plans are not yet rolling out outside the United States, even though some users noticed references to ads in the updated privacy policy. [...]",
+          "image": null
+        },
+        {
+          "id": "5acfb02d17d0",
+          "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+          "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+          "source": "TechCrunch",
+          "published": "2026-03-15T21:01:51+00:00",
+          "summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+          "image": null
+        },
+        {
+          "id": "b28b27ea4621",
+          "title": "Aether OS is a computer in a browser built for the AT Protocol",
+          "url": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
+          "source": "The Verge",
+          "published": "2026-03-15T19:35:57+00:00",
+          "summary": "Aether OS puts a full-fledged desktop in your browser that ties directly into the AT Protocol . That means it connects to your Bluesky account and other public records. It offers a pretty full suite of apps , 42 in total, covering text editing, task management, and social media. ",
+          "image": null
+        },
+        {
+          "id": "6544534309a2",
+          "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+          "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+          "source": "TechCrunch",
+          "published": "2026-03-15T18:49:32+00:00",
+          "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+          "image": null
+        },
+        {
+          "id": "e0d43c57481d",
+          "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+          "url": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+          "source": "TechCrunch",
+          "published": "2026-03-15T17:19:47+00:00",
+          "summary": "The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.",
+          "image": null
+        },
+        {
+          "id": "624750445952",
+          "title": "Sotomayor’s Wabi Sabi is the funnest record of 2026",
+          "url": "https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review",
+          "source": "The Verge",
+          "published": "2026-03-15T16:45:00+00:00",
+          "summary": "Can’t. Stop. Dancing. | Image: Wonderwheel Recordings Shout out to subscriber N_Gorski for today's pick. They popped into the comments on last week's recommendation to ask what I thought of the new Sotomayor record. Well, I hadn't actually heard it yet, but now I'm obsessed. The ",
+          "image": null
+        },
+        {
+          "id": "31afbcf1aaaf",
+          "title": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+          "url": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
+          "source": "TechCrunch",
+          "published": "2026-03-15T16:05:00+00:00",
+          "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "image": null
+        },
+        {
+          "id": "483245561d33",
+          "title": "Wiz investor unpacks Google’s $32B acquisition",
+          "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+          "source": "TechCrunch",
+          "published": "2026-03-15T15:30:33+00:00",
+          "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+          "image": null
+        },
+        {
+          "id": "f459dad82ea4",
+          "title": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+          "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+          "source": "TechCrunch",
+          "published": "2026-03-15T14:30:00+00:00",
+          "summary": "Rivian CEO RJ Scaringe shares his thoughts and plans for his newest startup, Mind Robotics.",
+          "image": null
+        },
+        {
+          "id": "b8139dc7eb78",
+          "title": "Betterleaks, a new open-source secrets scanner to replace Gitleaks",
+          "url": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
+          "source": "BleepingComputer",
+          "published": "2026-03-15T14:17:23+00:00",
+          "summary": "A new open-source tool called Betterleaks can scan directories, files, and git repositories and identify valid secrets using default or customized rules. [...]",
+          "image": null
+        },
+        {
+          "id": "379a55a20d14",
+          "title": "AI Czar David Sacks wants Trump to ‘get out’ of Iran",
+          "url": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran",
+          "source": "The Verge",
+          "published": "2026-03-15T14:13:25+00:00",
+          "summary": "He might have realized he’s about to lose a lot of money. | Image: Cath Virginia / The Verge, Getty Images David Sacks, the White House's AI and crypto czar, has warned that a continued war in Iran could be catastrophic . On the All In podcast, Sacks said that \"we should try to f",
+          "image": null
+        },
+        {
+          "id": "6eefba1215fc",
+          "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+          "source": "The Verge",
+          "published": "2026-03-15T14:00:00+00:00",
+          "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The catch: You won't be performing in a theater, a film studio, or ",
+          "image": null
+        },
+        {
+          "id": "0804ce02f1d9",
+          "title": "Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone",
+          "url": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
+          "source": "The Verge",
+          "published": "2026-03-15T13:00:00+00:00",
+          "summary": "The Galaxy Buds Pro 4 are a nice improvement over the Buds 3, but still require a Galaxy device to use all their features. Samsung promised \"more than a design refresh\" for its new top-end Galaxy Buds - it added upgraded woofers for improved, dual-amped hi-fi sound, a new blade d",
+          "image": null
+        },
+        {
+          "id": "47df2b0f43af",
+          "title": "The fast rise and epic fall of Clubhouse",
+          "url": "https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history",
+          "source": "The Verge",
+          "published": "2026-03-15T12:24:20+00:00",
+          "summary": "In 2020 and 2021, the social media world seemed to be on the verge of complete change. A new app called TikTok was ascendant, bringing a whole new kind of vertical video to phones everywhere. And another app - not as popular, but growing fast, and already hugely influential among",
+          "image": null
+        },
+        {
+          "id": "04957d30a9fd",
+          "title": "Live-service games are a mess",
+          "url": "https://www.theverge.com/column/893294/live-service-games-mess",
+          "source": "The Verge",
+          "published": "2026-03-15T12:00:00+00:00",
+          "summary": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the slow-motion disaster of live-service games, follow Andrew Webster . The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here . How it ",
+          "image": null
+        },
+        {
+          "id": "6ee3013afb93",
+          "title": "An engineering thesis disguised as a coupe: A history of the Honda Prelude",
+          "url": "https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/",
+          "source": "Ars Technica",
+          "published": "2026-03-15T11:15:48+00:00",
+          "summary": "The Honda Prelude was never simply a car. It was an engineering thesis disguised as a coupe: compact, disciplined, and unapologetically technical. At its best, it distilled Honda’s faith in precision manufacturing and clever packaging into something accessible and aspirational. I",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/honda-prelude-ad-500x500.jpg"
+        },
+        {
+          "id": "bd7e056dfdb2",
+          "title": "The $100,000 fee for H-1Bs is causing all sorts of problems",
+          "url": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers",
+          "source": "The Verge",
+          "published": "2026-03-15T11:00:00+00:00",
+          "summary": "Last fall, President Donald Trump's executive order raising the fee for H-1B visas to $100,000 - like many of his immigration policies - led to near-immediate chaos. Thousands of workers who had flown overseas to renew their visas ended up stranded abroad . Details about who woul",
+          "image": null
+        },
+        {
+          "id": "2c0a5836f5ec",
+          "title": "Brompton Electric T-Line Folding Electric Bicycle Review: Pocket-Sized Pedal Power",
+          "url": "https://www.wired.com/review/brompton-electric-t-line-with-e-motiq/",
+          "source": "Wired",
+          "published": "2026-03-15T11:00:00+00:00",
+          "summary": "Brompton's latest folding electric bicycle is beautiful, genuinely portable, and doesn't quite go fast enough.",
+          "image": "https://media.wired.com/photos/69b578c7f7421933bcdf6b2c/master/pass/Review--Brompton-Electric-T-Line-with-E-Motiq.jpg"
+        },
+        {
+          "id": "a0bb12f593a5",
+          "title": "This At-Home Hair Growth System Just Dropped in Price",
+          "url": "https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/",
+          "source": "Wired",
+          "published": "2026-03-15T11:00:00+00:00",
+          "summary": "Our favorite red light therapy device for hair growth just dropped in price. Grab it while it lasts.",
+          "image": "https://media.wired.com/photos/69b44bf65ff430b3154733a3/master/pass/The-Best-Red-Light-Hair-Growth-Device-You-Can-Buy-Is-on-Sale.jpg"
+        },
+        {
+          "id": "e25655f43ff6",
+          "title": "iGarden M1 Pro Max 100 Review: A Sports Car for Your Pool",
+          "url": "https://www.wired.com/review/igarden-m1-pro-max-100-pool-robot/",
+          "source": "Wired",
+          "published": "2026-03-15T10:32:00+00:00",
+          "summary": "iGarden's new pool-cleaning robot pairs sporty design with a long runtime, though there are a few quirks.",
+          "image": "https://media.wired.com/photos/69b574c39dac584a2261aa12/master/pass/Review--iGarden-M1-Pro-Max-100-Pool-Robot.jpg"
+        },
+        {
+          "id": "867735e358ad",
+          "title": "Razer Boomslang 20th Anniversary Mouse Review: For Collectors",
+          "url": "https://www.wired.com/review/razer-boomslang-20th-anniversary/",
+          "source": "Wired",
+          "published": "2026-03-15T10:00:00+00:00",
+          "summary": "Despite a price tag that’s a literal joke, this is still a cool collector’s item for gaming nerds.",
+          "image": "https://media.wired.com/photos/69b4743f4c5f5e935676da4d/master/pass/Razer-Boomslang-source-Henri-Robbins.jpg"
+        },
+        {
+          "id": "b648f8f03dd2",
+          "title": "Eighty Years Later, the Chemex Still Makes Better Coffee",
+          "url": "https://www.wired.com/story/chemex-makes-every-other-coffee-maker-seem-tacky/",
+          "source": "Wired",
+          "published": "2026-03-15T09:46:00+00:00",
+          "summary": "The iconic hourglass pour-over brewer proves great design never goes out of style.",
+          "image": "https://media.wired.com/photos/69b56f8372144dc26f32db5c/master/pass/The-Chemex-Makes-Every-Other-Coffee-Maker-Seem-Tacky.jpg"
+        },
+        {
+          "id": "9124f3f6263e",
+          "title": "A New Study Details How Cats Almost Always Land on Their Feet",
+          "url": "https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/",
+          "source": "Wired",
+          "published": "2026-03-15T09:00:00+00:00",
+          "summary": "The secret to this acrobatic skill lies in an extremely flexible part of the spine that allows cats to twist in the air and land safely.",
+          "image": "https://media.wired.com/photos/69b4789121798c785e64c18e/master/pass/1059347572"
+        },
+        {
+          "id": "e882a1bdd27c",
+          "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
+          "url": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
+          "source": "The Verge",
+          "published": "2026-03-14T21:57:07+00:00",
+          "summary": "In September, Donald Trump claimed that \"the United States is getting a tremendous fee \" for brokering the TikTok deal. Now sources tell the Wall Street Journal and the New York Times that fee is expected to be in the range of $10 billion. The money is supposedly being paid by ne",
+          "image": null
+        },
+        {
+          "id": "b4030acbdc87",
+          "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/",
+          "source": "BleepingComputer",
+          "published": "2026-03-14T21:48:14+00:00",
+          "summary": "Microsoft has released an out-of-band (OOB) update to fix a security vulnerabilities affecting Windows 11 Enterprise devices that receive hotpatch updates instead of the regular Patch Tuesday cumulative updates. [...]",
+          "image": null
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 8,
+      "briefing": "Today's Race, Religion & Royalty section covers 8 stories.",
+      "articles": [
+        {
+          "id": "9407b1d303b3",
+          "title": "NGO kritik polis soal siasat 14 aktivis, ahli akademik",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/16/ngo-kritik-polis-soal-siasat-14-aktivis-ahli-akademik",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-16T06:00:31+00:00",
+          "summary": "Pengerusi Bersih Faisal Abdul Aziz (duduk, dua dari kanan) berkata polis kemuka 80 soalan kepada individu dipanggil untuk soal siasat, termasuk sumber maklumat, pembiayaan dan kaitan individu dengan organisasi. PETALING JAYA: Beberapa NGO berkata, soal siasat polis ke atas 14 akt",
+          "image": null
+        },
+        {
+          "id": "eba09ec85b80",
+          "title": "Vietnam braces for flight cuts from April after China, Thailand ban jet fuel exports",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/03/16/vietnam-braces-for-flight-cuts-from-april-after-china-thailand-ban-jet-fuel-exports",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-16T05:44:41+00:00",
+          "summary": "VietJet Air and Vietnam Airlines face turbulence as aviation fuel supply disruptions hit services. (VietJet pic) HANOI: Vietnamese authorities have warned the country s aviation industry to prepare for potential flight reductions from April after China and Thailand halted exports",
+          "image": null
+        },
+        {
+          "id": "8aa80d5301a9",
+          "title": "Rosmah s appeal hearing in solar hybrid project case to begin July 1",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/16/rosmah039s-appeal-hearing-in-solar-hybrid-project-case-to-begin-july-1",
+          "source": "The Star Malaysia",
+          "published": "2026-03-16T05:17:00+00:00",
+          "summary": "PUTRAJAYA: The Court of Appeal on Monday (March 16) fixed three days from July 1 to hear Datin Seri Rosmah Mansor's appeal to set aside her conviction and sentence in the RM1.25bil solar hybrid project corruption case. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/16/3815183.jpg"
+        },
+        {
+          "id": "4c4f0458446e",
+          "title": "Anwar, pemimpin negara Islam adakan pusingan kedua rundingan konflik Asia Barat",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/16/anwar-pemimpin-negara-islam-adakan-pusingan-kedua-rundingan-konflik-asia-barat",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-16T05:00:39+00:00",
+          "summary": "Perdana Menteri Anwar Ibrahim berkata perbincangan pusingan kedua itu bagi mendapatkan gambaran menyeluruh situasi semakin kompleks di rantau Asia Barat. (Gambar Bernama) PUTRAJAYA: Perdana Menteri, Anwar Ibrahim sudah mengadakan perbincangan pusingan kedua dengan beberapa pemimp",
+          "image": null
+        },
+        {
+          "id": "5bd4fb41f85b",
+          "title": "Think tank warns against tougher stance in Mideast conflict",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/16/think-tank-warns-against-tougher-stance-in-mideast-conflict",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-16T04:54:47+00:00",
+          "summary": "Diplomatic efforts could strengthen unity among Muslim nations while positioning Malaysia as a credible mediator between Gulf states, said the International Institute of Advanced Islamic Studies Malaysia. (Facebook pic) PETALING JAYA: A think tank has cautioned against calls for ",
+          "image": null
+        },
+        {
+          "id": "5d0a227b8d81",
+          "title": "PN gesa sidang khas Parlimen bincang pembatalan perjanjian dagang dengan AS",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/16/pn-gesa-sidang-khas-parlimen-bincang-pembatalan-perjanjian-dagang-dengan-as",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-16T04:42:18+00:00",
+          "summary": "Takiyuddin Hassan berkata pembatalan ART menunjukkan pentingnya penilaian rapi sebelum Malaysia memeterai komitmen perdagangan antarabangsa. PETALING JAYA: Perikatan Nasional (PN) menggesa sidang khas Dewan Rakyat diadakan bagi membincangkan pembatalan perjanjian perdagangan timb",
+          "image": null
+        },
+        {
+          "id": "add22d5b8a51",
+          "title": "Govt must explain Msia-US ART deal’s termination, effects on economy, says Perikatan",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/16/govt-must-explain-msia-us-art-deals-termination-effects-on-economy-says-perikatan",
+          "source": "The Star Malaysia",
+          "published": "2026-03-16T04:24:00+00:00",
+          "summary": "KUALA LUMPUR: The Opposition has urged the government to clarify to Parliament the status of the Malaysia-US Reciprocal Trade Agreement (ART) after a US Supreme Court ruling resulted in the deal being nullified. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/16/3815091.jpg"
+        },
+        {
+          "id": "6e75219214e4",
+          "title": "In joint patrols with China, Vietnam steers course between 2 powers",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3346656/joint-patrols-china-vietnam-steers-course-between-two-powers?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "published": "2026-03-15T11:00:12+00:00",
+          "summary": "Chinese and Vietnamese personnel will carry out a joint naval patrol and training exercise in the Gulf of Tonkin this week, extending a practice that has continued despite long-standing competing maritime claims. The joint manoeuvres will take place as part of the China-Vietnam B",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/15/77d5470b-ffdb-4504-a92f-be6162598c98_9f896c27.jpg?itok=gkgVJ_QB&v=1773566536"
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 5,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 5 stories.",
+      "articles": [
+        {
+          "id": "8aa80d5301a9",
+          "title": "Rosmah s appeal hearing in solar hybrid project case to begin July 1",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/16/rosmah039s-appeal-hearing-in-solar-hybrid-project-case-to-begin-july-1",
+          "source": "The Star Malaysia",
+          "published": "2026-03-16T05:17:00+00:00",
+          "summary": "PUTRAJAYA: The Court of Appeal on Monday (March 16) fixed three days from July 1 to hear Datin Seri Rosmah Mansor's appeal to set aside her conviction and sentence in the RM1.25bil solar hybrid project corruption case. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/16/3815183.jpg"
+        },
+        {
+          "id": "3a457c348597",
+          "title": "Zamri not being charged today, says lawyer",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/16/zamri-not-being-charged-today-says-lawyer",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-16T05:15:43+00:00",
+          "summary": "Independent preacher Zamri Vinoth has denied evading authorities and said he is ready to cooperate with the police. PETALING JAYA: Zamri Vinoth’s lawyer has denied that the independent preacher will be charged today, saying police investigations are ongoing. Lawyer Haniff Khatri ",
+          "image": null
+        },
+        {
+          "id": "4c4f0458446e",
+          "title": "Anwar, pemimpin negara Islam adakan pusingan kedua rundingan konflik Asia Barat",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/16/anwar-pemimpin-negara-islam-adakan-pusingan-kedua-rundingan-konflik-asia-barat",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-16T05:00:39+00:00",
+          "summary": "Perdana Menteri Anwar Ibrahim berkata perbincangan pusingan kedua itu bagi mendapatkan gambaran menyeluruh situasi semakin kompleks di rantau Asia Barat. (Gambar Bernama) PUTRAJAYA: Perdana Menteri, Anwar Ibrahim sudah mengadakan perbincangan pusingan kedua dengan beberapa pemimp",
+          "image": null
+        },
+        {
+          "id": "5d0a227b8d81",
+          "title": "PN gesa sidang khas Parlimen bincang pembatalan perjanjian dagang dengan AS",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/16/pn-gesa-sidang-khas-parlimen-bincang-pembatalan-perjanjian-dagang-dengan-as",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-16T04:42:18+00:00",
+          "summary": "Takiyuddin Hassan berkata pembatalan ART menunjukkan pentingnya penilaian rapi sebelum Malaysia memeterai komitmen perdagangan antarabangsa. PETALING JAYA: Perikatan Nasional (PN) menggesa sidang khas Dewan Rakyat diadakan bagi membincangkan pembatalan perjanjian perdagangan timb",
+          "image": null
+        },
+        {
+          "id": "add22d5b8a51",
+          "title": "Govt must explain Msia-US ART deal’s termination, effects on economy, says Perikatan",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/16/govt-must-explain-msia-us-art-deals-termination-effects-on-economy-says-perikatan",
+          "source": "The Star Malaysia",
+          "published": "2026-03-16T04:24:00+00:00",
+          "summary": "KUALA LUMPUR: The Opposition has urged the government to clarify to Parliament the status of the Malaysia-US Reciprocal Trade Agreement (ART) after a US Supreme Court ruling resulted in the deal being nullified. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/16/3815091.jpg"
+        }
+      ]
+    }
+  }
+}
