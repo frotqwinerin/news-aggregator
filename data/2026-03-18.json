@@ -1,0 +1,477 @@
+{
+  "date": "2026-03-18",
+  "generated_at": "2026-03-18T05:45:44.190283+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "0d83ca9510f7",
+          "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+          "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+          "source": "The Hacker News",
+          "published": "2026-03-18T05:06:00+00:00",
+          "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges. The vulnerability, tracked as CVE-2026-32746, ca",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7eXnUZ_n354WSYj7Qjrk3sBFZkhyQ41VtRezIQRVo3KqzZJDE_A7CqshkkQ6RCiOyS1zuS8liODqSRGhURLUozRKEDZ6BmKyOxBVy8K0EF5TQB5QlyC7c1Cv0mHSj0BNwtGAS-PgOUobvSWJ1b82qWBHCMEocTyoOayx69DzM_gveQSuD1zbjYAjziX7/s1600/linux.jpg"
+        },
+        {
+          "id": "759e38e9768d",
+          "title": "50% Off DoorDash Promo Code | March 2026",
+          "url": "https://www.wired.com/story/doordash-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-18T05:00:00+00:00",
+          "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and up to 50% off for existing customers.",
+          "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg"
+        },
+        {
+          "id": "615fcb9ad5d9",
+          "title": "$20 Chewy Promo Code | March 2026",
+          "url": "https://www.wired.com/story/chewy-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-18T05:00:00+00:00",
+          "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more March 2026 discounts.",
+          "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg"
+        },
+        {
+          "id": "8a749b34846f",
+          "title": "NordVPN Coupons and Deals: 77% Off in March 2026",
+          "url": "https://www.wired.com/story/nordvpn-coupon/",
+          "source": "Wired",
+          "published": "2026-03-18T05:00:00+00:00",
+          "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+          "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg"
+        },
+        {
+          "id": "8a4b7aa5bc72",
+          "title": "AT&T Promo Codes and Bundle Deals: Save $50 in March",
+          "url": "https://www.wired.com/story/att-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-18T05:00:00+00:00",
+          "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+          "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png"
+        },
+        {
+          "id": "03d74fa8be77",
+          "title": "Apple pushes first Background Security Improvements update to fix WebKit flaw",
+          "url": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/",
+          "source": "BleepingComputer",
+          "published": "2026-03-18T01:06:31+00:00",
+          "summary": "Apple has released its first Background Security Improvements update to fix a WebKit flaw tracked as CVE-2026-20643 on iPhones, iPads, and Macs without requiring a full operating system upgrade. [...]",
+          "image": null
+        },
+        {
+          "id": "a842f44a1724",
+          "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
+          "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+          "source": "Wired",
+          "published": "2026-03-18T00:51:14+00:00",
+          "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
+          "image": "https://media.wired.com/photos/69b9b3b8a5694fbea42e1cf8/master/pass/buisness_DOD_Anthropic_GettyImages-2265262796.jpg"
+        },
+        {
+          "id": "d45fb380f485",
+          "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+          "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+          "source": "MIT Tech Review",
+          "published": "2026-03-17T22:30:46+00:00",
+          "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned. AI models like Anthropic’s Claude are already used to answer questions in classifi",
+          "image": null
+        },
+        {
+          "id": "ab8e82b6ee62",
+          "title": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
+          "url": "https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/",
+          "source": "Wired",
+          "published": "2026-03-17T22:24:51+00:00",
+          "summary": "Meta’s flailing virtual reality social experience is being discontinued in June. It's part of Meta’s broader moves to slim down the business that became its namesake.",
+          "image": "https://media.wired.com/photos/69b9b30e4535338fba83cb77/master/pass/buisness_metashutdown_GettyImages-1237182493.jpg"
+        },
+        {
+          "id": "fec1bbb789b1",
+          "title": "More Attackers Are Logging In, Not Breaking In",
+          "url": "https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in",
+          "source": "Dark Reading",
+          "published": "2026-03-17T22:04:46+00:00",
+          "summary": "Credential theft soared in the second half of 2025, thanks in part to the industrialization of infostealer malware and AI-enabled social engineering.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte1c1a2e88d4ce9b9/69b9bbb4f23269821ba62200/credentials_iWissawa_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "3b95c948b5f3",
+          "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
+          "url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
+          "source": "BleepingComputer",
+          "published": "2026-03-17T21:42:54+00:00",
+          "summary": "The GlassWorm supply-chain campaign has returned with a new, coordinated attack that targeted hundreds of packages, repositories, and extensions on GitHub, npm, and VSCode/OpenVSX extensions. [...]",
+          "image": null
+        },
+        {
+          "id": "ffdcbb56df64",
+          "title": "Less Lucrative Ransomware Market Makes Attackers Alter Methods",
+          "url": "https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods",
+          "source": "Dark Reading",
+          "published": "2026-03-17T21:41:12+00:00",
+          "summary": "Ransomware actors are ditching Cobalt Strike in favor of native Windows tools, as payment rates hit record lows and data theft surges.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte72d0bf351c7e0d2/69b9b4c0a7730701b4a14225/farmer_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "1f70c2dd93bb",
+          "title": "Kalshi’s legal troubles pile up, as Arizona files first ever criminal charges over ‘illegal gambling business’",
+          "url": "https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/",
+          "source": "TechCrunch",
+          "published": "2026-03-17T21:39:17+00:00",
+          "summary": "It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.",
+          "image": null
+        },
+        {
+          "id": "1ac9936aae8a",
+          "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app",
+          "url": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/",
+          "source": "Ars Technica",
+          "published": "2026-03-17T21:38:33+00:00",
+          "summary": "Musi, a free music streaming app that had tens of millions of iPhone downloads and garnered plenty of controversy over its method of acquiring music, has lost an attempt to get back on Apple's App Store. A federal judge dismissed Musi's lawsuit against Apple with prejudice and sa",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/musi-500x500.png"
+        },
+        {
+          "id": "9711d0e9932d",
+          "title": "How World ID wants to put a unique human identity on every AI agent",
+          "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
+          "source": "Ars Technica",
+          "published": "2026-03-17T21:28:27+00:00",
+          "summary": "Over the last few months, tools like OpenClaw have shown what tech-savvy AI users can do by setting a virtual cadre of automated agents on a task. But that individual convenience can be a DDOS-level pain for online service providers faced with a torrent of Sybil attack-style requ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-667311229-500x500.jpg"
+        },
+        {
+          "id": "4ca4185fcd4e",
+          "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+          "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+          "source": "TechCrunch",
+          "published": "2026-03-17T21:00:00+00:00",
+          "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+          "image": null
+        },
+        {
+          "id": "a968ecbfd31d",
+          "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+          "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+          "source": "TechCrunch",
+          "published": "2026-03-17T20:50:04+00:00",
+          "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+          "image": null
+        },
+        {
+          "id": "651e6e065eb0",
+          "title": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
+          "url": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
+          "source": "The Verge",
+          "published": "2026-03-17T20:47:35+00:00",
+          "summary": "It is day 13 of America's surprise war with Iran - by sheer coincidence, it's Friday the 13th - and I am delirious. I haven't had a coffee since I woke up at 5AM, because I'm not allowed to bring outside beverages into the Pentagon (the security screening cutoff was at 7AM for th",
+          "image": null
+        },
+        {
+          "id": "c8dce38a6812",
+          "title": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
+          "url": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
+          "source": "The Verge",
+          "published": "2026-03-17T20:38:08+00:00",
+          "summary": "Earlier this week, Apple unveiled the AirPods Max 2 . The forthcoming over-ear headphones build on their predecessor with an H2 chip that powers a range of new features; however, they still don’t offer the sort of cross-OS compatibility you’ll get with a modern pair of Beats head",
+          "image": null
+        },
+        {
+          "id": "de5776215bd2",
+          "title": "DoorDash Reservations Scored America’s Most Exclusive Restaurants",
+          "url": "https://www.wired.com/story/doordash-reservations-exclusive-restaurants/",
+          "source": "Wired",
+          "published": "2026-03-17T20:32:13+00:00",
+          "summary": "After the rise (and fall) of reservation scalping, DoorDash and a host of apps are fighting to book you a seat at the country’s most exclusive restaurants.",
+          "image": "https://media.wired.com/photos/69b85a211d0dc350fb54192b/master/pass/doordash-elena-lacey%20(1).jpg"
+        },
+        {
+          "id": "1db25ca99233",
+          "title": "Apple rolls out first ‘background security’ update for iPhones, iPads, and Macs to fix Safari bug",
+          "url": "https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/",
+          "source": "TechCrunch",
+          "published": "2026-03-17T20:10:45+00:00",
+          "summary": "Apple's first-ever \"background security improvement\" fixes a vulnerability in its Safari browser running its latest software.",
+          "image": null
+        },
+        {
+          "id": "1cf4bdd2b868",
+          "title": "Kagi brings its ‘small web’ of a human-only internet to mobile devices",
+          "url": "https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/",
+          "source": "TechCrunch",
+          "published": "2026-03-17T20:03:26+00:00",
+          "summary": "Kagi's \"Small Web\" offers a handpicked collection of more than 30,000 non-commercial, human-authored websites, including personal blogs, webcomics, and independent videos.",
+          "image": null
+        },
+        {
+          "id": "a8a517f10ed1",
+          "title": "Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish",
+          "url": "https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish",
+          "source": "Dark Reading",
+          "published": "2026-03-17T19:41:24+00:00",
+          "summary": "In an unsuccessful phishing attack, threat actors leveraged trusted brands and domains to try to redirect a C-suite executive at Outpost24 to give up his credentials.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3587241c66f92ae3/69b97dcdccf6a3497fc59660/phishing_tadamichi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "7ad48b8de0dd",
+          "title": "Remedy’s live-service shooter Firebreak is getting its final major update",
+          "url": "https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy",
+          "source": "The Verge",
+          "published": "2026-03-17T19:36:45+00:00",
+          "summary": "FBC: Firebreak. | Image: Remedy Entertainment Remedy is winding down its team shooter FBC: Firebreak with a big update that launches today. But while the game won't be getting any new content going forward, the studio intends to keep it alive for the foreseeable future. It's yet ",
+          "image": null
+        },
+        {
+          "id": "f07700f78084",
+          "title": "Spotify adds Exclusive Mode audiophile feature for Windows PCs",
+          "url": "https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows",
+          "source": "The Verge",
+          "published": "2026-03-17T19:33:29+00:00",
+          "summary": "Starting Tuesday, Spotify users will have access to \"Exclusive Mode,\" a new feature in the streaming service's Windows app that can help maximize audio quality by giving the Spotify app full control over your device's audio processing. According to Spotify, \"your computer may alt",
+          "image": null
+        },
+        {
+          "id": "c6937260b543",
+          "title": "Arizona indicts prediction market Kalshi for running illegal gambling operation",
+          "url": "https://arstechnica.com/tech-policy/2026/03/arizona-indicts-prediction-market-kalshi-for-running-illegal-gambling-operation/",
+          "source": "Ars Technica",
+          "published": "2026-03-17T19:28:26+00:00",
+          "summary": "Arizona’s attorney general filed criminal charges against prediction market Kalshi, accusing it of operating a gambling business without a license and offering illegal wagers on elections. “Kalshi may brand itself as a ‘prediction market,’ but what it’s actually doing is running ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/kalshi-500x500.jpg"
+        },
+        {
+          "id": "bde14f09cd9f",
+          "title": "FDA links raw cheese to outbreak; Makers \"100% disagree,\" refuse recall",
+          "url": "https://arstechnica.com/health/2026/03/fda-links-raw-cheese-to-outbreak-makers-100-disagree-refuse-recall/",
+          "source": "Ars Technica",
+          "published": "2026-03-17T18:53:12+00:00",
+          "summary": "The Food and Drug Administration has linked cheddar cheese made from raw (unpasteurized) milk to a multistate outbreak of Shiga toxin-producing E. coli . But the cheese's maker, Raw Farm, is rejecting the regulator's findings and refusing to voluntarily recall its cheese. In an o",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/RAW-FARM-Raw-Cheddar-Cheese-Label-500x500.png"
+        },
+        {
+          "id": "8d2ddb284983",
+          "title": "Ikea tried to build a smart home for everyone — here s why it s not working yet",
+          "url": "https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems",
+          "source": "The Verge",
+          "published": "2026-03-17T18:45:14+00:00",
+          "summary": "Ikea’s new smart bulbs, sensors, and remotes use Matter-over-Thread to connect to any compatible ecosystem — including Apple Home and Amazon Alexa. In theory. | Photo by Jennifer Pattison Tuohy / The Verge Ikea's new Matter-over-Thread products were supposed to prove that the sma",
+          "image": null
+        },
+        {
+          "id": "9ab9888e2d70",
+          "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
+          "url": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
+          "source": "BleepingComputer",
+          "published": "2026-03-17T18:41:59+00:00",
+          "summary": "The European Union Council has announced sanctions against three entities and two individuals for their involvement in cyberattacks targeting critical infrastructure in the region. [...]",
+          "image": null
+        },
+        {
+          "id": "ba0ebfd3e0b6",
+          "title": "The Pentagon is developing alternatives to Anthropic, report says",
+          "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+          "source": "TechCrunch",
+          "published": "2026-03-17T18:20:15+00:00",
+          "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+          "image": null
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 10,
+      "briefing": "Today's Race, Religion & Royalty section covers 10 stories.",
+      "articles": [
+        {
+          "id": "fe0f92a67bd4",
+          "title": "Swift action needed to shield vulnerable MSMEs from Iran war impact, says MEF",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/18/swift-action-needed-to-shield-vulnerable-msmes-from-iran-war-impact-says-mef",
+          "source": "The Star Malaysia",
+          "published": "2026-03-18T05:05:00+00:00",
+          "summary": "PETALING JAYA: Businesses are beginning to feel mounting cost pressures from the ongoing Middle East conflict, with early signs of rising fuel prices, freight charges and insurance premiums emerging across key sectors, according to the Malaysian Employers Federation (MEF). Read f",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/18/3819205.jpg"
+        },
+        {
+          "id": "2c647e82e1d3",
+          "title": "Saya sentiasa bersama pekerja, kata Sim susulan pertikaian perusahaan",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/18/saya-sentiasa-bersama-pekerja-kata-sim-susulan-pertikaian-perusahaan",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-18T04:15:52+00:00",
+          "summary": "Bekas menteri sumber manusia Steven Sim berkata prosiding undang-undang sedang berjalan berkaitan pertikaian perusahaan perlu diserahkan kepada mahkamah. KUALA LUMPUR: Bekas menteri sumber manusia, Steven Sim, menegaskan beliau akan sentiasa berpihak kepada pekerja di tengah-teng",
+          "image": null
+        },
+        {
+          "id": "3d52901f3058",
+          "title": "Mahkamah Singapura kekal hukuman penjara 2 ahli perniagaan Malaysia",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/18/mahkamah-singapura-kekal-hukuman-penjara-2-ahli-perniagaan-malaysia",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-18T03:58:11+00:00",
+          "summary": "Mahkamah Rayuan Singapura mengekalkan hukuman penjara 36 tahun dan 20 tahun terhadap ahli perniagaan Malaysia John Soh serta rakan konspirasinya, Quah Su-Ling, atas kesalahan manipulasi pasaran saham. PETALING JAYA: Mahkamah Rayuan Singapura hari ini menolak rayuan oleh ahli pern",
+          "image": null
+        },
+        {
+          "id": "dc88a970af58",
+          "title": "Singapore court dismisses John Soh’s appeal for less jail time",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/18/singapore-court-dismisses-john-sohs-appeal-for-less-jail-time",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-18T03:45:53+00:00",
+          "summary": "Singapore’s Court of Appeal affirmed the 36- and 20-year prison sentences passed on Malaysian businessman John Soh and co-conspirator Quah Su-Ling for stock market manipulation offences. PETALING JAYA: Singapore’s Court of Appeal today dismissed the appeal by Malaysian businessma",
+          "image": null
+        },
+        {
+          "id": "7535abdf964d",
+          "title": "Sunway Healthcare soars after biggest IPO in 9 Years",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/03/18/sunway-healthcare-soars-after-biggest-ipo-in-9-years",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-18T03:43:22+00:00",
+          "summary": "The healthcare provider will use the proceeds for capital expenditure, including expanding existing hospitals, building a new facility and redeeming Islamic medium-term notes. KUALA LUMPUR: Shares of Sunway Healthcare Bhd. jumped nearly 32% in their debut after the company raised",
+          "image": null
+        },
+        {
+          "id": "a4282188fa27",
+          "title": "Najib mohon hidupkan semula saman RM1.9 juta terhadap Tommy Thomas",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/18/najib-mohon-hidupkan-semula-saman-rm1-9-juta-terhadap-tommy-thomas",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-18T03:33:41+00:00",
+          "summary": "Saman Najib Razak terhadap Tommy Thomas itu berkait dakwaan penyalahgunaan budi bicara pendakwaan berkaitan pertuduhan 1MDB dan International Petroleum Investment Company (IPIC). PUTRAJAYA: Bekas perdana menteri Najib Razak membuat langkah terakhir dengan memohon kepada Mahkamah ",
+          "image": null
+        },
+        {
+          "id": "028ba51d0980",
+          "title": "I will always stand with workers, Sim says amid trade dispute",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/18/i-will-always-stand-with-workers-sim-says-amid-trade-dispute",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-18T03:24:07+00:00",
+          "summary": "Former human resources minister Steven Sim said the ongoing legal proceedings related to the trade dispute should be left to the courts. KUALA LUMPUR: Former human resources minister Steven Sim today reiterated that he would always side with workers, amid a trade dispute in court",
+          "image": null
+        },
+        {
+          "id": "efc56d1c72f6",
+          "title": "China adapts C909 jet operations in Laos – a blueprint for Southeast Asia and beyond?",
+          "url": "https://www.scmp.com/economy/global-economy/article/3346906/china-adapts-c909-jet-operations-laos-blueprint-southeast-asia-and-beyond?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "published": "2026-03-18T02:00:14+00:00",
+          "summary": "China’s leading planemaker is seeking to replicate the C909 regional airliner’s success in Laos, drawing on the experience as it steps up its sales pitch in Southeast Asia – a vital step in its effort to eventually rival Boeing and Airbus. The Commercial Aircraft Corporation of C",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/c6ccc47b-878a-4dee-b447-ed9fda6d6cb7_0c32c60a.jpg?itok=JXR4ByeG&v=1773745883"
+        },
+        {
+          "id": "d74ea9d705d4",
+          "title": "Frenzy over AI agent OpenClaw shows the lobster has escaped the pot",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3346562/frenzy-over-ai-agent-openclaw-shows-lobster-has-escaped-pot?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "published": "2026-03-17T21:30:08+00:00",
+          "summary": "In China this month, people have been lining up on streets to install an AI programme on their computers. Some had travelled from other cities. Others had waited for hours for engineers to set it up for them. There were even “birth certificates” given out upon installation. The p",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/17/c30c70e5-5b8d-416e-99a4-9598b6f56bc4_05aa0476.jpg?itok=0wvOUZ0b&v=1773714042"
+        },
+        {
+          "id": "aca64f7e5e12",
+          "title": "Malaysia and Indonesia Shouldn’t Ban YouTube for Under-16s",
+          "url": "https://thediplomat.com/2026/03/malaysia-and-indonesia-shouldnt-ban-youtube-for-under-16s/",
+          "source": "The Diplomat",
+          "published": "2026-03-17T02:17:00+00:00",
+          "summary": "One of the great storehouses of public information may soon become collateral damage in the region's child social media bans.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2024/02/thediplomat_2024-02-09-161719.jpg"
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 9,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 9 stories.",
+      "articles": [
+        {
+          "id": "ddf9d36f62c3",
+          "title": "Five nabbed, drugs worth RM2.5mil seized in Sabah raids",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/18/five-nabbed-drugs-worth-rm25mil-seized-in-sabah-raids",
+          "source": "The Star Malaysia",
+          "published": "2026-03-18T05:30:00+00:00",
+          "summary": "KOTA KINABALU: Five suspected first-time drug transporters and dealers are facing the possible death penalty after they were arrested in several raids here and Tawau that saw narcotics worth over RM2.5mil seized. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/18/3819280.jpg"
+        },
+        {
+          "id": "04b09ecb31d9",
+          "title": "Cloned vehicle syndicate busted in CID sweep",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/18/cloned-vehicle-syndicate-busted-in-cid-sweep",
+          "source": "The Star Malaysia",
+          "published": "2026-03-18T05:25:00+00:00",
+          "summary": "KUALA LUMPUR: Some RM1.1mil worth of cloned vehicles have been seized in a massive enforcement operation spanning six states and territories. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/18/3819273.jpg"
+        },
+        {
+          "id": "61cc7c9c0eda",
+          "title": "Sindiket edar dadah tumpas, polis rampas syabu hampir RM2.65 juta",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/18/sindiket-edar-dadah-tumpas-polis-rampas-syabu-hampir-rm2-65-juta",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-18T05:21:46+00:00",
+          "summary": "Pesuruhjaya Polis Sabah Jauteh Dikun berkata semua suspek kini direman bagi membantu siasatan mengikut Seksyen 39B Akta Dadah Berbahaya 1952. (Gambar Bernama) PETALING JAYA: Polis berjaya merampas lebih 53kg dadah jenis syabu bernilai hampir RM2.65 juta selepas menumpaskan kegiat",
+          "image": null
+        },
+        {
+          "id": "9e3a9dc057d2",
+          "title": "Plantation worker charged with causing college student s death",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/18/plantation-worker-charged-with-causing-college-student039s-death",
+          "source": "The Star Malaysia",
+          "published": "2026-03-18T05:06:00+00:00",
+          "summary": "TELUK INTAN: An Indonesian plantation worker has been charged in the Magistrate's Court here with causing the death and injury of two students from Teluk Intan Agricultural Vocational College in an incident last week. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/18/3819229.jpg"
+        },
+        {
+          "id": "233a079c9a35",
+          "title": "Kematian doktor pelatih tiada kaitan kes gangguan seksual di hospital sama",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/18/kematian-doktor-pelatih-tiada-kaitan-kes-gangguan-seksual-di-hospital-sama",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-18T05:00:52+00:00",
+          "summary": "Ketua Polis Kelantan Mohd Yusoff Mamat berkata dua kes yang berlaku di sebuah hospital di Kuala Krai itu membabitkan suspek dan mangsa berbeza. (Gambar Bernama) PETALING JAYA: Kematian seorang doktor pelatih di asrama hospital di Kuala Krai awal bulan ini tiada kaitan dengan kes ",
+          "image": null
+        },
+        {
+          "id": "064b12a2a9b8",
+          "title": "Youth charged with murdering woman in JB hotel room",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/18/youth-charged-with-murdering-woman-in-jb-hotel-room",
+          "source": "The Star Malaysia",
+          "published": "2026-03-18T04:11:00+00:00",
+          "summary": "JOHOR BARU: A foreign youth has been charged with murdering a woman, believed to be a sex worker, in a hotel room at Taman Maju Jaya near here last week. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/18/3819111.jpg"
+        },
+        {
+          "id": "a1730f9ae9c8",
+          "title": "High Demand in India Intensifies Timber Smuggling From Myanmar",
+          "url": "https://thediplomat.com/2026/03/high-demand-in-india-intensifies-timber-smuggling-from-myanmar/",
+          "source": "The Diplomat",
+          "published": "2026-03-17T09:46:00+00:00",
+          "summary": "Timber worth a whopping $40 million is smuggled from Myanmar to India annually. This is a conservative estimate.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-17-185105.jpeg"
+        },
+        {
+          "id": "2a7cf511015a",
+          "title": "‘I Was Forced to Shock Them’: Life Inside Cambodia’s Online Scam Compounds",
+          "url": "https://thediplomat.com/2026/03/i-was-forced-to-shock-them-life-inside-cambodias-online-scam-compounds/",
+          "source": "The Diplomat",
+          "published": "2026-03-17T05:06:00+00:00",
+          "summary": "There's been widespread focus on foreigners trafficked into Cambodia's cyber-scam compounds. But a growing number of Cambodian nationals are being forced to work in the illegal industry as well.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-17-142042.jpg"
+        },
+        {
+          "id": "37e455036586",
+          "title": "The UK’s Ban on Student Visas for Myanmar Students Is an Insult to a Nation in Turmoil",
+          "url": "https://thediplomat.com/2026/03/the-u-k-s-ban-on-student-visas-for-myanmar-students-is-an-insult-to-a-nation-in-turmoil/",
+          "source": "The Diplomat",
+          "published": "2026-03-17T02:10:00+00:00",
+          "summary": "The decision contradicts the values that the U.K. claims to represent, to say nothing of its supposed support for democracy in Myanmar.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2024/09/thediplomat_2024-09-27-014147.jpg"
+        }
+      ]
+    }
+  }
+}
