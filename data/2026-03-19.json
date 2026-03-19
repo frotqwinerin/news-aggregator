@@ -1,0 +1,468 @@
+{
+  "date": "2026-03-19",
+  "generated_at": "2026-03-19T05:40:18.663521+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "271cb0e845a8",
+          "title": "Best Buy Discount Codes and Deals: Up to 60% Off",
+          "url": "https://www.wired.com/story/best-buy-discount-code/",
+          "source": "Wired",
+          "published": "2026-03-19T05:00:00+00:00",
+          "summary": "Save at Best Buy with 10% back in rewards for new cardmembers, free 2-day shipping with My Best Buy Plus, daily deals, price match guarantee, and more.",
+          "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png"
+        },
+        {
+          "id": "58bf00bbacf8",
+          "title": "Nike Promo Codes and Deals: 30% Off",
+          "url": "https://www.wired.com/story/nike-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-19T05:00:00+00:00",
+          "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
+          "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg"
+        },
+        {
+          "id": "fe4e625528ab",
+          "title": "10% Dell Coupon Codes | March 2026",
+          "url": "https://www.wired.com/story/dell-coupon-code/",
+          "source": "Wired",
+          "published": "2026-03-19T05:00:00+00:00",
+          "summary": "Get 10% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+          "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg"
+        },
+        {
+          "id": "cd1a2f13f003",
+          "title": "50% Off Home Depot Promo Codes | March 2026",
+          "url": "https://www.wired.com/story/home-depot-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-19T05:00:00+00:00",
+          "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this March.",
+          "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png"
+        },
+        {
+          "id": "1543f8005f0a",
+          "title": "20% Off LG Promo Code & Coupons | March 2026",
+          "url": "https://www.wired.com/story/lg-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-19T05:00:00+00:00",
+          "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+          "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png"
+        },
+        {
+          "id": "508c9c5da1ee",
+          "title": "30% Off Canon Promo Codes | March 2026",
+          "url": "https://www.wired.com/story/canon-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-19T05:00:00+00:00",
+          "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this March.",
+          "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg"
+        },
+        {
+          "id": "497c39ce1df4",
+          "title": "30% Off Samsung Promo Code | March 2026",
+          "url": "https://www.wired.com/story/samsung-promo-codes/",
+          "source": "Wired",
+          "published": "2026-03-19T05:00:00+00:00",
+          "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+          "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg"
+        },
+        {
+          "id": "75f536a8f876",
+          "title": "25% Off Dyson Promo Code | March 2026",
+          "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-19T05:00:00+00:00",
+          "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+          "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png"
+        },
+        {
+          "id": "402e28f800df",
+          "title": "Meta is having trouble with rogue AI agents",
+          "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+          "source": "TechCrunch",
+          "published": "2026-03-18T23:42:46+00:00",
+          "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+          "image": null
+        },
+        {
+          "id": "e243f7194275",
+          "title": "Sam Altman’s thank-you to coders draws the memes",
+          "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+          "source": "TechCrunch",
+          "published": "2026-03-18T23:12:58+00:00",
+          "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
+          "image": null
+        },
+        {
+          "id": "59b68ecc2695",
+          "title": "Aura confirms data breach exposing 900,000 marketing contacts",
+          "url": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
+          "source": "BleepingComputer",
+          "published": "2026-03-18T22:56:50+00:00",
+          "summary": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses. [...]",
+          "image": null
+        },
+        {
+          "id": "e30568a2544f",
+          "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
+          "url": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
+          "source": "Ars Technica",
+          "published": "2026-03-18T22:06:32+00:00",
+          "summary": "If you've been using the Internet for any length of time, you've probably used a tool like Google Translate to convert webpages or snippets of text to and from languages ranging from Uzbek to Esperanto. But what if you want to translate into more esoteric \"languages\" like \"Linked",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2166043553-500x500.jpg"
+        },
+        {
+          "id": "2c569bd114e1",
+          "title": "The FBI is buying Americans’ location data",
+          "url": "https://www.theverge.com/news/897145/kash-patel-ron-wyden-fbi-location-data-no-warrant",
+          "source": "The Verge",
+          "published": "2026-03-18T21:52:30+00:00",
+          "summary": "WASHINGTON, DC - MARCH 18: Federal Bureau of Investigation Director Kash Patel testifies during a Senate Intelligence Committee hearing on worldwide threats in the Hart Senate Office Building on March 18, 2026 in Washington, DC. A closed session immediately followed the hearing. ",
+          "image": null
+        },
+        {
+          "id": "184773d294c2",
+          "title": "C2 Implant 'SnappyClient' Targets Crypto Wallets",
+          "url": "https://www.darkreading.com/cyberattacks-data-breaches/new-c2-implant-snappyclient-targets-crypto-wallets",
+          "source": "Dark Reading",
+          "published": "2026-03-18T21:49:02+00:00",
+          "summary": "In addition to enabling remote access, the malware supports a wide range of capabilities, including data theft and spying.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0372e765e2f60601/69bb0ab9e800678b63dc8ddb/remoteaccess_Khanthachai_C_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "b4153dbc514d",
+          "title": "Musk’s tactic of blaming users for Grok sex images may be foiled by EU law",
+          "url": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
+          "source": "Ars Technica",
+          "published": "2026-03-18T21:32:20+00:00",
+          "summary": "The European Union may soon ban nudify apps after Elon Musk's chatbot Grok emerged as a prime example of the dangers of an AI platform failing to block outputs that sexualized images of real people, including children . In a joint press release , the European Parliament's Interna",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2256968212-500x500-1773867440.jpg"
+        },
+        {
+          "id": "6cbcb6ee30e4",
+          "title": "DarkSword: iPhone Exploit Kit Serves Spies & Thieves Alike",
+          "url": "https://www.darkreading.com/threat-intelligence/darksword-iphone-exploit-spies-thieves",
+          "source": "Dark Reading",
+          "published": "2026-03-18T21:15:38+00:00",
+          "summary": "A sophisticated iOS exploit chain leverages multiple zero-day vulnerabilities and is targeting users in Saudi Arabia, Turkey, Malaysia, and Ukraine.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4bc589598164c815/69bb0530a773073aa8a1472a/dark_sword_Eugeniusz_Dudzi%25C5%2584ski_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "a5b20a774b37",
+          "title": "Coal plant forced to stay open due to emergency order isn't even running",
+          "url": "https://arstechnica.com/science/2026/03/coal-plant-forced-to-stay-open-due-to-emergency-order-isnt-even-running/",
+          "source": "Ars Technica",
+          "published": "2026-03-18T21:10:45+00:00",
+          "summary": "In the US, the economics of coal power generation are marginal at best, and a large number of coal plants have shut down as cheaper renewables and natural gas have surged. The Trump administration has used a number of methods to swim against this economic tide, the simplest of wh",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1232409436-500x500.jpg"
+        },
+        {
+          "id": "dda1b075954e",
+          "title": "Amazon doesn’t want the blame for the Post Office going under",
+          "url": "https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out",
+          "source": "The Verge",
+          "published": "2026-03-18T20:55:40+00:00",
+          "summary": "Amazon is going on the defensive after a report from The Wall Street Journal revealed that the ecommerce giant plans to slash shipments with the United States Postal Service, which said this week that it's running out of money. In a lengthy statement published on Wednesday , Amaz",
+          "image": null
+        },
+        {
+          "id": "21b55b49ca1b",
+          "title": "Congress considers blowing up internet law",
+          "url": "https://www.theverge.com/policy/897106/section-230-reform-hearing-jawboning-social-media",
+          "source": "The Verge",
+          "published": "2026-03-18T20:54:16+00:00",
+          "summary": "Internet platforms' liability shield Section 230 faced another round of attack at a Senate Commerce Committee hearing on Wednesday, this time with two distinct undercurrents complicating the conversation. One was an unprecedented wave of ongoing legal challenges to the law's scop",
+          "image": null
+        },
+        {
+          "id": "0778e7c3c9c9",
+          "title": "Never mind Band-Aids, Neanderthals had antiseptic birch tar",
+          "url": "https://arstechnica.com/science/2026/03/never-mind-band-aids-neanderthals-had-antiseptic-birch-tar/",
+          "source": "Ars Technica",
+          "published": "2026-03-18T20:46:32+00:00",
+          "summary": "Neanderthals may have used birch tar as more than just glue; it could have helped them ward off infection and even insect bites. People from several modern Indigenous cultures, including the Mi'kmaq of eastern Canada, use tar from birch bark to treat skin infections and keep woun",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/214233_web.jpg"
+        },
+        {
+          "id": "8af459e4138d",
+          "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+          "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+          "source": "TechCrunch",
+          "published": "2026-03-18T20:30:52+00:00",
+          "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+          "image": null
+        },
+        {
+          "id": "24ea86cd7f8a",
+          "title": "Hoto’s powerful PixelDrive electric screwdriver is 25 percent off",
+          "url": "https://www.theverge.com/gadgets/897056/hoto-pixeldrive-electric-screwdriver-amazon-big-spring-sale-deal",
+          "source": "The Verge",
+          "published": "2026-03-18T20:10:05+00:00",
+          "summary": "Hoto makes electric screwdrivers for different budgets. If you don’t want to spend much, you can get its most basic model , which we’ve recommended many times. That one comes with 25 bits, and has three levels of torque for $29.99 (usually $59.99). But if you want more power and ",
+          "image": null
+        },
+        {
+          "id": "6d9ea0f2f905",
+          "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+          "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+          "source": "TechCrunch",
+          "published": "2026-03-18T20:01:19+00:00",
+          "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+          "image": null
+        },
+        {
+          "id": "91accd9f2c59",
+          "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
+          "source": "BleepingComputer",
+          "published": "2026-03-18T19:57:13+00:00",
+          "summary": "CISA has ordered U.S. government agencies to secure their servers against an actively exploited vulnerability in the Zimbra Collaboration Suite (ZCS). [...]",
+          "image": null
+        },
+        {
+          "id": "cb21d169ffc4",
+          "title": "Cloudflare appeals Piracy Shield fine, hopes to kill Italy's site-blocking law",
+          "url": "https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/",
+          "source": "Ars Technica",
+          "published": "2026-03-18T19:36:14+00:00",
+          "summary": "Cloudflare said it has appealed a fine issued by Italy over the company's refusal to block access to websites on its 1.1.1.1 DNS service. The appeal is the latest step in Cloudflare's fight against Italy's Piracy Shield law. Piracy Shield is \"a misguided Italian regulatory scheme",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cloudflare-500x500.jpg"
+        },
+        {
+          "id": "79cbade1c5f1",
+          "title": "The best deals on MacBooks right now",
+          "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+          "source": "The Verge",
+          "published": "2026-03-18T19:35:00+00:00",
+          "summary": "It’s 2026, and that means Apple sells MacBooks equipped with not just its capable M-series processors but A-series chips that were previously exclusive to the iPhone. With the MacBook Neo starting at $599, the company now offers a wider range of options with more sizes and price ",
+          "image": null
+        },
+        {
+          "id": "83cfa125af94",
+          "title": "The Best Outdoor Deals From the REI Member Days Sale (2026)",
+          "url": "https://www.wired.com/story/rei-member-days-sale-2026/",
+          "source": "Wired",
+          "published": "2026-03-18T19:34:39+00:00",
+          "summary": "REI’s Member Days sale has deals on our favorite tents, backpacks, rain jackets, and more gear to outfit you for summer.",
+          "image": "https://media.wired.com/photos/69b4425d57d4981b06a1611f/master/pass/The-Best-Outdoor-Deals-From-the-REI-Member-Days-Sale.jpg"
+        },
+        {
+          "id": "f4ece69f5704",
+          "title": "A private space company has a radical new plan to bag an asteroid",
+          "url": "https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/",
+          "source": "Ars Technica",
+          "published": "2026-03-18T19:00:40+00:00",
+          "summary": "It may sound fanciful, but a Los Angeles-based company says it has conceived of a plan to fly out to a smallish, near-Earth asteroid, throw a large bag around it, and bring the body back to a \"safe\" gathering point near our planet. The company, TransAstra, said Wednesday that an ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/New-Moon-Rotated-060425-500x500.jpg"
+        },
+        {
+          "id": "6be54dcda859",
+          "title": "David Sacks’ big Iran warning gets big time ignored",
+          "url": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+          "source": "The Verge",
+          "published": "2026-03-18T18:44:21+00:00",
+          "summary": "Sec. Scott Bessent, President Donald Trump, and David Sacks during The White House Digital Assets Summit in Washington, DC, on Friday, March 7, 2025. | Chris Kleponis/CNP/Bloomberg via Getty Images Hello and welcome to Regulator , a newsletter for Verge subscribers about the poli",
+          "image": null
+        },
+        {
+          "id": "f31f2ce25195",
+          "title": "FBI is buying location data to track US citizens, director confirms",
+          "url": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
+          "source": "TechCrunch",
+          "published": "2026-03-18T18:32:32+00:00",
+          "summary": "FBI director Kash Patel told lawmakers that the agency is actively purchasing commercially available location data, which can track Americans without needing a warrant.",
+          "image": null
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 10,
+      "briefing": "Today's Race, Religion & Royalty section covers 10 stories.",
+      "articles": [
+        {
+          "id": "1afb201ab810",
+          "title": "KPN jelaskan mengapa Zamri Vinoth digari",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/19/kpn-jelaskan-mengapa-zamri-vinoth-digari",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T05:11:51+00:00",
+          "summary": "Penceramah bebas Zamri Vinoth dan aktivis Arun Dorasamy didakwa di mahkamah berasingan pada Isnin atas pertuduhan membuat kenyataan yang boleh mendatangkan khianat awam. KUALA LUMPUR: Ketua Polis Negara Khalid Ismail menjelaskan mengapa pendakwah bebas Zamri Vinoth dibawa ke mahk",
+          "image": null
+        },
+        {
+          "id": "87cc257ce800",
+          "title": "Dokumen palsu, 1,000 persoalan: Mengapa status pengenalan pemain masih kekal?",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/03/19/dokumen-palsu-1000-persoalan-mengapa-status-pengenalan-pemain-masih-kekal",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T05:08:02+00:00",
+          "summary": "Siapa meluluskan permohonan itu? Siapa memilih untuk tidak bertindak? Dan mengapa kad pengenalan serta pasport yang menjadi asas kepada kemelut bola sepak Malaysia masih kekal tanpa disentuh? Persoalan-persoalan ini kini mencorakkan naratif sukan tersebut, jauh melangkaui isu pot",
+          "image": null
+        },
+        {
+          "id": "6fd36021c3be",
+          "title": "Malaysia scores 81% on happiness index, up from 76%",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/19/malaysia-scores-81-on-happiness-index-up-from-76",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T05:05:16+00:00",
+          "summary": "While financial pressures continue to affect overall happiness, Malaysians’ strong social networks and supportive relationships remain vital sources of resilience, said Ipsos Malaysia. KUALA LUMPUR: Malaysia s ranking on the happiness index rose to 81% in 2026 from 76% in 2025, r",
+          "image": null
+        },
+        {
+          "id": "038a90c56298",
+          "title": "IGP explains why Zamri handcuffed but not Arun",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/19/igp-explains-why-zamri-handcuffed-but-not-arun",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T04:46:16+00:00",
+          "summary": "Independent preacher Zamri Vinoth (left) and activist Arun Dorasamy were charged in separate courts on Monday with making statements allegedly conducive to public mischief. KUALA LUMPUR: Inspector-General of Police Khalid Ismail today explained why independent preacher Zamri Vino",
+          "image": null
+        },
+        {
+          "id": "ea9a06b56581",
+          "title": "Polis minta kerjasama antarabangsa dalam siasatan Bloomberg",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/19/polis-minta-kerjasama-antarabangsa-dalam-siasatan-bloomberg",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T04:38:15+00:00",
+          "summary": "Ketua Polis Negara Khalid Ismail berkata tindakan seterusnya perlu dilakukan melalui saluran kerajaan dengan kerajaan atau agensi dengan agensi. (Gambar Bernama) KUALA LUMPUR: Siasatan polis melibatkan Bloomberg bakal diteruskan menerusi saluran antarabangsa susulan lawatan ke pe",
+          "image": null
+        },
+        {
+          "id": "3e60d968162b",
+          "title": "Rundingan asas perpaduan, menteri sifatkan dialog harmoni bukti kematangan",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/19/rundingan-asas-perpaduan-menteri-sifatkan-dialog-harmoni-bukti-kematangan",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T04:29:52+00:00",
+          "summary": "Presiden Kuil-kuil Hindu dan Persatuan-persatuan Agama Hindu Malaysia N Sivakumar bersalaman dengan Presiden Persatuan Peguam Muslim Malaysia Zainul Rijal Abu Bakar selepas sesi dialog program Harmoni Madani di Pusat Konvensyen Antarabangsa Putrajaya. PETALING JAYA: Rundingan ter",
+          "image": null
+        },
+        {
+          "id": "5591b1abbccf",
+          "title": "Trade surplus jumped 137.6% to RM38.67bil in Jan-Feb, says Matrade",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/19/trade-surplus-jumped-137-6-to-rm38-67bil-in-jan-feb-says-matrade",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T04:26:44+00:00",
+          "summary": "Matrade said trade performance was primarily driven by the electrical and electronics sector, which expanded 34.2% to RM131.34 billion and accounted for 47.3% of total exports. (Bernama pic) PETALING JAYA: Malaysia’s trade surplus grew 137.6% to RM38.67 billion in the first two m",
+          "image": null
+        },
+        {
+          "id": "ba89169e018d",
+          "title": "A familiar fall guy in a failing hockey system",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/19/a-familiar-fall-guy-in-a-failing-hockey-system",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T04:16:03+00:00",
+          "summary": "When the Malaysian Hockey Confederation (MHC) called for a press conference, many expected a reset. What came instead was a removal. The sacking of men’s hockey head coach Sarjit Singh felt abrupt, even harsh. Sarjit himself appeared blindsided. Yet those who followed the team cl",
+          "image": null
+        },
+        {
+          "id": "04b5df4ebd5a",
+          "title": "Cooler heads must prevail over illegal temples issue, says IGP",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/19/cooler-heads-must-prevail-over-illegal-temples-issue-says-igp",
+          "source": "The Star Malaysia",
+          "published": "2026-03-19T04:09:00+00:00",
+          "summary": "KUALA LUMPUR: Cooler heads must prevail regarding the issue of illegal temples, says Datuk Seri Mohd Khalid Ismail. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/19/3821063.jpg"
+        },
+        {
+          "id": "515e0e0712a5",
+          "title": "Construction worker gets 30 years’ jail, caning over quarrel-turned-murder",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/19/construction-worker-gets-30-years-jail-caning-over-quarrel-turned-murder",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T03:43:41+00:00",
+          "summary": "The Johor Bahru High Court spared Zhu Jia Hong the death penalty on grounds that the murder was not premeditated. (Pexels pic) PETALING JAYA: The High Court in Johor Bahru sentenced a Chinese national construction worker to 30 years in prison and 12 strokes of the cane for murder",
+          "image": null
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 8,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 8 stories.",
+      "articles": [
+        {
+          "id": "7e9a06f4fe27",
+          "title": "Lorry driver claims trial to gang robbery in Bangsar",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/19/lorry-driver-claims-trial-to-gang-robbery-in-bangsar",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T05:08:45+00:00",
+          "summary": "The Kuala Lumpur sessions court allowed bail of RM7,000 with one surety and ordered P Sangara Lingam to report to a police station monthly and refrain from disturbing witnesses. KUALA LUMPUR: A lorry driver was charged in the sessions court here today with gang robbery involving ",
+          "image": null
+        },
+        {
+          "id": "038a90c56298",
+          "title": "IGP explains why Zamri handcuffed but not Arun",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/19/igp-explains-why-zamri-handcuffed-but-not-arun",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T04:46:16+00:00",
+          "summary": "Independent preacher Zamri Vinoth (left) and activist Arun Dorasamy were charged in separate courts on Monday with making statements allegedly conducive to public mischief. KUALA LUMPUR: Inspector-General of Police Khalid Ismail today explained why independent preacher Zamri Vino",
+          "image": null
+        },
+        {
+          "id": "3e60d968162b",
+          "title": "Rundingan asas perpaduan, menteri sifatkan dialog harmoni bukti kematangan",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/19/rundingan-asas-perpaduan-menteri-sifatkan-dialog-harmoni-bukti-kematangan",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T04:29:52+00:00",
+          "summary": "Presiden Kuil-kuil Hindu dan Persatuan-persatuan Agama Hindu Malaysia N Sivakumar bersalaman dengan Presiden Persatuan Peguam Muslim Malaysia Zainul Rijal Abu Bakar selepas sesi dialog program Harmoni Madani di Pusat Konvensyen Antarabangsa Putrajaya. PETALING JAYA: Rundingan ter",
+          "image": null
+        },
+        {
+          "id": "b0348cdd8a12",
+          "title": "Bukit Aman to seek international cooperation in Bloomberg probe",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/19/bukit-aman-to-seek-international-cooperation-in-bloomberg-probe",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T04:21:20+00:00",
+          "summary": "Inspector-General of Police Khalid Ismail said further action will have to be taken through agency-to-agency cooperation. (Bernama pic) KUALA LUMPUR: Police will need to go through international channels to proceed with investigations involving Bloomberg, following a recent visit",
+          "image": null
+        },
+        {
+          "id": "b1b8fdf7c02b",
+          "title": "Ex-senior manager claims trial to receiving RM2.1mil in stolen funds",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/19/ex-senior-manager-claims-trial-to-receiving-rm21mil-in-stolen-funds",
+          "source": "The Star Malaysia",
+          "published": "2026-03-19T04:17:00+00:00",
+          "summary": "IPOH: A former senior manager of a multinational company has been charged at the Magistrate's Court here with two counts of dishonestly receiving stolen funds amounting to RM2.1mil belonging to an Indonesian company three years ago. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/19/3821068.jpg"
+        },
+        {
+          "id": "81b55451ca02",
+          "title": "Raya ‘kaw kaw’ di Genting Highlands tampil Care Bears, ganjaran eksklusif",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/19/raya-kaw-kaw-di-genting-highlands-tampil-care-bears-ganjaran-eksklusif",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T04:06:31+00:00",
+          "summary": "Resorts World Genting (RWG) menganjurkan kempen Jom Raya Kaw Kaw dari 13 Mac hingga 12 April. (Gambar Resorts World Genting) PETALING JAYA: Resorts World Genting (RWG) mengangkat sambutan Hari Raya Aidilfitri ke tahap berbeza tahun ini menerusi kempen Jom Raya Kaw Kaw , menampilk",
+          "image": null
+        },
+        {
+          "id": "7debb47263fe",
+          "title": "Thailand’s Anutin seeks new mandate as parliament votes on prime minister",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/03/19/thailands-anutin-seeks-new-mandate-as-parliament-votes-on-prime-minister",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T03:49:34+00:00",
+          "summary": "Anutin’s Bhumjaithai secured a decisive election win by riding a wave of nationalism from last year’s clashes with Cambodia. (EPA Images pic) BANGKOK: Thailand s Anutin Charnvirakul will seek to be elected back to power on Thursday in a parliamentary vote on a prime minister that",
+          "image": null
+        },
+        {
+          "id": "515e0e0712a5",
+          "title": "Construction worker gets 30 years’ jail, caning over quarrel-turned-murder",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/19/construction-worker-gets-30-years-jail-caning-over-quarrel-turned-murder",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-19T03:43:41+00:00",
+          "summary": "The Johor Bahru High Court spared Zhu Jia Hong the death penalty on grounds that the murder was not premeditated. (Pexels pic) PETALING JAYA: The High Court in Johor Bahru sentenced a Chinese national construction worker to 30 years in prison and 12 strokes of the cane for murder",
+          "image": null
+        }
+      ]
+    }
+  }
+}
