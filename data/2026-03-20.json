@@ -1,0 +1,405 @@
+{
+  "date": "2026-03-20",
+  "generated_at": "2026-03-20T05:20:06.349219+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "2fe8276ae251",
+          "title": "Paramount Plus Coupon Codes and Deals: 50% Off",
+          "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+          "source": "Wired",
+          "published": "2026-03-20T05:00:00+00:00",
+          "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+          "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png"
+        },
+        {
+          "id": "9e3fa95afff2",
+          "title": "Newegg Promo Code: 10% Off in March 2026",
+          "url": "https://www.wired.com/story/newegg-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-20T05:00:00+00:00",
+          "summary": "Enjoy up to 10% off your entire order with today’s Newegg discount code and save with the latest deals for gaming PCs, laptops, and computer parts.",
+          "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg"
+        },
+        {
+          "id": "2307ef094ee7",
+          "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
+          "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
+          "source": "Krebs on Security",
+          "published": "2026-03-20T00:49:19+00:00",
+          "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four bo",
+          "image": null
+        },
+        {
+          "id": "f4c1f5e5185a",
+          "title": "Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine",
+          "url": "https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally",
+          "source": "The Verge",
+          "published": "2026-03-20T00:34:04+00:00",
+          "summary": "Valve has just released SteamOS 3.8.0 in preview , and it's a doozy. Not only is it the first release to support the upcoming Steam Machine living room gaming PC , it comes with long-awaited features for Valve's handhelds and more support for other companies' handhelds than we've",
+          "image": null
+        },
+        {
+          "id": "26a8a23db836",
+          "title": "OpenAI is planning a desktop ‘superapp’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+          "source": "The Verge",
+          "published": "2026-03-20T00:09:38+00:00",
+          "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports . The company is making the change as part of an effort to simplify its various product efforts, accordin",
+          "image": null
+        },
+        {
+          "id": "e53dda50194b",
+          "title": "US Takes Down Botnets Used in Record-Breaking Cyberattacks",
+          "url": "https://www.wired.com/story/us-takes-down-botnets-used-in-record-breaking-cyberattacks/",
+          "source": "Wired",
+          "published": "2026-03-20T00:07:30+00:00",
+          "summary": "The Aisuru, Kimwolf, JackSkid, and Mossad botnets had infected more than 3 million devices in total, many inside home networks, according to the US Justice Department.",
+          "image": "https://media.wired.com/photos/69bc909af05d6225e8611af5/master/pass/1137865525"
+        },
+        {
+          "id": "235f00ea264f",
+          "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+          "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+          "source": "TechCrunch",
+          "published": "2026-03-19T23:28:37+00:00",
+          "summary": "Amazon and Jeff Bezos had previously invested in the startup. The deal signals the e-commerce giant's interest in doorstep delivery.",
+          "image": null
+        },
+        {
+          "id": "4687a7ea45ae",
+          "title": "RFK Jr. has destroyed over a quarter of health dept's expert panels",
+          "url": "https://arstechnica.com/health/2026/03/rfk-jr-s-war-on-scientific-expertise-destroyed-27-of-agencys-advisor-panels/",
+          "source": "Ars Technica",
+          "published": "2026-03-19T22:34:06+00:00",
+          "summary": "In his role as health secretary, Robert F. Kennedy Jr.—a long-time anti-vaccine activist with no background in science, medicine, or public health—has made headlines for his thorough perversion of the Centers for Disease Control and Prevention's vaccine advisory panel. In June, K",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262712176-500x500.jpg"
+        },
+        {
+          "id": "a7b6ca64e027",
+          "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+          "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+          "source": "TechCrunch",
+          "published": "2026-03-19T22:09:24+00:00",
+          "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+          "image": null
+        },
+        {
+          "id": "f6e505e4ef12",
+          "title": "AI Conundrum: Why MCP Security Can't Be Patched Away",
+          "url": "https://www.darkreading.com/application-security/mcp-security-patched",
+          "source": "Dark Reading",
+          "published": "2026-03-19T21:54:38+00:00",
+          "summary": "MCP introduces security risks into LLM environments that are architectural and not easily fixable, researcher says at RSAC 2026 Conference.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1b349661d49e33aa/69bc6456139466076c16011f/mcp_Umut_Hasanoglu_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "e11edd9c7673",
+          "title": "‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+          "source": "Wired",
+          "published": "2026-03-19T21:43:56+00:00",
+          "summary": "In this episode, we dive into Nvidia’s annual developer conference and what CEO Jensen Huang is saying about the future of the company.",
+          "image": "https://media.wired.com/photos/69bb27db20b5c90983327a6a/master/pass/Uncanny-Valley-Nvida-GTC-Business-2266590803.jpg"
+        },
+        {
+          "id": "a5ba5f633901",
+          "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+          "url": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+          "source": "Ars Technica",
+          "published": "2026-03-19T21:29:53+00:00",
+          "summary": "A trade association of cloud service providers (CSPs) filed an antitrust complaint today with the European Union’s European Commission (EC) over Broadcom's shuttering of VMware’s CSP partner program this year. Since Broadcom bought VMware, it has drastically cut the number of cha",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2238913761-500x500-1773952643.jpg"
+        },
+        {
+          "id": "ede0fc09f3ab",
+          "title": "Sony’s new WF-1000XM6 earbuds are already on sale for $30 off",
+          "url": "https://www.theverge.com/gadgets/897668/sony-wf-1000xm6-wireless-earbuds-deal-sale",
+          "source": "The Verge",
+          "published": "2026-03-19T21:25:00+00:00",
+          "summary": "Sony’s WF-1000XM6 are on sale in both color options. | Photo by Amelia Holowaty Krales / The Verge Sony’s WF-1000XM6 are the best noise-canceling wireless earbuds you can buy, but they’ve been hard to recommend over the last-gen model because of the price. While the older version",
+          "image": null
+        },
+        {
+          "id": "4b1058d69767",
+          "title": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
+          "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+          "source": "TechCrunch",
+          "published": "2026-03-19T21:13:50+00:00",
+          "summary": "A dancing robot in a Haidilao hot pot restaurant boogied down a little too hard.",
+          "image": null
+        },
+        {
+          "id": "c7b0f8c18845",
+          "title": "Navia discloses data breach impacting 2.7 million people",
+          "url": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
+          "source": "BleepingComputer",
+          "published": "2026-03-19T20:43:54+00:00",
+          "summary": "Navia Benefit Solutions, Inc. (Navia) is informing nearly 2.7 million individuals of a data breach that exposed their sensitive information to attackers. [...]",
+          "image": null
+        },
+        {
+          "id": "f465c5dc8ad7",
+          "title": "Millions of iPhones can be hacked with a new tool found in the wild",
+          "url": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+          "source": "Ars Technica",
+          "published": "2026-03-19T20:11:36+00:00",
+          "summary": "iPhone hacking techniques have sometimes been described almost like rare and elusive animals: Hackers have used them so stealthily and carefully against such a small number of hand-picked targets that they're only rarely seen in the wild. Now a recent spate of espionage and cyber",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266672989-500x500.jpg"
+        },
+        {
+          "id": "ac126a4f12c2",
+          "title": "Marc Andreessen is a philosophical zombie",
+          "url": "https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie",
+          "source": "The Verge",
+          "published": "2026-03-19T20:07:54+00:00",
+          "summary": "What inner life? | ﻿Image: Cath Virginia / The Verge, Getty Images I admit, this is an innovation I did not see coming: Silicon Valley has invented the philosophical zombie from the classic thought experiment \"lol how crazy would it be if there were a philosophical zombie.\" Until",
+          "image": null
+        },
+        {
+          "id": "2868fda2d91c",
+          "title": "New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores",
+          "url": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
+          "source": "BleepingComputer",
+          "published": "2026-03-19T20:01:03+00:00",
+          "summary": "A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover. [...]",
+          "image": null
+        },
+        {
+          "id": "4f20d7e4f7bc",
+          "title": "FBI started buying Americans' location data again, Kash Patel confirms",
+          "url": "https://arstechnica.com/tech-policy/2026/03/fbi-started-buying-americans-location-data-again-kash-patel-confirms/",
+          "source": "Ars Technica",
+          "published": "2026-03-19T19:57:35+00:00",
+          "summary": "Three years after saying it had stopped buying location data of Americans without a warrant, the FBI acknowledged it has restarted the purchases. During questioning at a Senate Select Committee on Intelligence hearing yesterday, FBI Director Kash Patel said the location data purc",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/kash-patel-500x500.jpg"
+        },
+        {
+          "id": "1a41e0f3e813",
+          "title": "The coolest game controller for your phone is $50 off",
+          "url": "https://www.theverge.com/gadgets/897465/ohsnap-mcon-phone-controller-deal-sale",
+          "source": "The Verge",
+          "published": "2026-03-19T19:47:45+00:00",
+          "summary": "The MCON includes an adhesive-backed ring for phones that aren’t MagSafe- or Pixelsnap-ready. | Image: OhSnap The MCON is the closest to a Swiss army knife that a controller can be. No, it doesn’t contain a can opener, but it makes up for it with a surprising array of features. O",
+          "image": null
+        },
+        {
+          "id": "ec29fa340530",
+          "title": "Polymarket continues its partnership spree with a Major League Baseball deal",
+          "url": "https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/",
+          "source": "TechCrunch",
+          "published": "2026-03-19T19:46:30+00:00",
+          "summary": "MLB is only the latest in a string of recently announced partnerships involving the prediction market.",
+          "image": null
+        },
+        {
+          "id": "6fd5fa5684e9",
+          "title": "Dogfighting in space won't look like the movies, but this company wants in on it",
+          "url": "https://arstechnica.com/space/2026/03/dogfighting-in-space-this-company-builds-satellites-for-high-tempo-engagement/",
+          "source": "Ars Technica",
+          "published": "2026-03-19T19:45:22+00:00",
+          "summary": "If a battle is fought in space, it will look nothing like those depicted in the Star Wars franchise, with sleek TIE fighters blasting enemy ships with laser cannons and mag-pulses. Instead, these battles will be cerebral and unhurried, somewhat like the 1973 film The Day of the J",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/trueanomaly1-500x500.jpg"
+        },
+        {
+          "id": "cdb9825849b3",
+          "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
+          "url": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
+          "source": "The Hacker News",
+          "published": "2026-03-19T19:16:00+00:00",
+          "summary": "Cybersecurity researchers have flagged a new malware dubbed Speagle that hijacks the functionality and infrastructure of a legitimate program called Cobra DocGuard. \"Speagle is designed to surreptitiously harvest sensitive information from infected computers and transmit it to a ",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZSgCN7uAT0GxA_9D78X0Q9nRTRmUKPnhIvtgPrg32f62joth8HoaFjuZ68g1l10CVcTjQXiaw3ueNoItw0YN8edclDT-c6IHodK_nSRjPFqUH2hTfceviQi1UZ_6Mo2NvGlkVNIdx3CvxpobdFm3jVUuvvdIDcn5LIKQFNNFe7MScF824trW9pajXcM3l/s1600/locks.jpg"
+        },
+        {
+          "id": "c73c9301d804",
+          "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+          "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+          "source": "TechCrunch",
+          "published": "2026-03-19T19:09:02+00:00",
+          "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+          "image": null
+        },
+        {
+          "id": "acb939d03b24",
+          "title": "Hermès doesn’t include a power adapter with its $5,150 charging case",
+          "url": "https://www.theverge.com/tech/897474/hermes-paddock-wireless-charger-apple-watch-airpods-iphone-leather-luxury",
+          "source": "The Verge",
+          "published": "2026-03-19T19:08:03+00:00",
+          "summary": "BYO power. | Image: Hermès Over a decade after Apple first partnered with Herm&egrave;s for a special Apple Watch collaboration, the French luxury goods maker has released a new collection of leather-wrapped charging accessories for Apple's mobile devices. The most expensive opti",
+          "image": null
+        },
+        {
+          "id": "74c79da99e75",
+          "title": "Bluesky announces $100M Series B after CEO transition",
+          "url": "https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/",
+          "source": "TechCrunch",
+          "published": "2026-03-19T19:00:00+00:00",
+          "summary": "The additional funds have been used to scale Bluesky's team, while the company continues to develop Bluesky's app and the underlying ATProto that powers it.",
+          "image": null
+        },
+        {
+          "id": "83151390961f",
+          "title": "54 EDR Killers Use BYOVD to Exploit 34 Signed Vulnerable Drivers and Disable Security",
+          "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
+          "source": "The Hacker News",
+          "published": "2026-03-19T18:52:00+00:00",
+          "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 34 vulnerable drivers. EDR killer programs have been a common presence in ransomware intrusion",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIi1shGpEknr4-CSa7F-hGXgqRLy4TeRhG2CLzUE9WOs7c-XA-TRmAFhxGmJePCWAjYzRvtRW5ukvGvKluq5hOfv8F8QmzqTUxVjElk6zf3ovVxZIvqUdn1A2Z02kv7t8efDgyyZEUljfWZRxOZqAynFB92c66-ywA8vxkCUXiJ75g4U2vJUlOlzblxU_z/s1600/edr.jpg"
+        },
+        {
+          "id": "6a5febb831a0",
+          "title": "OpenAI is acquiring open source Python tool-maker Astral",
+          "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
+          "source": "Ars Technica",
+          "published": "2026-03-19T18:44:58+00:00",
+          "summary": "OpenAI announced Thursday that it has entered into an agreement to acquire Astral, the company behind popular open source Python development tools such as uv , Ruff , and ty , and integrate the company into its Codex team. The deal, whose financial terms were not publicly disclos",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/openai-logo-500x500-1741196880.jpg"
+        },
+        {
+          "id": "c7c668865fc0",
+          "title": "Geothermal startup Fervo catapults itself over the ‘valley of death’",
+          "url": "https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/",
+          "source": "TechCrunch",
+          "published": "2026-03-19T18:26:26+00:00",
+          "summary": "Fervo landed a large new loan with terms that strongly suggest the company's most turbulent days are behind it.",
+          "image": null
+        },
+        {
+          "id": "a88c93a7b727",
+          "title": "A rogue AI led to a serious security incident at Meta",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+          "source": "The Verge",
+          "published": "2026-03-19T18:20:05+00:00",
+          "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information . Meta spokesperson Tracy Clayton said in a statement to The Verge th",
+          "image": null
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 6,
+      "briefing": "Today's Race, Religion & Royalty section covers 6 stories.",
+      "articles": [
+        {
+          "id": "7b72a551b363",
+          "title": "Storm, heavy rain warning for Selangor, Perak and Sarawak until 3pm",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/20/storm-heavy-rain-warning-for-selangor-perak-and-sarawak-until-3pm",
+          "source": "The Star Malaysia",
+          "published": "2026-03-20T05:09:00+00:00",
+          "summary": "KUALA LUMPUR: The Malaysian Meteorological Department (MetMalaysia) has issued a warning of thunderstorms, heavy rain and strong winds in Selangor, Perak and Sarawak until 3pm Friday (March 20). Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/20/3822869.jpg"
+        },
+        {
+          "id": "e58c19abe2a3",
+          "title": "Use water and power wisely and efficiently during festivities, says Fadillah",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/20/use-water-and-power-wisely-and-efficiently-during-festivities-says-fadillah",
+          "source": "The Star Malaysia",
+          "published": "2026-03-20T05:03:00+00:00",
+          "summary": "KUALA LUMPUR: Malaysians have been urged to use electricity and water prudently, especially during the Hari Raya Aidilfitri season, when consumption usually increases. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/20/3822868.JPG"
+        },
+        {
+          "id": "543a5cc797c8",
+          "title": "Australian mosque protesters heckle PM Albanese over Israel stance",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/03/20/australian-mosque-protesters-heckle-pm-albanese-over-israel-stance",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-20T02:57:22+00:00",
+          "summary": "Australian Prime Minster Anthony Albanese arrives to mark Eid al-Fitr at Lakemba Mosque in Sydney. (EPA Images pic) SYDNEY: Protesters heckled and booed prime minister Anthony ​Albanese on Friday during a visit to Australia s largest mosque for Eid al-Fitr prayers, voicing anger ",
+          "image": null
+        },
+        {
+          "id": "7d2e7919a081",
+          "title": "Yang bagus, tak berapa bagus, dan tak bagus",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/20/yang-bagus-tak-berapa-bagus-dan-tak-bagus",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-20T02:45:37+00:00",
+          "summary": "Petang Rabu lalu, dilaporkan sekumpulan aktivis Muslim dan Hindu bertemu di Putrajaya dalam apa yang dikatakan usaha menuju perdamaian. Ini pada hemat saya bagus. Apatah lagi ia dilangsungkan di tengah-tengah suasana ketegangan agama dan kaum yang tercetus berikutan isu kuil tida",
+          "image": null
+        },
+        {
+          "id": "22cf0b27ae08",
+          "title": "China offers to help Southeast Asia counter impact of Middle East war on energy supplies",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3347199/china-offers-help-southeast-asia-counter-impact-middle-east-war-energy-supplies?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "published": "2026-03-19T12:25:05+00:00",
+          "summary": "China has pledged to work with Southeast Asian countries on energy security as the war in the Middle East continued to take its toll on global oil and gas supplies. “China stands ready to strengthen cooperation and coordination with Southeast Asian countries and jointly address e",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/19/cbc01a16-85dc-4ec4-9501-278fad530208_484685cc.jpg?itok=RDVO65g7&v=1773923021"
+        },
+        {
+          "id": "6926fc8be38d",
+          "title": "Confusion Reigns After Malaysian Minister Declares US Trade Agreement ‘Null and Void’",
+          "url": "https://thediplomat.com/2026/03/confusion-reigns-after-malaysian-minister-declares-us-trade-agreement-null-and-void/",
+          "source": "The Diplomat",
+          "published": "2026-03-19T00:20:00+00:00",
+          "summary": "If confirmed, Malaysia would become the first country to withdraw from a \"reciprocal\" trade deal with the Trump administration.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2024/05/thediplomat_2024-05-28-015949.jpg"
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 5,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 5 stories.",
+      "articles": [
+        {
+          "id": "a7808efd355f",
+          "title": "Five suspects nabbed over fatal stabbing case in Johor",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/20/five-suspects-nabbed-over-fatal-stabbing-case-in-johor",
+          "source": "The Star Malaysia",
+          "published": "2026-03-20T05:00:00+00:00",
+          "summary": "JOHOR BARU: Police have arrested five suspects believed to be involved in the death of a 32-year-old man who was stabbed in the neck last week. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/20/3822867.jpg"
+        },
+        {
+          "id": "1d60b8d8808b",
+          "title": "Super Micro co-founder faces charges over alleged AI tech export to China",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/03/20/super-micro-co-founder-faces-charges-over-alleged-ai-tech-export-to-china",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-20T04:19:34+00:00",
+          "summary": "Shares of Super Micro Computer Inc fell more than 9% in late trading. (EPA Images pic) NEW YORK: A co-founder of Super Micro Computer Inc was charged in New York with conspiring to illegally divert billions of dollars in artificial intelligence (AI) technology to China. US prosec",
+          "image": null
+        },
+        {
+          "id": "1824f4c0584f",
+          "title": "Standard Chartered, BSI lose Singapore court bid in 1MDB-related claims",
+          "url": "https://www.freemalaysiatoday.com/category/highlight/2026/03/20/standard-chartered-bsi-lose-singapore-court-bid-in-1mdb-related-claims",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-20T03:21:22+00:00",
+          "summary": "Singapore has fined Standard Chartered for anti-money laundering breaches related to 1MDB. (StanChart pic) SINGAPORE: Standard Chartered Plc and BSI Bank Ltd. failed in their bids to be part of winding-up applications linked to 1MDB in the High Court here. The banks cannot interv",
+          "image": null
+        },
+        {
+          "id": "7d2e7919a081",
+          "title": "Yang bagus, tak berapa bagus, dan tak bagus",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/20/yang-bagus-tak-berapa-bagus-dan-tak-bagus",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-20T02:45:37+00:00",
+          "summary": "Petang Rabu lalu, dilaporkan sekumpulan aktivis Muslim dan Hindu bertemu di Putrajaya dalam apa yang dikatakan usaha menuju perdamaian. Ini pada hemat saya bagus. Apatah lagi ia dilangsungkan di tengah-tengah suasana ketegangan agama dan kaum yang tercetus berikutan isu kuil tida",
+          "image": null
+        },
+        {
+          "id": "4990e75c4e5a",
+          "title": "Thai Parliament Reconfirms Anutin Charnvirakul as Prime Minister",
+          "url": "https://thediplomat.com/2026/03/thai-parliament-reconfirms-anutin-charnvirakul-as-prime-minister/",
+          "source": "The Diplomat",
+          "published": "2026-03-19T06:40:00+00:00",
+          "summary": "The 59-year-old now faces the challenge of dealing with the domestic impacts of the oil price shock triggered by the war in Iran.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-19-161127.jpg"
+        }
+      ]
+    }
+  }
+}
