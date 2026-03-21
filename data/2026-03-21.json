@@ -1,0 +1,531 @@
+{
+  "date": "2026-03-21",
+  "generated_at": "2026-03-21T04:59:06.578360+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "fa39393ce15c",
+          "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+          "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+          "source": "TechCrunch",
+          "published": "2026-03-21T01:40:28+00:00",
+          "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandi",
+          "image": null
+        },
+        {
+          "id": "224d141ab5da",
+          "title": "Anthropic Denies It Could Sabotage AI Tools During War",
+          "url": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
+          "source": "Wired",
+          "published": "2026-03-21T00:03:20+00:00",
+          "summary": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+          "image": "https://media.wired.com/photos/69bdd83054a6d8f67d317f75/master/pass/Anthropic-Denies-It-Could-Sabotage-AI-Tools-In-Middle-of-War-Business.jpg"
+        },
+        {
+          "id": "9aa16480fe63",
+          "title": "Jury finds Elon Musk s stupid tweets caused Twitter investors losses",
+          "url": "https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit",
+          "source": "The Verge",
+          "published": "2026-03-20T23:46:30+00:00",
+          "summary": "A California jury determined that Elon Musk misled Twitter investors before making a $44 billion deal to buy the company in 2022, reports CNBC . The New York Times reports that Musk had testified this month that he didn't believe his posts would spook markets, but he did say that",
+          "image": null
+        },
+        {
+          "id": "a8d7ba6ee745",
+          "title": "Elon Musk misled Twitter investors while trying to get out of acquisition, jury says",
+          "url": "https://techcrunch.com/2026/03/20/elon-musk-misled-twitter-investors-while-trying-to-get-out-of-acquisition-jury-says/",
+          "source": "TechCrunch",
+          "published": "2026-03-20T23:29:17+00:00",
+          "summary": "At the time, Musk had tweeted that Twitter had too many bots, which is why he was trying to renege on his commitment to buy the company.",
+          "image": null
+        },
+        {
+          "id": "af497ba96511",
+          "title": "Jury finds Musk owes damages to Twitter investors for his tweets",
+          "url": "https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/",
+          "source": "Ars Technica",
+          "published": "2026-03-20T22:27:42+00:00",
+          "summary": "On Friday, a jury in California determined that Elon Musk had misled investors in Twitter via public statements that depressed the price of the company's stock ahead of Musk's purchase of the service. Because this was a class action lawsuit, Musk is likely to owe damages to a hug",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2217854935-500x500.jpg"
+        },
+        {
+          "id": "86698299dbc5",
+          "title": "You're likely already infected with a brain-eating virus you've never heard of",
+          "url": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/",
+          "source": "Ars Technica",
+          "published": "2026-03-20T22:11:24+00:00",
+          "summary": "There's a virus you may have never heard of before that is estimated to infect up to 90 percent of people and lurks quietly in your cells for life—but if it becomes activated, it will destroy your brain. If that's not startling enough, researchers reported this week that there ma",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/images_250633_ff1-500x500.jpg"
+        },
+        {
+          "id": "243c472621b1",
+          "title": "There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
+          "url": "https://www.wired.com/story/amazon-smartphone-rumor-2026/",
+          "source": "Wired",
+          "published": "2026-03-20T22:03:09+00:00",
+          "summary": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
+          "image": "https://media.wired.com/photos/69bd783533c22df804228fe4/master/pass/Only-One-Reason-to-Be-Excited-About-a-Potential-Amazon-Smartphone-Gear-450824352.jpg"
+        },
+        {
+          "id": "095d188e1811",
+          "title": "An automated moderation error left Tumblr users panicked",
+          "url": "https://www.theverge.com/tech/898402/tumblr-automated-account-bans-march-2026",
+          "source": "The Verge",
+          "published": "2026-03-20T22:00:34+00:00",
+          "summary": "Tumblr users were left scrambling on Wednesday after dozens of accounts were banned in the same afternoon by an automated system. Numerous users contacted The Verge about the incident, claiming that the wave of bans disproportionately seemed to impact accounts run by users who id",
+          "image": null
+        },
+        {
+          "id": "85ee2391c214",
+          "title": "Once again, ULA can't deliver when the US military needs a satellite in orbit",
+          "url": "https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/",
+          "source": "Ars Technica",
+          "published": "2026-03-20T21:35:56+00:00",
+          "summary": "For the fourth time in a little more than a year, the US Space Force needs to send up a new satellite to replenish the military's GPS navigation network. And once again, the company the Pentagon is paying to launch it can't answer the call. United Launch Alliance, a 50-50 joint v",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GoeN_-iX0AA5uaR-500x500.jpg"
+        },
+        {
+          "id": "d37247f86763",
+          "title": "Microsoft keeps insisting that it's deeply committed to the quality of Windows 11",
+          "url": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/",
+          "source": "Ars Technica",
+          "published": "2026-03-20T21:26:50+00:00",
+          "summary": "If you were eating in a restaurant and the head chef came out from the back multiple times to loudly proclaim that the kitchen was deeply committed to the quality of the food, would you find that reassuring? Or would you start wondering why the chef felt the need to keep saying i",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/win11-laptop-500x500.jpeg"
+        },
+        {
+          "id": "156579a62548",
+          "title": "‘A Rigged and Dangerous Product’: The Wildest Week for Prediction Markets Yet",
+          "url": "https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/",
+          "source": "Wired",
+          "published": "2026-03-20T21:07:04+00:00",
+          "summary": "As the prediction market boom continues, backlash is growing, too, with Arizona filing criminal charges against Kalshi and public outcry after Polymarket traders threatened a journalist.",
+          "image": "https://media.wired.com/photos/69bdae9b2132df646d7fb390/master/pass/Wildest-Week-for-Prediction-Markets-Yet-Business-2237779170.jpg"
+        },
+        {
+          "id": "a9b8590b5ed6",
+          "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
+          "url": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+          "source": "Ars Technica",
+          "published": "2026-03-20T21:03:10+00:00",
+          "summary": "Shy Girl , a horror novel by Mia Ballard, was one of those buzzy books that leapt from self-published prominence into full-on trade publication. Until yesterday, that is, when publisher Hachette pulled the book from the UK market and canceled plans to bring it to the US. The move",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2248542236-500x500.jpg"
+        },
+        {
+          "id": "19bc3dbf1041",
+          "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+          "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+          "source": "TechCrunch",
+          "published": "2026-03-20T20:53:09+00:00",
+          "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+          "image": null
+        },
+        {
+          "id": "ddc4f9e0a68a",
+          "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+          "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+          "source": "Ars Technica",
+          "published": "2026-03-20T20:50:46+00:00",
+          "summary": "Hackers have compromised virtually all versions of Aqua Security’s widely used Trivy vulnerability scanner in an ongoing supply chain attack that could have wide-ranging consequences for developers and the organizations that use them. Trivy maintainer Itay Shakury confirmed the c",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-500x500.jpg"
+        },
+        {
+          "id": "c14981d4093b",
+          "title": "A Top Democrat Is Urging Colleagues to Support Trump’s Spy Machine",
+          "url": "https://www.wired.com/story/a-top-democrat-is-urging-colleagues-to-support-trumps-spy-machine/",
+          "source": "Wired",
+          "published": "2026-03-20T20:46:45+00:00",
+          "summary": "Congressman Jim Himes claims a sweeping surveillance authority should stay intact because he hasn't seen abuses by Kash Patel's FBI, according to internal messaging obtained by WIRED.",
+          "image": "https://media.wired.com/photos/69bd71b7a3d17bb655096b0a/master/pass/Top-Democrat-Urging-Colleagues-to-Support-Trump-Spy-Machine-Security-2266836167.jpg"
+        },
+        {
+          "id": "9dd04a12ebc3",
+          "title": "FBI links Signal phishing attacks to Russian intelligence services",
+          "url": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
+          "source": "BleepingComputer",
+          "published": "2026-03-20T20:45:52+00:00",
+          "summary": "The FBI has issued a public service announcement warning that Russian intelligence-linked threat actors are actively targeting users of encrypted messaging apps such as Signal and WhatsApp in phishing campaigns that have already compromised thousands of accounts. [...]",
+          "image": null
+        },
+        {
+          "id": "279befae5ebf",
+          "title": "NASA issues draft request for moving space shuttle Discovery—or Orion capsule",
+          "url": "https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/",
+          "source": "Ars Technica",
+          "published": "2026-03-20T20:30:02+00:00",
+          "summary": "NASA has taken a step forward to moving an undetermined spacecraft of a various size on an indefinite date to a yet-to-be-decided location. Or to put it another way: NASA is seeking to learn more about what it would take to remove the space shuttle Discovery from the Smithsonian ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/news-032026a-lg-500x500.jpg"
+        },
+        {
+          "id": "1b235a97a669",
+          "title": "Trump FCC lets Nexstar buy Tegna and blow way past 39% TV ownership cap",
+          "url": "https://arstechnica.com/tech-policy/2026/03/fcc-lets-nexstar-buy-tegna-creating-trump-approved-broadcaster-reaching-80-of-us/",
+          "source": "Ars Technica",
+          "published": "2026-03-20T20:08:01+00:00",
+          "summary": "The Federal Communications Commission yesterday approved Nexstar Media Group's $6.2 billion purchase of Tegna, granting a waiver that lets the broadcast giant go way past the national limit on station ownership. Nexstar said it closed the acquisition late in the day yesterday, im",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/brendan-carr-1-500x500-1756495922.jpg"
+        },
+        {
+          "id": "3877adadec3a",
+          "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+          "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+          "source": "TechCrunch",
+          "published": "2026-03-20T20:02:35+00:00",
+          "summary": "CEO Jensen Huang took the stage at Nvidia s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambl",
+          "image": null
+        },
+        {
+          "id": "6a3571b023ba",
+          "title": "A new Nintendo Switch 2 could be the poster child for replaceable batteries",
+          "url": "https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery",
+          "source": "The Verge",
+          "published": "2026-03-20T19:59:05+00:00",
+          "summary": "Nintendo plans to release a Switch 2 revision in the European Union that will let users replace their own batteries, Nikkei reports . The current version of the Switch 2 has a glued-in battery. But Nintendo apparently plans to make the change in order to comply with EU rules goin",
+          "image": null
+        },
+        {
+          "id": "4c4893ffceb4",
+          "title": "Future Sony PlayStation games will use AI to imagine new frames",
+          "url": "https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames",
+          "source": "The Verge",
+          "published": "2026-03-20T19:46:23+00:00",
+          "summary": "Mark Cerny, the lead architect of the PlayStation 5 and PS5 Pro, told Digital Foundry that ML-based frame generation tech is coming to \"PlayStation platforms\" in the future, letting the game console use AI to imagine new frames between the ones it's actually rendering, which can ",
+          "image": null
+        },
+        {
+          "id": "1ad9ee0f0c57",
+          "title": "Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw",
+          "url": "https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw",
+          "source": "Dark Reading",
+          "published": "2026-03-20T19:30:19+00:00",
+          "summary": "Attackers can execute arbitrary code without authentication if Oracle's Identity or Web Services Managers are exposed to the Web.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3966162dd76f69cb/69bd954678da062bb91c2e6a/Oracle-Jerome_Cid-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "b2641c9729e3",
+          "title": "Amid legal turmoil, Kalshi is temporarily banned in Nevada",
+          "url": "https://techcrunch.com/2026/03/20/amidst-legal-turmoil-kalshi-is-temporarily-banned-in-nevada/",
+          "source": "TechCrunch",
+          "published": "2026-03-20T19:15:55+00:00",
+          "summary": "It's the latest escalation in a regulatory battle over the future of prediction markets.",
+          "image": null
+        },
+        {
+          "id": "deaaaf7c1c4d",
+          "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either",
+          "url": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
+          "source": "Wired",
+          "published": "2026-03-20T19:13:19+00:00",
+          "summary": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.",
+          "image": "https://media.wired.com/photos/69bd423627b92679d2037984/master/pass/nvidia-dlss-5.jpeg"
+        },
+        {
+          "id": "37d8db738c65",
+          "title": "Pinterest CEO calls on governments to ban social media for users under 16",
+          "url": "https://techcrunch.com/2026/03/20/pinterest-ceo-calls-on-governments-to-ban-social-media-for-users-under-16/",
+          "source": "TechCrunch",
+          "published": "2026-03-20T19:01:54+00:00",
+          "summary": "Pinterest’s chief compares social media to tobacco and alcohol, saying children need similar protections.",
+          "image": null
+        },
+        {
+          "id": "2736d9c93c5a",
+          "title": "Windows 11 is finally getting a movable taskbar",
+          "url": "https://www.theverge.com/tech/897849/microsoft-windows-11-taskbar-vertical-top-movable",
+          "source": "The Verge",
+          "published": "2026-03-20T19:00:00+00:00",
+          "summary": "It's taken almost five years, but Microsoft is finally bringing back the ability to move the Windows taskbar to the top or sides of your screen. The movable taskbar is part of some much bigger changes coming to Windows 11 this year in response to growing criticism of the operatin",
+          "image": null
+        },
+        {
+          "id": "b100decbe537",
+          "title": "Microsoft is ending the Windows Update nightmare — and letting you pause them indefinitely",
+          "url": "https://www.theverge.com/tech/898082/microsoft-promises-to-end-forced-windows-updates-still-automatic",
+          "source": "The Verge",
+          "published": "2026-03-20T19:00:00+00:00",
+          "summary": "In 2015, Microsoft decided that you shouldn't be in control of updating your PC anymore. At first, it seemed like a good idea to keep malware at bay - but soon, users discovered their computers were automatically shutting down and erasing work in the middle of the day. Then, Micr",
+          "image": null
+        },
+        {
+          "id": "d034a4d7df89",
+          "title": "This is Microsoft s plan to fix Windows 11",
+          "url": "https://www.theverge.com/news/897834/microsoft-windows-11-quality-performance-commitments-changes",
+          "source": "The Verge",
+          "published": "2026-03-20T18:56:15+00:00",
+          "summary": "Microsoft has faced a breakdown of trust in Windows 11 and a backlash over AI additions to its operating system in recent months. After promising to rebuild trust in Windows earlier this year, Microsoft's Windows chief, Pavan Davuluri, is now revealing the company's plan to fix W",
+          "image": null
+        },
+        {
+          "id": "97f35cbb816a",
+          "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
+          "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
+          "source": "BleepingComputer",
+          "published": "2026-03-20T18:48:47+00:00",
+          "summary": "Oracle has released an out-of-band security update to fix a critical unauthenticated remote code execution vulnerability in Identity Manager and Web Services Manager tracked as CVE-2026-21992. [...]",
+          "image": null
+        },
+        {
+          "id": "ecfa1c92dbff",
+          "title": "Trump takes another shot at dismantling state AI regulation",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+          "source": "The Verge",
+          "published": "2026-03-20T18:17:02+00:00",
+          "summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with t",
+          "image": null
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 19,
+      "briefing": "Today's Race, Religion & Royalty section covers 19 stories.",
+      "articles": [
+        {
+          "id": "34d2570b2fcd",
+          "title": "Prasarana: 3,200 staff on duty to ensure smooth operations during Hari Raya celebrations",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/21/prasarana-3200-staff-on-duty-to-ensure-smooth-operations-during-hari-raya-celebrations",
+          "source": "The Star Malaysia",
+          "published": "2026-03-21T04:54:00+00:00",
+          "summary": "KUALA LUMPUR: Some 3,200 staff will be on duty to ensure rail and bus operations run smoothly during the current Hari Raya Aidilfitri celebrations, says Prasarana Malaysia Bhd group chief executive officer Amir Hamdan. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/21/3824221.jpeg"
+        },
+        {
+          "id": "5ad2a09d882a",
+          "title": "Tiong arah bincang segera dengan MoF kenaikan harga diesel",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/21/tiong-arah-bincang-segera-dengan-mof-kenaikan-harga-diesel",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T04:49:04+00:00",
+          "summary": "Persatuan Pelancongan Dalam Negeri Malaysia memberi amaran pengendali pengangkutan pelancongan mungkin terpaksa gulung tikar jika Putrajaya tidak campur tangan dalam pemberian subsidi diesel. (Gambar Bernama) PETALING JAYA: Menteri Pelancongan, Seni dan Budaya, Tiong King Sing me",
+          "image": null
+        },
+        {
+          "id": "eaaf3cd060ec",
+          "title": "Prasarana serah pelan tindakan LRT Kelana Jaya kepada Kabinet",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/21/prasarana-serah-pelan-tindakan-lrt-kelana-jaya-prasarana-kepada-kabinet",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T04:32:46+00:00",
+          "summary": "Presiden dan CEO Prasarana Amir Hamdan beramah mesra dengan penumpang yang menaiki MRT pada 1 Syawal. KUALA LUMPUR: Prasarana Malaysia Bhd telah mengemukakan pelan tindakan pemulihannya LRT Laluan Kelana Jaya kepada Jemaah Menteri susulan gangguan perkhidmatan baru-baru ini, kata",
+          "image": null
+        },
+        {
+          "id": "9c87660f96d8",
+          "title": "Prasarana’s Kelana Jaya LRT action plan submitted to Cabinet",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/21/prasaranas-kelana-jaya-lrt-action-plan-submitted-to-cabinet",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T04:30:01+00:00",
+          "summary": "Prasarana president and group CEO Amir Hamdan greeting a family using the MRT on the first day of Aidilfitri. KUALA LUMPUR: Prasarana Malaysia Bhd has submitted its recovery action plan for the Kelana Jaya LRT line to the Cabinet following recent service disruptions, says its pre",
+          "image": null
+        },
+        {
+          "id": "bf4046ebf373",
+          "title": "King hosts Aidilfitri reception at Istana Negara",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/21/king-hosts-aidilfitri-reception-at-istana-negara",
+          "source": "The Star Malaysia",
+          "published": "2026-03-21T04:11:00+00:00",
+          "summary": "KUALA LUMPUR, 21 Mac -- Yang di-Pertuan Agong Sultan Ibrahim berkenan berangkat ke Majlis Ramah Mesra Hari Raya Aidilfitri di Istana Negara hari ini. --fotoBERNAMA (2026) HAK CIPTA TERPELIHARA",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/21/3824199.JPG"
+        },
+        {
+          "id": "a4c90306a483",
+          "title": "Umat Islam sambut 1 Syawal dengan solat Aidilfitri",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/21/umat-islam-sambut-1-syawal-dengan-solat-aidilfitri",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T04:04:04+00:00",
+          "summary": "Umat Islam menunaikan solat sunat Aidilfitri di Masjid Jamek Sultan Abdul Samad, ibu negara, pagi tadi. (Gambar Bernama) KUALA LUMPUR: Umat Islam menyambut 1 Syawal dengan menunaikan solat sunat Aidilfitri di masjid serta surau di seluruh negara dalam suasana penuh kesyukuran dan",
+          "image": null
+        },
+        {
+          "id": "e1e64012bb45",
+          "title": "Who pays for Malaysia’s next football appeal, Mr Friend?",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/21/who-pays-for-malaysias-next-football-appeal-mr-friend",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T04:00:02+00:00",
+          "summary": "Rob Friend says Malaysia will review the Asian Football Confederation’s punishment through the “appropriate legal channels”. That line demands a straight answer. Who pays? Because this is no longer just a football issue. It is a public money problem. The national team unit that o",
+          "image": null
+        },
+        {
+          "id": "efa5d18505df",
+          "title": "Terengganu s Sultan Mizan calls for Aidilfitri to serve as a bridge to strengthen unity",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/21/terengganu039s-sultan-mizan-calls-for-aidilfitri-to-serve-as-a-bridge-to-strengthen-unity",
+          "source": "The Star Malaysia",
+          "published": "2026-03-21T03:40:00+00:00",
+          "summary": "KUALA TERENGGANU: The Sultan of Terengganu, Sultan Mizan Zainal Abidin, has called for Aidilfitri to be used as a bridge to strengthen unity and harmony in the lives of the multiracial community in the state. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/21/3824183.jpg"
+        },
+        {
+          "id": "d75b7a694fc9",
+          "title": "Tiong orders immediate talks with finance ministry over diesel price hike",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/21/tiong-orders-immediate-talks-with-finance-ministry-over-diesel-price-hike",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T03:30:57+00:00",
+          "summary": "The Malaysian Inbound Tourism Association has warned that tourism transport operators may be forced to shut down if Putrajaya does not intervene with a diesel subsidy. (Bernama pic) PETALING JAYA: Tourism, arts and culture minister Tiong King Sing has ordered his ministry to hold",
+          "image": null
+        },
+        {
+          "id": "1ae6809b3288",
+          "title": "From Nara to Perlis, a Japanese Muslim’s Raya journey",
+          "url": "https://www.freemalaysiatoday.com/category/leisure/2026/03/21/from-nara-to-perlis-a-japanese-muslims-raya-journey",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T03:00:50+00:00",
+          "summary": "Anna Tanaka Farhana, who hails from Nara,Japan, has lived in Malaysia since 2019. (Moganraj Villavan @ FMT Lifestyle) KUALA LUMPUR: Growing up in Nara, Japan a serene city famed for its ancient temples and beautiful shrines Hari Raya was once a distant celebration for Anna Tanaka",
+          "image": null
+        },
+        {
+          "id": "f540134775b3",
+          "title": "Dari Nara ke Perlis, inilah makna Aidilfitri seorang wanita Jepun Muslim",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/21/dari-nara-ke-perlis-inilah-makna-aidilfitri-seorang-wanita-jepun-muslim",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T03:00:28+00:00",
+          "summary": "Anna Tanaka Farhana yang dibesarkan di Nara, Jepun kini menetap di Malaysia sejak 2019. (Moganraj Villavan @ FMT Lifestyle) KUALA LUMPUR: Membesar di Nara, Jepun – sebuah bandar tenang yang terkenal dengan kuil purba dan tempat suci yang indah – Hari Raya Aidilfitri suatu ketika ",
+          "image": null
+        },
+        {
+          "id": "ea0996fa6fdc",
+          "title": "Frontliners don uniforms instead of baju raya",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/21/frontliners-don-uniforms-instead-of-baju-raya",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T02:00:54+00:00",
+          "summary": "A nurse, a firefighter and three police officers share how they will spend Hari Raya Aidilfitri on duty, ensuring the public can celebrate the festive season safely. PETALING JAYA: As many Malaysians wake up on Aidilfitri morning to the aroma of rendang and ketupat at home, 30-ye",
+          "image": null
+        },
+        {
+          "id": "393c1dc081a7",
+          "title": "Uniform kerja jadi ganti baju raya pada pagi Syawal",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/21/uniform-kerja-jadi-ganti-baju-raya-pada-pagi-syawal",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T02:00:17+00:00",
+          "summary": "Seorang jururawat, seorang anggota bomba dan dua pegawai polis berkongsi bagaimana mereka sambut Aidilfitri sambil bertugas, agar orang awam dapat rai musim perayaan dengan selamat. PETALING JAYA: Saat rakyat Malaysia bangun pada pagi Aidilfitri ditemani aroma rendang dan ketupat",
+          "image": null
+        },
+        {
+          "id": "23cf8882d7b2",
+          "title": "US, allies build missiles, drones closer to Asia’s flashpoints",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/03/21/us-allies-build-missiles-drones-closer-to-asias-flashpoints",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T01:55:42+00:00",
+          "summary": "The Pentagon welcomed two new members, Thailand and the UK, bringing its total membership of the Partnership for Indo-Pacific Industrial Resilience to 16 countries. (AFP pic) WASHINGTON: A US-led defence manufacturing partnership agreed to launch a new missile motor production pr",
+          "image": null
+        },
+        {
+          "id": "b045768bfe22",
+          "title": "Anything that threatens unity must be eradicated without compromise, says king",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/21/anything-that-threatens-unity-must-be-eradicated-without-compromise-says-king",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T01:39:25+00:00",
+          "summary": "The Yang di-Pertuan Agong Sultan Ibrahim Sultan Iskandar said the handling of sensitive issues by the authorities must be carried out with prudence and with full consideration of all relevant aspects. (Bernama pic) KUALA LUMPUR: The Yang di-Pertuan Agong has decreed that any elem",
+          "image": null
+        },
+        {
+          "id": "332614a02fd9",
+          "title": "Eradicate all elements that threaten national harmony, says King",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/21/eradicate-all-elements-that-threaten-national-harmony-says-king",
+          "source": "The Star Malaysia",
+          "published": "2026-03-21T01:07:00+00:00",
+          "summary": "KUALA LUMPUR: His Majesty Sultan Ibrahim, King of Malaysia, has decreed that any elements that threaten the unity of the people must be eradicated without compromise. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/21/3824156.jpg"
+        },
+        {
+          "id": "db21b1de3746",
+          "title": "Go easy on power, water this Raya",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/21/go-easy-on-power-water-this-raya",
+          "source": "The Star Malaysia",
+          "published": "2026-03-20T16:00:00+00:00",
+          "summary": "KUALA LUMPUR: Malaysians have been urged to use electricity and water prudently, especially during the Hari Raya Aidilfitri season. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/21/3824135.jpg"
+        },
+        {
+          "id": "b8ed98ce60cd",
+          "title": "Selamat Hari Raya, Malaysia",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/21/selamat-hari-raya-malaysia",
+          "source": "The Star Malaysia",
+          "published": "2026-03-20T16:00:00+00:00",
+          "summary": "Festive glow: Nur Syuhada Muhamad Sukor helping her niece Nur Luthfia Uqasha, four, and nephew Muhammad Luthman Syawal, seven, light sparklers in the compound of their home in Kampung Patinggan, Kuching, Sarawak. — ZULAZHAR SHEBLEE/The Star",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/21/3823891.jpg"
+        },
+        {
+          "id": "b2bf8cfc1695",
+          "title": "Malaysia Has Not Informed US of Withdrawal From Trade Deal: Official",
+          "url": "https://thediplomat.com/2026/03/malaysia-has-not-informed-us-of-withdrawal-from-trade-deal-official/",
+          "source": "The Diplomat",
+          "published": "2026-03-20T04:17:00+00:00",
+          "summary": "The status of the deal has been unclear since the Malaysia's trade minister said that last month's U.S. Supreme Court ruling rendered the agreement \"void.\"",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2024/08/thediplomat_2024-08-13-060235.jpg"
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 6,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 6 stories.",
+      "articles": [
+        {
+          "id": "5ad2a09d882a",
+          "title": "Tiong arah bincang segera dengan MoF kenaikan harga diesel",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/21/tiong-arah-bincang-segera-dengan-mof-kenaikan-harga-diesel",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T04:49:04+00:00",
+          "summary": "Persatuan Pelancongan Dalam Negeri Malaysia memberi amaran pengendali pengangkutan pelancongan mungkin terpaksa gulung tikar jika Putrajaya tidak campur tangan dalam pemberian subsidi diesel. (Gambar Bernama) PETALING JAYA: Menteri Pelancongan, Seni dan Budaya, Tiong King Sing me",
+          "image": null
+        },
+        {
+          "id": "eaaf3cd060ec",
+          "title": "Prasarana serah pelan tindakan LRT Kelana Jaya kepada Kabinet",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/21/prasarana-serah-pelan-tindakan-lrt-kelana-jaya-prasarana-kepada-kabinet",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T04:32:46+00:00",
+          "summary": "Presiden dan CEO Prasarana Amir Hamdan beramah mesra dengan penumpang yang menaiki MRT pada 1 Syawal. KUALA LUMPUR: Prasarana Malaysia Bhd telah mengemukakan pelan tindakan pemulihannya LRT Laluan Kelana Jaya kepada Jemaah Menteri susulan gangguan perkhidmatan baru-baru ini, kata",
+          "image": null
+        },
+        {
+          "id": "ea0996fa6fdc",
+          "title": "Frontliners don uniforms instead of baju raya",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/21/frontliners-don-uniforms-instead-of-baju-raya",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T02:00:54+00:00",
+          "summary": "A nurse, a firefighter and three police officers share how they will spend Hari Raya Aidilfitri on duty, ensuring the public can celebrate the festive season safely. PETALING JAYA: As many Malaysians wake up on Aidilfitri morning to the aroma of rendang and ketupat at home, 30-ye",
+          "image": null
+        },
+        {
+          "id": "393c1dc081a7",
+          "title": "Uniform kerja jadi ganti baju raya pada pagi Syawal",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/21/uniform-kerja-jadi-ganti-baju-raya-pada-pagi-syawal",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T02:00:17+00:00",
+          "summary": "Seorang jururawat, seorang anggota bomba dan dua pegawai polis berkongsi bagaimana mereka sambut Aidilfitri sambil bertugas, agar orang awam dapat rai musim perayaan dengan selamat. PETALING JAYA: Saat rakyat Malaysia bangun pada pagi Aidilfitri ditemani aroma rendang dan ketupat",
+          "image": null
+        },
+        {
+          "id": "b045768bfe22",
+          "title": "Anything that threatens unity must be eradicated without compromise, says king",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/21/anything-that-threatens-unity-must-be-eradicated-without-compromise-says-king",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-21T01:39:25+00:00",
+          "summary": "The Yang di-Pertuan Agong Sultan Ibrahim Sultan Iskandar said the handling of sensitive issues by the authorities must be carried out with prudence and with full consideration of all relevant aspects. (Bernama pic) KUALA LUMPUR: The Yang di-Pertuan Agong has decreed that any elem",
+          "image": null
+        },
+        {
+          "id": "356370611cf3",
+          "title": "Were Foreign Nationals and Myanmar Rebel Groups Plotting an Attack Against India?",
+          "url": "https://thediplomat.com/2026/03/were-foreign-nationals-and-myanmar-rebel-groups-plotting-an-attack-against-india/",
+          "source": "The Diplomat",
+          "published": "2026-03-20T16:49:00+00:00",
+          "summary": "The arrest of seven foreign citizens under UAPA drew attention to Myanmar-based EAOs and their links to India – but media reports thus far have obscured more thanthey have illuminated.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-21-015035.jpg"
+        }
+      ]
+    }
+  }
+}
