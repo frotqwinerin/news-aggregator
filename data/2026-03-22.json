@@ -1,0 +1,450 @@
+{
+  "date": "2026-03-22",
+  "generated_at": "2026-03-22T05:34:46.528741+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "572665e0c0be",
+          "title": "Halide co-founder is suing former partner for bringing source code to Apple",
+          "url": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
+          "source": "The Verge",
+          "published": "2026-03-21T21:02:56+00:00",
+          "summary": "Halide running on an iPhone. | Photo: Allison Johnson / The Verge Lux Optics co-founder Sebastiaan de With made headlines when he joined Apple in late January. The company was behind Halide , one of the most popular photography apps for the iPhone, which gained a cult following f",
+          "image": null
+        },
+        {
+          "id": "9f69b493dcf2",
+          "title": "It’s been 20 years since the first tweet",
+          "url": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
+          "source": "TechCrunch",
+          "published": "2026-03-21T20:30:47+00:00",
+          "summary": "On March 21, 2006, Jack Dorsey posted a simple message: “just setting up my twittr”.",
+          "image": null
+        },
+        {
+          "id": "e648870e6e9d",
+          "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+          "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+          "source": "TechCrunch",
+          "published": "2026-03-21T19:30:27+00:00",
+          "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+          "image": null
+        },
+        {
+          "id": "1e18d1f51a43",
+          "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+          "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+          "source": "BleepingComputer",
+          "published": "2026-03-21T17:30:41+00:00",
+          "summary": "The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions. [...]",
+          "image": null
+        },
+        {
+          "id": "881189d1ff3f",
+          "title": "Delve accused of misleading customers with ‘fake compliance’",
+          "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+          "source": "TechCrunch",
+          "published": "2026-03-21T17:00:05+00:00",
+          "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+          "image": null
+        },
+        {
+          "id": "6554670cb585",
+          "title": "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
+          "url": "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
+          "source": "The Verge",
+          "published": "2026-03-21T17:00:00+00:00",
+          "summary": "Less than a week ago, Apple announced the forthcoming AirPods Max 2 , a pair of over-ear headphones that leverage the company’s H2 chip for AI-powered live translation, conversation awareness, and a host of newer features. However, if you’re okay with a pair of earbuds , the AirP",
+          "image": null
+        },
+        {
+          "id": "577f4951e92b",
+          "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+          "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+          "source": "TechCrunch",
+          "published": "2026-03-21T16:28:00+00:00",
+          "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+          "image": null
+        },
+        {
+          "id": "18b810aa3a22",
+          "title": "Here are 20 of our favorite outdoor deals from REI’s Member Days Sale",
+          "url": "https://www.theverge.com/gadgets/897628/best-outdoor-deals-rei-member-days-sale-2026",
+          "source": "The Verge",
+          "published": "2026-03-21T14:40:00+00:00",
+          "summary": "REI’s latest sale is in full swing. The outdoor retailer’s exclusive shopping event runs through Monday, March 23rd, bringing with it a batch of discounts on Garmin watches, tents, portable stoves, and a slew of Verge -approved goodies. As expected, most deals are available only ",
+          "image": null
+        },
+        {
+          "id": "08e2a4c999c7",
+          "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
+          "url": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
+          "source": "BleepingComputer",
+          "published": "2026-03-21T14:18:23+00:00",
+          "summary": "Google has announced a new mechanism in Android called Advanced Flow that will allow sideloading APKs from unverified developers for power users in a more secure way. [...]",
+          "image": null
+        },
+        {
+          "id": "e134c2abc615",
+          "title": "Microsoft Azure Monitor alerts abused for callback phishing attacks",
+          "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
+          "source": "BleepingComputer",
+          "published": "2026-03-21T14:09:19+00:00",
+          "summary": "Microsoft Azure Monitor alerts are being abused to send callback phishing emails that impersonate warnings from the Microsoft Security Team about unauthorized charges on your account. [...]",
+          "image": null
+        },
+        {
+          "id": "7aa249075a68",
+          "title": "How fusion power works and the startups pursuing it",
+          "url": "https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/",
+          "source": "TechCrunch",
+          "published": "2026-03-21T14:00:00+00:00",
+          "summary": "Fusion power promises to generate large amounts of clean electricity from nearly limitless fuel. This article explains the main approaches and the companies that use them.",
+          "image": null
+        },
+        {
+          "id": "54bd4cd8cf94",
+          "title": "The gen AI Kool-Aid tastes like eugenics",
+          "url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
+          "source": "The Verge",
+          "published": "2026-03-21T14:00:00+00:00",
+          "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, she was curious about what it could do, and she saw that other artists were buil",
+          "image": null
+        },
+        {
+          "id": "12cd1d9da96f",
+          "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+          "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+          "source": "The Hacker News",
+          "published": "2026-03-21T13:17:00+00:00",
+          "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiMsZnvgdoACYJn8WjDy_Lpvpy1iqvGpj-vb4hYfYTLujLp_5dm8WZKjl64LYwY4-MON0-1k8-F2K3KDu0QG7isYjhaMvre0E0vrqJCSP49r2j374JPbV6WvkTG8lwqwrxquX-3xrReaA3G-NQGvskSnlOtM1XRj1J3MdPuCK9lXC6vf8ZkrCizN6ohcLC/s1600/signal-whatsapp.jpg"
+        },
+        {
+          "id": "50806a9077c1",
+          "title": "Oeuf is a punishing platformer in a cozy shell",
+          "url": "https://www.theverge.com/entertainment/895435/oeuf-review",
+          "source": "The Verge",
+          "published": "2026-03-21T13:00:00+00:00",
+          "summary": "The funny shape of eggs is the curious lifeblood of Oeuf , the new physics platformer by prolific developer Increpare Games . In a gaming landscape saturated with complex systems dropped into simple games, that grapples with metaphor within straightforward narratives, and that is",
+          "image": null
+        },
+        {
+          "id": "609ff60a0e42",
+          "title": "Dreame’s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price",
+          "url": "https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal",
+          "source": "The Verge",
+          "published": "2026-03-21T12:30:00+00:00",
+          "summary": "Amazon’s Big Spring Sale doesn’t kick off until next week, but the retailer is already dropping a host of good deals , especially on robot vacuums. We recently saw Ecovacs’ Deebot X8 and X9 Pro Omni drop to $599 ($501 off) and $679 ($621 off) , respectively; however, if you’re lo",
+          "image": null
+        },
+        {
+          "id": "2a231c727fe1",
+          "title": "The new MacBook Pro is still fast as hell",
+          "url": "https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review",
+          "source": "The Verge",
+          "published": "2026-03-21T12:00:00+00:00",
+          "summary": "It just looks like, well, most other MacBook Pros. | Photo: Antonio G. Di Benedetto / The Verge Apple's flagship 16-inch MacBook Pro has reigned supreme in the world of creator-focused laptops since its M-series processor overhaul in 2021 . Since then, we've mostly seen the same ",
+          "image": null
+        },
+        {
+          "id": "80210411e6ed",
+          "title": "An early contender for movie of the year",
+          "url": "https://www.theverge.com/tech/898265/project-hail-mary-airpods-max-2-installer",
+          "source": "The Verge",
+          "published": "2026-03-21T12:00:00+00:00",
+          "summary": "Hi, friends! Welcome to Installer No. 120, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, get ready for Pen Opinions, and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Banksy and mu",
+          "image": null
+        },
+        {
+          "id": "7b9c73906974",
+          "title": "71 Best Podcasts (2026): True Crime, Culture, Science, Fiction",
+          "url": "https://www.wired.com/story/best-podcasts/",
+          "source": "Wired",
+          "published": "2026-03-21T12:00:00+00:00",
+          "summary": "Get your fix of tech, true crime, pop culture, or comedy with these audio adventures.",
+          "image": "https://media.wired.com/photos/69be1926acc960710aeb396b/master/pass/The-Best-Podcasts-for-Everyone.jpg"
+        },
+        {
+          "id": "15959640b761",
+          "title": "Gemini task automation is slow, clunky, and super impressive",
+          "url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+          "source": "The Verge",
+          "published": "2026-03-21T11:30:00+00:00",
+          "summary": "An AI assistant that can actually get things done. I've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you. It's limited to a small subset right now - a handful of fo",
+          "image": null
+        },
+        {
+          "id": "1e9f89a4f9fb",
+          "title": "Best Protein Bars (2026): Vegan, Gluten-Free, High Fiber",
+          "url": "https://www.wired.com/story/best-protein-bars/",
+          "source": "Wired",
+          "published": "2026-03-21T11:30:00+00:00",
+          "summary": "What to prioritize, what to skip, when to enjoy—plus, we’ve selected WIRED's favorite bars worth trying.",
+          "image": "https://media.wired.com/photos/69bde612448621f9250ad1cb/master/pass/The-Best-Protein-Bars-That-Help-You-Reach-Your-Nutrition-Goals.jpg"
+        },
+        {
+          "id": "37de9dacbdd1",
+          "title": "Aiper Scuba V3 Pool Robot Review: Eye on the Prize",
+          "url": "https://www.wired.com/review/aiper-scuba-v3-pool-robot/",
+          "source": "Wired",
+          "published": "2026-03-21T11:02:00+00:00",
+          "summary": "Now outfitted with AI computer vision, this new pool cleaner can actively search for debris.",
+          "image": "https://media.wired.com/photos/69bde9baac1990a74f74d3cb/master/pass/Review--Aiper-Scuba-V3-Pool-Robot.jpg"
+        },
+        {
+          "id": "69185d2141bc",
+          "title": "We keep finding the raw material of DNA in asteroids—what's it telling us?",
+          "url": "https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/",
+          "source": "Ars Technica",
+          "published": "2026-03-21T11:00:37+00:00",
+          "summary": "On Monday, a paper announcing that all four DNA bases had been found on an asteroid sparked a lot of headlines. But many of the headlines omitted a key word needed to put the discovery in context: \"again.\" The paper itself cited similar results dating back to 2011, and the ensuin",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-1-500x500-1774038632.png"
+        },
+        {
+          "id": "bd4103db6dd3",
+          "title": "Kodiak CEO says making trucks drive themselves is only half the battle",
+          "url": "https://www.theverge.com/transportation/897551/kodiak-ai-self-driving-truck-ceo-interview",
+          "source": "The Verge",
+          "published": "2026-03-21T11:00:00+00:00",
+          "summary": "This year is shaping up to be a big one for self-driving trucks. In addition to Aurora's plan to deploy hundreds of autonomous big rigs and Waabi expanding into robotaxis , you've also got Kodiak AI aiming to launch its own fully driverless long-haul freight operation by the end ",
+          "image": null
+        },
+        {
+          "id": "fa1ff6efffd7",
+          "title": "I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
+          "url": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/",
+          "source": "Wired",
+          "published": "2026-03-21T11:00:00+00:00",
+          "summary": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
+          "image": "https://media.wired.com/photos/69bde0470f77792197014e68/master/pass/gear_doordash_task_app_gig.jpg"
+        },
+        {
+          "id": "441dd8ba443e",
+          "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
+          "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
+          "source": "Wired",
+          "published": "2026-03-21T10:30:00+00:00",
+          "summary": "Plus: The FBI admits it’s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
+          "image": "https://media.wired.com/photos/69bd936664f16d66cf6343e0/master/pass/Security-Roundup-Hacked-Breathalyzer-Security-523525124.jpg"
+        },
+        {
+          "id": "877a46676868",
+          "title": "Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager",
+          "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
+          "source": "The Hacker News",
+          "published": "2026-03-21T10:24:00+00:00",
+          "summary": "Oracle has released security updates to address a critical security flaw impacting Identity Manager and Web Services Manager that could be exploited to achieve remote code execution. The vulnerability, tracked as CVE-2026-21992, carries a CVSS score of 9.8 out of a maximum of 10.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIh9aqIMPc6elNLcqZwmxGq0BHfA3NS2kkxawAr-H7SzPJKmvc7tXrykcm664TGFkJUIb_BmGpJV0CkEjIxVoRfTCrc8br5bi_TL93Nv_g7J_c9ccucZL4e55lp_zyywwBeAzDIoA1bnI95ELRLCbOyVf0WX0CGgGHLun2uQFKhqeMKf16nBOeJTO7O77/s1600/oracle-flaw-hack.jpg"
+        },
+        {
+          "id": "abb5913f42f6",
+          "title": "DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator",
+          "url": "https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/",
+          "source": "Ars Technica",
+          "published": "2026-03-21T10:00:18+00:00",
+          "summary": "Last summer, a group of officials from the Department of Energy gathered at the Idaho National Laboratory, a sprawling 890-square-mile complex in the eastern desert of Idaho where the US government built its first rudimentary nuclear power plant in 1951 and continues to test cutt",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2153431003-500x500.jpg"
+        },
+        {
+          "id": "edc827de5422",
+          "title": "The 19 Best EVs Coming in 2026",
+          "url": "https://www.wired.com/story/the-16-best-evs-coming-in-2026/",
+          "source": "Wired",
+          "published": "2026-03-21T10:00:00+00:00",
+          "summary": "We’re expecting fresh electrics from Rivian, Hyundai, Honda, BMW, and newcomer Slate, among others. Here are the EVs arriving this year that we’re most excited about.",
+          "image": "https://media.wired.com/photos/69690fbd97fa719e7197e482/master/pass/011526_2026-EV-Guide.jpg"
+        },
+        {
+          "id": "0ff6741aed3f",
+          "title": "'Jury Duty Presents: Company Retreat' Almost Makes Corporate Culture Seem Fun",
+          "url": "https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/",
+          "source": "Wired",
+          "published": "2026-03-21T10:00:00+00:00",
+          "summary": "The Amazon Prime prank series amplifies the hijinks of workplace dynamics, while showing how people find purpose—and community—in their jobs despite impossible situations.",
+          "image": "https://media.wired.com/photos/69bc59fc89c1dde02548b3cf/master/pass/Jury-Duty-2-Culture-TCDJUDU_ZU012.jpg"
+        },
+        {
+          "id": "65cef9e0e15b",
+          "title": "How BYD Got EV Chargers to Work Almost as Fast as Gas Pumps",
+          "url": "https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/",
+          "source": "Wired",
+          "published": "2026-03-21T09:30:00+00:00",
+          "summary": "The Chinese automaker is racing ahead of global competitors—but don’t expect to see those gains in the US anytime soon.",
+          "image": "https://media.wired.com/photos/69bb10ef20b5c90983327992/master/pass/BYD-New-Battery-Tech-Gear-2263889066.jpg"
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 9,
+      "briefing": "Today's Race, Religion & Royalty section covers 9 stories.",
+      "articles": [
+        {
+          "id": "5b7fcd6554bb",
+          "title": "50% of our oil supply passes through Hormuz strait, says PM",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/22/50-of-our-oil-supply-passes-through-hormuz-strait-says-pm",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T05:27:02+00:00",
+          "summary": "Prime Minister Anwar Ibrahim said Malaysians and the majority of traders do not have to pay the market rate for fuel because of government subsidies. (Bernama pic) PETALING JAYA: Prime Minister Anwar Ibrahim has sought to explain why Malaysia has been affected by the surge in oil",
+          "image": null
+        },
+        {
+          "id": "eb80b1637348",
+          "title": "Kerajaan perlu waspada agensi keselamatan guna AI",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/22/kerajaan-perlu-waspada-agensi-keselamatan-guna-ai",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T05:00:46+00:00",
+          "summary": "Awal bulan ini, Menteri Dalam Negeri Saifuddin Nasution Ismail menggesa agensi dan jabatan di bawah kementeriannya mempercepatkan penggunaan AI bagi meningkatkan produktiviti serta kecekapan. PETALING JAYA: Seorang penganalisis pertahanan menggesa kerajaan berhati-hati terhadap p",
+          "image": null
+        },
+        {
+          "id": "a9c96ff391bc",
+          "title": "PETRONAS looking at alternatives if Strait of Hormuz blockade persists, says DPM",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/22/petronas-looking-at-alternatives-if-hormuz-straits-blockade-persists-says-dpm",
+          "source": "The Star Malaysia",
+          "published": "2026-03-22T04:48:00+00:00",
+          "summary": "Deputy Prime Minister Fadillah Yusof engages with members of the Orang Ulu community from Miri during the Majlis Ramah Mesra Rakyat at the CIDB Convention Centre Sarawak. The group travelled nearly 12 hours by bus to attend the gathering organised by the Gabungan Penghulu dan Ket",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/22/3824616.jpg"
+        },
+        {
+          "id": "2114d3e62355",
+          "title": "Be careful about security agencies using AI, govt told",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/22/be-careful-about-security-agencies-using-ai-govt-told",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T04:30:38+00:00",
+          "summary": "Earlier this month, home minister Saifuddin Nasution Ismail urged agencies and departments under his ministry to fast-track AI adoption to boost productivity and efficiency. PETALING JAYA: A defence analyst has urged the government to exercise caution as it pushes security agenci",
+          "image": null
+        },
+        {
+          "id": "ccac4ca713fb",
+          "title": "Samsuri saran tubuh majlis bebas tangani kesan kenaikan harga minyak",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/22/samsuri-saran-tubuh-majlis-bebas-tangani-kesan-kenaikan-harga-minyak",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T04:27:31+00:00",
+          "summary": "Pengerusi PN Ahmad Samsuri Mokhtar berkata majlis dicadangkan itu boleh dianggotai NGO, ahli akademik, pemain industri dan masyarakat sivil. (Gambar Facebook) PETALING JAYA: Pengerusi Perikatan Nasional (PN), Ahmad Samsuri Mokhtar menyarankan kerajaan membentuk majlis perundingan",
+          "image": null
+        },
+        {
+          "id": "562abdf71839",
+          "title": "Samsuri calls for independent council to tackle fallout from rising oil prices",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/22/samsuri-calls-for-independent-council-to-tackle-fallout-from-rising-oil-prices",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T04:00:59+00:00",
+          "summary": "PN chairman Ahmad Samsuri Mokhtar said the proposed council can compose NGOs, academics, industry players, and civil society. (Facebook pic) PETALING JAYA: Perikatan Nasional chairman Ahmad Samsuri Mokhtar has urged the government to form a non-partisan national council to discus",
+          "image": null
+        },
+        {
+          "id": "1b1adbcd7015",
+          "title": "When cats dress up for Raya",
+          "url": "https://www.freemalaysiatoday.com/category/leisure/2026/03/22/when-cats-dress-up-for-raya",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T04:00:03+00:00",
+          "summary": "Every year, Raziellia dresses up her adorable cats in Raya outfits to take festive photos and videos. (Raziellia Nor Saafri pic) KUALA LUMPUR: As Malaysians got ready to celebrate Raya, some pet owners made sure their feline companions were just as prepared which meant dressing t",
+          "image": null
+        },
+        {
+          "id": "67863dd15dff",
+          "title": "Welcoming Syawal with the Cocos Malays in Tawau",
+          "url": "https://www.freemalaysiatoday.com/category/leisure/2026/03/22/welcoming-syawal-with-the-cocos-malays-in-tawau",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T03:00:00+00:00",
+          "summary": "Muhammad Arief Ab Razak with members of the Cocos Malay community in their traditional ‘kebayak’. (Muhammad Arief Ab Razak pic) PETALING JAYA: Amidst the bustle of Hari Raya celebrations nationwide, one village on Tawau s outskirts keeps a different Syawal rhythm. In Kampung Balu",
+          "image": null
+        },
+        {
+          "id": "97bb1394aa76",
+          "title": "2 more Malaysians nabbed for impersonating S’porean officals",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/22/2-more-malaysians-nabbed-for-impersonating-sporean-officals",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T02:53:05+00:00",
+          "summary": "The two Malaysians face up to 10 years in prison, a maximum S$500,000 fine, or both, if convicted. (Reuters pic) PETALING JAYA: Two more Malaysians have been arrested by Singaporean authorities for impersonating government officials in the city-state. Singaporean police said one ",
+          "image": null
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 7,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 7 stories.",
+      "articles": [
+        {
+          "id": "eb80b1637348",
+          "title": "Kerajaan perlu waspada agensi keselamatan guna AI",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/22/kerajaan-perlu-waspada-agensi-keselamatan-guna-ai",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T05:00:46+00:00",
+          "summary": "Awal bulan ini, Menteri Dalam Negeri Saifuddin Nasution Ismail menggesa agensi dan jabatan di bawah kementeriannya mempercepatkan penggunaan AI bagi meningkatkan produktiviti serta kecekapan. PETALING JAYA: Seorang penganalisis pertahanan menggesa kerajaan berhati-hati terhadap p",
+          "image": null
+        },
+        {
+          "id": "a703478fc8dd",
+          "title": "Govt intensifies efforts to reduce non-revenue water, strengthen supply system",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/22/govt-intensifies-efforts-to-reduce-non-revenue-water-strengthen-supply-system",
+          "source": "The Star Malaysia",
+          "published": "2026-03-22T04:34:00+00:00",
+          "summary": "KUALA LUMPUR: The issue of non-revenue water (NRW), including pipe leaks, water theft and ageing infrastructure, remains high in several states and significantly impacts the efficiency of the country's water supply system. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/22/3824608.jpg"
+        },
+        {
+          "id": "2114d3e62355",
+          "title": "Be careful about security agencies using AI, govt told",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/22/be-careful-about-security-agencies-using-ai-govt-told",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T04:30:38+00:00",
+          "summary": "Earlier this month, home minister Saifuddin Nasution Ismail urged agencies and departments under his ministry to fast-track AI adoption to boost productivity and efficiency. PETALING JAYA: A defence analyst has urged the government to exercise caution as it pushes security agenci",
+          "image": null
+        },
+        {
+          "id": "ccac4ca713fb",
+          "title": "Samsuri saran tubuh majlis bebas tangani kesan kenaikan harga minyak",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/22/samsuri-saran-tubuh-majlis-bebas-tangani-kesan-kenaikan-harga-minyak",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T04:27:31+00:00",
+          "summary": "Pengerusi PN Ahmad Samsuri Mokhtar berkata majlis dicadangkan itu boleh dianggotai NGO, ahli akademik, pemain industri dan masyarakat sivil. (Gambar Facebook) PETALING JAYA: Pengerusi Perikatan Nasional (PN), Ahmad Samsuri Mokhtar menyarankan kerajaan membentuk majlis perundingan",
+          "image": null
+        },
+        {
+          "id": "562abdf71839",
+          "title": "Samsuri calls for independent council to tackle fallout from rising oil prices",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/22/samsuri-calls-for-independent-council-to-tackle-fallout-from-rising-oil-prices",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T04:00:59+00:00",
+          "summary": "PN chairman Ahmad Samsuri Mokhtar said the proposed council can compose NGOs, academics, industry players, and civil society. (Facebook pic) PETALING JAYA: Perikatan Nasional chairman Ahmad Samsuri Mokhtar has urged the government to form a non-partisan national council to discus",
+          "image": null
+        },
+        {
+          "id": "97bb1394aa76",
+          "title": "2 more Malaysians nabbed for impersonating S’porean officals",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/22/2-more-malaysians-nabbed-for-impersonating-sporean-officals",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-22T02:53:05+00:00",
+          "summary": "The two Malaysians face up to 10 years in prison, a maximum S$500,000 fine, or both, if convicted. (Reuters pic) PETALING JAYA: Two more Malaysians have been arrested by Singaporean authorities for impersonating government officials in the city-state. Singaporean police said one ",
+          "image": null
+        },
+        {
+          "id": "356370611cf3",
+          "title": "Were Foreign Nationals and Myanmar Rebel Groups Plotting an Attack Against India?",
+          "url": "https://thediplomat.com/2026/03/were-foreign-nationals-and-myanmar-rebel-groups-plotting-an-attack-against-india/",
+          "source": "The Diplomat",
+          "published": "2026-03-20T16:49:00+00:00",
+          "summary": "The arrest of seven foreign citizens under UAPA drew attention to Myanmar-based EAOs and their links to India – but media reports thus far have obscured more thanthey have illuminated.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-21-015035.jpg"
+        }
+      ]
+    }
+  }
+}
