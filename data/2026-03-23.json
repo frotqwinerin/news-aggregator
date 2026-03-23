@@ -1,0 +1,486 @@
+{
+  "date": "2026-03-23",
+  "generated_at": "2026-03-23T05:56:02.423666+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "cf059b2f10dd",
+          "title": "AI influencer awards season is upon us",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
+          "source": "The Verge",
+          "published": "2026-03-23T00:01:00+00:00",
+          "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry. The contest, a joint ve",
+          "image": null
+        },
+        {
+          "id": "47f052b7dde6",
+          "title": "Topical Dancer is propulsive, playful, and political",
+          "url": "https://www.theverge.com/entertainment/898796/charlotte-adigery-bolis-pupul-topical-dancer-review",
+          "source": "The Verge",
+          "published": "2026-03-22T21:44:30+00:00",
+          "summary": "Siri, can you tell me where I belong? | Image: DEEWEE Last week's recommendation , Sotomayor's Wabi Sabi , has a very particular vibe that you don't find in a lot of records. One of the few things it called to mind was 2022's Topical Dancer from Charlotte Adigery and Bolis Pupul,",
+          "image": null
+        },
+        {
+          "id": "147abba29de2",
+          "title": "Airlines Are Already Preparing for an Oil Crisis",
+          "url": "https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/",
+          "source": "Wired",
+          "published": "2026-03-22T21:37:59+00:00",
+          "summary": "With the Iran war doubling oil prices, experts say the airline industry’s belt-tightening is an economic canary in the coal mine for the rest of the world.",
+          "image": "https://media.wired.com/photos/69c05adeb4c76c9edb202a3f/master/pass/2257279027"
+        },
+        {
+          "id": "9935d26d8c52",
+          "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
+          "url": "https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/",
+          "source": "TechCrunch",
+          "published": "2026-03-22T19:50:16+00:00",
+          "summary": "After four years, and multiple subpoenas and depositions, the beleaguered startup has dodged yet another bullet.",
+          "image": null
+        },
+        {
+          "id": "f4027ab9c202",
+          "title": "Do you want to build a robot snowman?",
+          "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+          "source": "TechCrunch",
+          "published": "2026-03-22T19:45:07+00:00",
+          "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+          "image": null
+        },
+        {
+          "id": "2d60258d0f44",
+          "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+          "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+          "source": "TechCrunch",
+          "published": "2026-03-22T18:41:09+00:00",
+          "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+          "image": null
+        },
+        {
+          "id": "726097324343",
+          "title": "Crimson Desert dev apologizes for use of AI art",
+          "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+          "source": "The Verge",
+          "published": "2026-03-22T17:34:34+00:00",
+          "summary": "That’s some sloppy looking slop. | Image: Rex_Spy / Reddit Reviews of Crimson Desert have been mixed , but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was inde",
+          "image": null
+        },
+        {
+          "id": "c0673f3f69c6",
+          "title": "The best deals you can already grab from Amazon’s Big Spring Sale",
+          "url": "https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026",
+          "source": "The Verge",
+          "published": "2026-03-22T16:42:01+00:00",
+          "summary": "Amazon’s Prime Day sale may arrive earlier than usual this year , but there’s a deal event happening much sooner: Amazon’s annual Big Spring Sale, which is happening March 25th through the 31st. While it won’t be as big as Prime Day or Black Friday, it does offer you a chance to ",
+          "image": null
+        },
+        {
+          "id": "ab9ad6ba1eda",
+          "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+          "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+          "source": "TechCrunch",
+          "published": "2026-03-22T16:20:00+00:00",
+          "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+          "image": null
+        },
+        {
+          "id": "37230b8f8f64",
+          "title": "TechCrunch Mobility: Uber everywhere, all at once",
+          "url": "https://techcrunch.com/2026/03/22/techcrunch-mobility-uber-everywhere-all-at-once/",
+          "source": "TechCrunch",
+          "published": "2026-03-22T16:05:00+00:00",
+          "summary": "Welcome back to TechCrunch Mobility, your central hub for news and insights on the future of transportation.",
+          "image": null
+        },
+        {
+          "id": "485043cf008d",
+          "title": "Delve accused of misleading customers with ‘fake compliance’",
+          "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+          "source": "TechCrunch",
+          "published": "2026-03-22T14:43:51+00:00",
+          "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+          "image": null
+        },
+        {
+          "id": "2a229dc2599f",
+          "title": "VoidStealer malware steals Chrome master key via debugger trick",
+          "url": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
+          "source": "BleepingComputer",
+          "published": "2026-03-22T14:32:46+00:00",
+          "summary": "An information stealer called VoidStealer uses a new approach to bypass Chrome's Application-Bound Encryption (ABE) and extract the master key for decrypting sensitive data stored in the browser. [...]",
+          "image": null
+        },
+        {
+          "id": "9c81b88a8b4d",
+          "title": "There can (still) be only one: Highlander is 40",
+          "url": "https://arstechnica.com/culture/2026/03/there-can-still-be-only-one-highlander-is-40/",
+          "source": "Ars Technica",
+          "published": "2026-03-22T14:10:30+00:00",
+          "summary": "The 1980s brought us so many terrific films, including director Russell Mulcahy's sword-and-sorcery fantasy action film Highlander , starring Christopher Lambert as an immortal Scotsman who must battle others like him to the death until just one remains. The film spawned two dire",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/highlander22-500x500-1774094576.jpg"
+        },
+        {
+          "id": "2870196ee6ba",
+          "title": "Musk says he’s building Terafab chip plant in Austin, Texas",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+          "source": "The Verge",
+          "published": "2026-03-22T14:06:48+00:00",
+          "summary": "Grok, how do you make chips? | Image: Laura Normand / The Verge Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based",
+          "image": null
+        },
+        {
+          "id": "eafb219b8a6e",
+          "title": "The secret story of the vocoder, the military tech that changed music forever",
+          "url": "https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history",
+          "source": "The Verge",
+          "published": "2026-03-22T13:45:45+00:00",
+          "summary": "The vocoder was never supposed to be a revolution in music. It wasn't supposed to be anything in music, really. Its development began a century ago, when an engineer at Bell Labs was looking for a simpler way to send phone calls across copper telephone lines. The engineer, Homer ",
+          "image": null
+        },
+        {
+          "id": "f313d9ca9467",
+          "title": "The pint-sized Sonos Roam 2 is more than 20 percent off this weekend",
+          "url": "https://www.theverge.com/gadgets/898414/sonos-roam-2-bluetooth-speaker-amazon-big-spring-sale-2026-deals",
+          "source": "The Verge",
+          "published": "2026-03-22T13:00:00+00:00",
+          "summary": "Sonos is no stranger to the occasional sale. The iconic audio company routinely runs sales around Black Friday, Amazon Prime Day, and the Super Bowl, though it’s rare to see substantial discounts on its portable speakers outside of tentpole shopping events. Fortunately, if you ha",
+          "image": null
+        },
+        {
+          "id": "0302c850432f",
+          "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
+          "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+          "source": "TechCrunch",
+          "published": "2026-03-22T12:00:00+00:00",
+          "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+          "image": null
+        },
+        {
+          "id": "db5401481a25",
+          "title": "AI was everywhere at gaming’s big developer conference — except the games",
+          "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+          "source": "The Verge",
+          "published": "2026-03-22T12:00:00+00:00",
+          "summary": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box . On the show floor, I spent 10 minutes playing a demo of a pixel-art fantasy world generated by",
+          "image": null
+        },
+        {
+          "id": "bdf4a88e936b",
+          "title": "Online age checks came first — a VPN crackdown could be next",
+          "url": "https://www.theverge.com/column/898122/online-age-verification-vpns",
+          "source": "The Verge",
+          "published": "2026-03-22T12:00:00+00:00",
+          "summary": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more news about online age verification and your privacy, follow Emma Roth . The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here . How it sta",
+          "image": null
+        },
+        {
+          "id": "c82372290107",
+          "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets & More",
+          "url": "https://www.wired.com/story/best-merino-wool-clothes/",
+          "source": "Wired",
+          "published": "2026-03-22T12:00:00+00:00",
+          "summary": "Merino is one of the best fabrics you can wear. We explain the different blends, what “gsm” means, and how to care for your clothes.",
+          "image": "https://media.wired.com/photos/69101cf42807788d808a6daf/master/pass/The%20Best%20Merino%20Wool%20Clothing%20Keeps%20You%20Comfy%20in%20Any%20Weather.png"
+        },
+        {
+          "id": "3e9810021554",
+          "title": "How to Back Up Your Android Phone (2026)",
+          "url": "https://www.wired.com/story/how-to-backup-your-android/",
+          "source": "Wired",
+          "published": "2026-03-22T11:30:00+00:00",
+          "summary": "Do your future self a favor and back up all your precious photos, messages, and files before disaster strikes.",
+          "image": "https://media.wired.com/photos/69be46792348c0e292e1c038/master/pass/GettyImages-1229221365.jpg"
+        },
+        {
+          "id": "ad7ed4c4d6d0",
+          "title": "Which Instax Camera Should You Buy? (2026)",
+          "url": "https://www.wired.com/gallery/which-instax-camera-should-you-buy/",
+          "source": "Wired",
+          "published": "2026-03-22T11:30:00+00:00",
+          "summary": "Should you buy an Instax Mini or Mini Evo? Instax Square or Wide? We demystify Fujifilm’s Instax lineup to help you find the perfect instant camera (or printer).",
+          "image": "https://media.wired.com/photos/680c4e0a87b0011c149a2668/master/pass/Instax-Camera-Should-You-Buy_042024_Lede.jpg"
+        },
+        {
+          "id": "2225e6d953a9",
+          "title": "Mining the deep ocean",
+          "url": "https://arstechnica.com/science/2026/03/mining-the-deep-ocean/",
+          "source": "Ars Technica",
+          "published": "2026-03-22T11:00:58+00:00",
+          "summary": "More than 13,000 feet below the surface of the Pacific Ocean, a more-than-70-ton machine trundled like a tank on its caterpillar tracks for a tenth of a mile—sucking up potato-sized nodules of rock packed with copper, manganese, cobalt, and nickel. It was 2022, and that pilot run",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2174489591-500x500.jpg"
+        },
+        {
+          "id": "9d4a748c1098",
+          "title": "The Best Subscription-Free Home Security Cameras I've Tried",
+          "url": "https://www.wired.com/story/best-subscription-free-security-cameras/",
+          "source": "Wired",
+          "published": "2026-03-22T11:00:00+00:00",
+          "summary": "You don’t have to upload your video to the cloud or pay a monthly fee to secure your home. These security cameras record locally.",
+          "image": "https://media.wired.com/photos/69bdf2c78ace5dcf79dc467f/master/pass/Best-Subscription-Free-Home-Security-Cameras.jpg"
+        },
+        {
+          "id": "21ef0d0dc969",
+          "title": "Give Your Phone a Huge (and Free) Upgrade by Switching to Another Keyboard",
+          "url": "https://www.wired.com/story/switch-your-phone-to-another-keyboard-ios-android/",
+          "source": "Wired",
+          "published": "2026-03-22T10:30:00+00:00",
+          "summary": "Change up the default keyboard in Android and iOS and feel the benefit.",
+          "image": "https://media.wired.com/photos/69b9625505557ee17c0a9d91/master/pass/GettyImages-2242223450.jpg"
+        },
+        {
+          "id": "626e1d6deed4",
+          "title": "12 Best Coffee Subscriptions (2026), Tested by Caffeine Hounds",
+          "url": "https://www.wired.com/gallery/best-coffee-subscriptions/",
+          "source": "Wired",
+          "published": "2026-03-22T09:32:00+00:00",
+          "summary": "These services deliver freshly roasted, delicious coffee picks right to your door—each with its own twist.",
+          "image": "https://media.wired.com/photos/69be2db840d94f23d7df0aa5/master/pass/The-Best-Coffee-Subscriptions-to-Keep-You-Wired-in-2026.jpg"
+        },
+        {
+          "id": "bd511a5f7c2c",
+          "title": "Mexico City's 'Xoli' Chatbot Will Help World Cup Tourists Navigate the City",
+          "url": "https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/",
+          "source": "Wired",
+          "published": "2026-03-22T09:00:00+00:00",
+          "summary": "The launch of “Xoli” adds to the technological efforts promoted by the federal government to turn the 2026 World Cup into an engine of development for the entire country.",
+          "image": "https://media.wired.com/photos/69bd7a4b893c030531860f2f/master/pass/Xoli%20chatbot%20Mundial%20CDMX.jpg"
+        },
+        {
+          "id": "bf069dd49edb",
+          "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+          "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+          "source": "TechCrunch",
+          "published": "2026-03-22T06:20:43+00:00",
+          "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+          "image": null
+        },
+        {
+          "id": "572665e0c0be",
+          "title": "Halide co-founder is suing former partner for bringing source code to Apple",
+          "url": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
+          "source": "The Verge",
+          "published": "2026-03-21T21:02:56+00:00",
+          "summary": "Halide running on an iPhone. | Photo: Allison Johnson / The Verge Lux Optics co-founder Sebastiaan de With made headlines when he joined Apple in late January. The company was behind Halide , one of the most popular photography apps for the iPhone, which gained a cult following f",
+          "image": null
+        },
+        {
+          "id": "9f69b493dcf2",
+          "title": "It’s been 20 years since the first tweet",
+          "url": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
+          "source": "TechCrunch",
+          "published": "2026-03-21T20:30:47+00:00",
+          "summary": "On March 21, 2006, Jack Dorsey posted a simple message: “just setting up my twittr”.",
+          "image": null
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 16,
+      "briefing": "Today's Race, Religion & Royalty section covers 16 stories.",
+      "articles": [
+        {
+          "id": "ccbde11800a4",
+          "title": "Medicine supply stable despite Mideast conflict, says govt",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/23/medicine-supply-stable-despite-mideast-conflict-says-govt",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T05:44:15+00:00",
+          "summary": "The health ministry said its proactive measures include the establishment of Taskforce 1, comprising pharmaceutical industry stakeholders, to monitor and ensure the security of the supply of medicines. (Bernama pic) PETALING JAYA: Malaysia’s medicine supplies remain stable and we",
+          "image": null
+        },
+        {
+          "id": "d1a9bcc0e6ec",
+          "title": "VMY2026 targets still on track, tourist arrivals up 30% as of Feb, says deputy sec-gen",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/23/vmy2026-targets-still-on-track-tourist-arrivals-up-30-as-of-feb-says-deputy-sec-gen",
+          "source": "The Star Malaysia",
+          "published": "2026-03-23T05:43:00+00:00",
+          "summary": "SEPANG: Visitor arrivals to Malaysia have surged by more than 30% up to February this year compared with the same period previously, bolstering confidence that the country is on track to meet its Visit Malaysia 2026 (VM2026) targets despite global uncertainties and the conflict i",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/23/3825855.jpg"
+        },
+        {
+          "id": "5785f72641f3",
+          "title": "KKM jamin tiada gangguan bekalan ubat susulan konflik Asia Barat",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/23/kkm-jamin-tiada-gangguan-bekalan-ubat-susulan-konflik-asia-barat",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T05:35:07+00:00",
+          "summary": "Fasiliti kesihatan kerajaan kini memiliki paras stok ubat antara satu hingga tiga bulan mengikut keperluan penggunaan semasa, kata Kementerian Kesihatan. (Gambar Bernama) PETALING JAYA: Kementerian Kesihatan (KKM) memberi jaminan bahawa bekalan ubat-ubatan dalam negara ketika ini",
+          "image": null
+        },
+        {
+          "id": "f8fb75e84ea4",
+          "title": "Indonesia eyes US$4.7bil in savings to brace for Mideast war impacts",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/03/23/indonesia-eyes-us4-7bil-in-savings-to-brace-for-mideast-war-impacts",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T05:21:16+00:00",
+          "summary": "The Indonesian government has defended its fuel subsidy, which covers about 30% to 40% of the cost for consumers and represents around 15% of the budget. (AFP pic) JAKARTA: Indonesia is eyeing up to Rp80 trillion (US$4.7 billion) in savings to cushion its economy from the fallout",
+          "image": null
+        },
+        {
+          "id": "606726a090c2",
+          "title": "Untung Petronas kekayaan jangka panjang, bukan untuk subsidi menyeluruh, kata MP",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/23/untung-petronas-kekayaan-jangka-panjang-bukan-untuk-subsidi-menyeluruh-kata-mp",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T04:48:31+00:00",
+          "summary": "Chong Zhemin berkata Malaysia perlu mencontohi Norway dengan menyimpan sebahagian besar keuntungan Petronas, bukannya membelanjakan semuanya untuk subsidi bahan api jangka pendek. PETALING JAYA: Keuntungan daripada Petronas wajar dianggap sebagai kekayaan strategik negara, bukann",
+          "image": null
+        },
+        {
+          "id": "41fb4eca9c48",
+          "title": "Govt exploring alternative transit routes, Asian markets to keep VM2026 on track",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/23/govt-exploring-alternative-transit-routes-asian-markets-to-keep-vm2026-on-track",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T04:20:03+00:00",
+          "summary": "More than 37,000 flights to and from the Middle East have been cancelled since the US-Israel strikes on Iran began on Feb 28, removing roughly 4.4 million seats from the market. (Envato Elements pic) PETALING JAYA: The government is studying alternative flight transit routes and ",
+          "image": null
+        },
+        {
+          "id": "6006cba38f69",
+          "title": "Hot weather alert issued for northern peninsula, parts of Pahang and Negri",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/23/hot-weather-alert-issued-for-northern-peninsula-parts-of-pahang-and-negri",
+          "source": "The Star Malaysia",
+          "published": "2026-03-23T04:16:00+00:00",
+          "summary": "SOLAR SHIELD: Pedestrians carry umbrellas as a primary defense against a relentless heatwave. Meteorological departments have warned of \"extreme\" UV levels during peak daylight hours. — RAJA FAISAL HISHAN/The Star",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/23/3825815.jpg"
+        },
+        {
+          "id": "af88f1dad65e",
+          "title": "Strategi TMM 2026 dinilai semula, fokus tarik pelancong Asia susulan konflik Asia Barat",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/23/strategi-tmm-2026-dinilai-semula-fokus-tarik-pelancong-asia-susulan-konflik-asia-barat",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T04:12:04+00:00",
+          "summary": "Konflik di Asia Barat mungkin memberi kesan terhadap sasaran TMM 2026 sekali gus memerlukan penelitian semula strategi yang dirancang kerajaan, kata Timbalan Ketua Setiausaha Kementerian Pelancongan, Seni dan Budaya, Chua Choon Hwa. (Gambar Bernama) PETALING JAYA: Kerajaan akan m",
+          "image": null
+        },
+        {
+          "id": "a2d185a3742b",
+          "title": "Raya dodol-making still an honoured tradition here",
+          "url": "https://www.freemalaysiatoday.com/category/leisure/2026/03/23/raya-dodol-making-still-an-honoured-tradition-here",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T04:00:54+00:00",
+          "summary": "Nor Akmar Atan is making sure the legacy of dodol making doesn t disappear. (Nor Akmar Atan pic) SHAH ALAM: For Nor Akmar Atan, returning to her family home in Kampung Keru, Batu Kikir, a little town in Negri Sembilan during Hari Raya isn’t just about celebration or catching up w",
+          "image": null
+        },
+        {
+          "id": "08c284a8ef52",
+          "title": "Act now to tackle anticipated water shortages, Sabah govt urged",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/23/act-now-to-tackle-anticipated-water-shortages-sabah-govt-urged",
+          "source": "The Star Malaysia",
+          "published": "2026-03-23T03:56:00+00:00",
+          "summary": "KOTA KINABALU: Sabah must prepare for the current hot spell with proactive measures amid concerns over potential water shortages, says the state chapter of the National Consumer Foundation Malaysia (YPNM). Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/23/3825807.jpg"
+        },
+        {
+          "id": "81054c16d7e7",
+          "title": "Petronas profits meant for long-term national wealth, not short-term subsidies, says MP",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/23/petronas-profits-meant-for-long-term-national-wealth-not-short-term-subsidies-says-mp",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T03:39:06+00:00",
+          "summary": "Chong Zhemin says Malaysia should take a leaf from Norway and save a significant portion of Petronas’s windfall gains instead of spending them all on short-term fuel subsidies. PETALING JAYA: Profits from Petronas should be treated as strategic national wealth, rather than being ",
+          "image": null
+        },
+        {
+          "id": "6f7f1217ce24",
+          "title": "15 heat-related cases, including child’s death, reported as scorching weather continues",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/23/15-heat-related-cases-including-childs-death-reported-as-scorching-weather-continues",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T03:01:28+00:00",
+          "summary": "Health minister Dzulkefly Ahmad advised the public to stay hydrated and follow official guidelines to minimise health risks. (Bernama pic) PETALING JAYA: Malaysia has recorded 15 heat-related cases this year, including the death of a child, health minister Dzulkefly Ahmad said. I",
+          "image": null
+        },
+        {
+          "id": "e279986cb0ff",
+          "title": "Raya in Bahrain: an Aidilfitri shaped by caution and resilience",
+          "url": "https://www.freemalaysiatoday.com/category/leisure/2026/03/23/raya-in-bahrain-an-aidilfitri-shaped-by-caution-and-resilience",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T03:00:38+00:00",
+          "summary": "Nizam, Norhani and their two children are finding small ways to hold on to the spirit of the season, such as supporting fellow Malaysians who bake biskut raya. (Bernama pic) KLANG: For Muhamad Nizam Shaidon, this year’s Aidilfitri is unlike any other. Far from home in Bahrain, th",
+          "image": null
+        },
+        {
+          "id": "17dbd432860d",
+          "title": "Household farms not long-term fix for national food security, say experts",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/23/household-farms-not-a-long-term-fix-for-national-food-security-say-experts",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T03:00:20+00:00",
+          "summary": "Agriculture and food security minister Mohamad Sabu recently encouraged those living in houses with gardens to grow fast-growing crops and boost domestic food production. (Facebook pic) PETALING JAYA: Encouraging Malaysians to grow their own crops can support food resilience, but",
+          "image": null
+        },
+        {
+          "id": "82c4014e95c9",
+          "title": "Malaysia joins WHO event online due to West Asia conflict",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/23/malaysia-joins-who-event-online-due-to-west-asia-conflict",
+          "source": "The Star Malaysia",
+          "published": "2026-03-23T02:56:00+00:00",
+          "summary": "KUALA LUMPUR: Malaysia will participate in the 6th Intergovernmental Working Group (IGWG6) negotiation session at the World Health Organisation in Geneva, Switzerland, from today until Saturday, via an online platform due to the conflict in West Asia. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/23/3825767.jpg"
+        },
+        {
+          "id": "f81f7ab14ef8",
+          "title": "Vietnam protests as China’s Paracels build-up escalates at Antelope Reef",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3347467/vietnam-protests-chinas-paracels-build-escalates-antelope-reef?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "published": "2026-03-22T07:00:08+00:00",
+          "summary": "Hanoi has protested to Beijing over Chinese land-reclamation activities in the disputed Paracel Islands in the South China Sea, following reports of accelerated dredging and landfill operations at Antelope Reef. “Vietnam resolutely opposes such activities, makes representations a",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/22/27e06a5e-b117-43d6-8b15-b7cc7973a82f_bdd0d2f8.jpg?itok=re4pxemD&v=1774161582"
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 4,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 4 stories.",
+      "articles": [
+        {
+          "id": "5785f72641f3",
+          "title": "KKM jamin tiada gangguan bekalan ubat susulan konflik Asia Barat",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/23/kkm-jamin-tiada-gangguan-bekalan-ubat-susulan-konflik-asia-barat",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T05:35:07+00:00",
+          "summary": "Fasiliti kesihatan kerajaan kini memiliki paras stok ubat antara satu hingga tiga bulan mengikut keperluan penggunaan semasa, kata Kementerian Kesihatan. (Gambar Bernama) PETALING JAYA: Kementerian Kesihatan (KKM) memberi jaminan bahawa bekalan ubat-ubatan dalam negara ketika ini",
+          "image": null
+        },
+        {
+          "id": "f8fb75e84ea4",
+          "title": "Indonesia eyes US$4.7bil in savings to brace for Mideast war impacts",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/03/23/indonesia-eyes-us4-7bil-in-savings-to-brace-for-mideast-war-impacts",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T05:21:16+00:00",
+          "summary": "The Indonesian government has defended its fuel subsidy, which covers about 30% to 40% of the cost for consumers and represents around 15% of the budget. (AFP pic) JAKARTA: Indonesia is eyeing up to Rp80 trillion (US$4.7 billion) in savings to cushion its economy from the fallout",
+          "image": null
+        },
+        {
+          "id": "81531fa1cf8d",
+          "title": "Nibong Tebal fireworks stall fire under probe, permit revoked",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/23/nibong-tebal-fireworks-stall-fire-under-probe-permit-revoked",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-23T05:10:50+00:00",
+          "summary": "A 15-second video of the incident, which went viral, shows sparks and fireworks flying into a nearby restaurant as its workers scrambled to pull down the shutters. PETALING JAYA: Police have launched an investigation into a fire involving a firecracker and fireworks stall at Tama",
+          "image": null
+        },
+        {
+          "id": "397eefffbeeb",
+          "title": "GOF detains 14 Myanmar nationals, seize e-cigarettes worth RM750,000",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/23/gof-detains-14-myanmar-nationals-seize-e-cigarettes-worth-rm750000",
+          "source": "The Star Malaysia",
+          "published": "2026-03-23T03:16:00+00:00",
+          "summary": "KOTA BARU: The General Operations Force (GOF) detained 14 Myanmar nationals and seized electronic cigarettes worth RM750,000 in two separate operations in Tumpat and here recently. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/23/3825774.jpg"
+        }
+      ]
+    }
+  }
+}
