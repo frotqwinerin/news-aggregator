@@ -1,0 +1,432 @@
+{
+  "date": "2026-03-24",
+  "generated_at": "2026-03-24T05:40:29.322488+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "71de3ae7a24a",
+          "title": "Delve halts demos, Insight Partners scrubs investment post amid ‘fake compliance’ allegations",
+          "url": "https://techcrunch.com/2026/03/23/delve-halts-demos-insight-partners-scrubs-investment-post-amid-fake-compliance-allegations/",
+          "source": "TechCrunch",
+          "published": "2026-03-24T05:26:20+00:00",
+          "summary": "After a whistleblower alleged that the startup fabricated audit evidence, its prominent Series A investor removed an article detailing why it led the deal.",
+          "image": null
+        },
+        {
+          "id": "574146663a13",
+          "title": "20% Off Brooks Promo Code & Deals for | March 2026",
+          "url": "https://www.wired.com/story/brooks-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-24T05:00:00+00:00",
+          "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+          "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg"
+        },
+        {
+          "id": "f7e164c871e2",
+          "title": "Ulta Coupons and Deals: Up to 50% Off in March",
+          "url": "https://www.wired.com/story/ulta-coupon/",
+          "source": "Wired",
+          "published": "2026-03-24T05:00:00+00:00",
+          "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+          "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png"
+        },
+        {
+          "id": "6d025d8823a8",
+          "title": "Sony Promo Codes and Discounts: 45% Off",
+          "url": "https://www.wired.com/story/sony-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-24T05:00:00+00:00",
+          "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
+          "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png"
+        },
+        {
+          "id": "2c21d37ae590",
+          "title": "Design Within Reach Promo Codes: 30% Off | March 2026",
+          "url": "https://www.wired.com/story/design-within-reach-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-24T05:00:00+00:00",
+          "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
+          "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg"
+        },
+        {
+          "id": "83e649e540f2",
+          "title": "Emil Michael, now a senior Pentagon official, says he’ll never forgive Uber investors who ousted him and Kalanick",
+          "url": "https://techcrunch.com/2026/03/23/emil-michael-now-a-senior-pentagon-official-says-hell-never-forgive-uber-investors-who-ousted-him-and-kalanick/",
+          "source": "TechCrunch",
+          "published": "2026-03-23T23:49:10+00:00",
+          "summary": "When asked whether he was still \"salty\" about about being shown the door at Uber, alongside co-founder Travis Kalanick, Michael didn't equivocate. \"I'll never forget that, nor forgive,\" he said.",
+          "image": null
+        },
+        {
+          "id": "0549f004e4c4",
+          "title": "OpenAI rolls out ChatGPT Library to store your personal files",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
+          "source": "BleepingComputer",
+          "published": "2026-03-23T23:47:14+00:00",
+          "summary": "OpenAI is rolling out a new feature called 'Library' for ChatGPT, which allows you to store your personal files or images on OpenAI's cloud storage, so you can reference those items in a future chat. [...]",
+          "image": null
+        },
+        {
+          "id": "eaa4d1108e5f",
+          "title": "Bengaluru food delivery startup Swish raises $38M, its third round in 18 months",
+          "url": "https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/",
+          "source": "TechCrunch",
+          "published": "2026-03-23T23:30:00+00:00",
+          "summary": "Swish has more than doubled its valuation in a year as its full-stack, hyperlocal model positions ultra-fast food delivery as a high-frequency habit.",
+          "image": null
+        },
+        {
+          "id": "846ba55c9eb7",
+          "title": "Despite bitter rivalry, Kalshi, Polymarket CEOs back $35M predictions markets VC fund",
+          "url": "https://techcrunch.com/2026/03/23/despite-bitter-rivalry-kalshi-polymarket-ceos-back-35m-predictions-markets-vc-fund/",
+          "source": "TechCrunch",
+          "published": "2026-03-23T22:57:53+00:00",
+          "summary": "As prediction markets explode, the new firm called 5(c) Capital, will back startups supporting the burgeoning category.",
+          "image": null
+        },
+        {
+          "id": "612d158077af",
+          "title": "A mission NASA might kill is still returning fascinating science from Jupiter",
+          "url": "https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/",
+          "source": "Ars Technica",
+          "published": "2026-03-23T22:49:31+00:00",
+          "summary": "Jupiter's colossal storms generate lightning flashes at least 100 times more powerful than those on Earth, according to scientists analyzing data from NASA's Juno spacecraft. The findings were published March 20 in the journal AGU Advances. Researchers used data recorded by Juno ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/jupiter_juno_pj39-enhanced-crop-500x437.jpg"
+        },
+        {
+          "id": "7696a674db8c",
+          "title": "The US government just banned consumer routers made outside the US",
+          "url": "https://www.theverge.com/news/899172/fcc-foreign-router-ban",
+          "source": "The Verge",
+          "published": "2026-03-23T22:47:23+00:00",
+          "summary": "In December, the Federal Communications Commission banned all future drones made in foreign countries from being imported into the United States, unless or until their maker gets an exemption. Now, the FCC has done the exact same for consumer networking gear, citing \"an unaccepta",
+          "image": null
+        },
+        {
+          "id": "61013804c1c0",
+          "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+          "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+          "source": "TechCrunch",
+          "published": "2026-03-23T22:36:39+00:00",
+          "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
+          "image": null
+        },
+        {
+          "id": "a828ee66a948",
+          "title": "Apple Maps may be about to get ads",
+          "url": "https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/",
+          "source": "TechCrunch",
+          "published": "2026-03-23T22:33:03+00:00",
+          "summary": "Apple Maps may soon serve ads in top results when users search on terms like \"restaurants.\"",
+          "image": null
+        },
+        {
+          "id": "b92b93ca9da0",
+          "title": "Mazda discloses security breach exposing employee and partner data",
+          "url": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
+          "source": "BleepingComputer",
+          "published": "2026-03-23T22:12:52+00:00",
+          "summary": "Mazda Motor Corporation (Mazda) announced that information belonging to its employees and business partners had been exposed in a security incident detected last December. [...]",
+          "image": null
+        },
+        {
+          "id": "b3ce63093797",
+          "title": "AI in the SOC: What Could Go Wrong?",
+          "url": "https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong",
+          "source": "Dark Reading",
+          "published": "2026-03-23T22:07:54+00:00",
+          "summary": "Two cybersecurity leaders tested out AI in their respective SOCs for six months — and here's what they learned.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3b30cd90466d23d5/69c1a4abe1907d29d08f0f4c/Question_mark_blocks_HAKINMHAN_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "67d14d18a665",
+          "title": "Tycoon2FA phishing platform returns after recent police disruption",
+          "url": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
+          "source": "BleepingComputer",
+          "published": "2026-03-23T21:52:58+00:00",
+          "summary": "The Tycoon2FA phishing-as-a-service (PhaaS) platform that Europol and partners disrupted on March 4 has already returned to previously observed activity levels. [...]",
+          "image": null
+        },
+        {
+          "id": "32be283f6fb7",
+          "title": "Trivy Supply Chain Attack Targets CI/CD Secrets",
+          "url": "https://www.darkreading.com/application-security/trivy-supply-chain-attack-targets-ci-cd-secrets",
+          "source": "Dark Reading",
+          "published": "2026-03-23T21:43:59+00:00",
+          "summary": "A threat actor used the open source security tool to deploy an infostealer into CI/CD workflows and steal cloud credentials, SSH keys, tokens, and other sensitive secrets.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56a20b542c082472/69c1a720f5bbfd6de1b8a688/supplychain_ImageFlow_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "a39a65b497d5",
+          "title": "Trump's MAHA pick for surgeon general flounders amid GOP doubts",
+          "url": "https://arstechnica.com/health/2026/03/trumps-maha-pick-for-surgeon-general-flounders-amid-gop-doubts/",
+          "source": "Ars Technica",
+          "published": "2026-03-23T21:43:21+00:00",
+          "summary": "President Trump's pick for surgeon general, Casey Means, is in jeopardy, as at least four Republican senators have expressed misgivings over her medical qualifications, views on vaccines, and some dubious advice she's given as a wellness influencer, according to reporting from Th",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2262971243-500x500.jpg"
+        },
+        {
+          "id": "a6534dee51d3",
+          "title": "Ransomware's New Era: Moving at AI Speed",
+          "url": "https://www.darkreading.com/endpoint-security/ransomware-new-era-moving-ai-speed",
+          "source": "Dark Reading",
+          "published": "2026-03-23T21:40:37+00:00",
+          "summary": "Threat actors bypass security tools and use AI to launch faster ransomware attacks that exploit valid credentials and target data",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc88c79f37cbb1f97/69c1f6135a8781ad34dc3f65/halcyon-who-benefits-from-ai.png?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "e0d9ab8ccdcf",
+          "title": "Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop”",
+          "url": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
+          "source": "Ars Technica",
+          "published": "2026-03-23T21:19:51+00:00",
+          "summary": "Last week, Nvidia's public reveal of DLSS 5—and its \"generative AI\" enhanced glow-ups of gaming scenes—drew widespread condemnation from the gaming community . In a podcast published Monday, though, Nvidia CEO Jensen Huang tried to differentiate the technology's optional, artist-",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/dlss5offon-500x500-1774299099.jpg"
+        },
+        {
+          "id": "60ec1b4c0f89",
+          "title": "The kid-friendly Fitbit Ace is $100, which matches its best price",
+          "url": "https://www.theverge.com/gadgets/899134/fitbit-ace-amazon-big-spring-sale-2026-deal",
+          "source": "The Verge",
+          "published": "2026-03-23T21:10:28+00:00",
+          "summary": "The Fitbit Ace LTE turns exercise into a game for kids, and it’s on sale at multiple retailers. | Image: Fitbit If you’re trying to figure out how to keep your kids occupied this spring break, the Fitbit Ace LTE is an easy way to get them outdoors and off their phones. The kid-fr",
+          "image": null
+        },
+        {
+          "id": "3ef0ac3070bf",
+          "title": "After hackers hit an Iowa company, cars around the country failed to start",
+          "url": "https://arstechnica.com/security/2026/03/after-hack-some-ignition-interlock-users-couldnt-start-their-own-cars/",
+          "source": "Ars Technica",
+          "published": "2026-03-23T21:10:14+00:00",
+          "summary": "Driving after a DUI conviction can be a dicey experience. Many states require drivers, if they want to keep using their cars, to install ignition interlock devices that measure alcohol levels before allowing the vehicle to start. One of the most common is from Des Moines, Iowa-ba",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/intoxalock-500x500.jpeg"
+        },
+        {
+          "id": "a368c53d72fd",
+          "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones",
+          "url": "https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/",
+          "source": "TechCrunch",
+          "published": "2026-03-23T20:42:41+00:00",
+          "summary": "Leaked \"DarkSword\" exploits published to GitHub allow hackers and cybercriminals to target iPhone users running old versions of iOS with spyware, according to cybersecurity researchers.",
+          "image": null
+        },
+        {
+          "id": "05008df3aa2b",
+          "title": "Zipline snaps up another $200M to fuel its drone delivery expansion",
+          "url": "https://techcrunch.com/2026/03/23/zipline-snaps-up-another-200m-to-fuel-its-drone-delivery-expansion/",
+          "source": "TechCrunch",
+          "published": "2026-03-23T20:37:52+00:00",
+          "summary": "The funding adds to a previous round, announced in January, that valued the drone startup at $7.6 billion.",
+          "image": null
+        },
+        {
+          "id": "02274ea47378",
+          "title": "LG Display starts mass-producing LTPO-like 1 Hz LCD displays for laptops",
+          "url": "https://arstechnica.com/gadgets/2026/03/lg-display-starts-mass-producing-ltpo-like-1-hz-lcd-displays-for-laptops/",
+          "source": "Ars Technica",
+          "published": "2026-03-23T20:29:09+00:00",
+          "summary": "LG Display is mass-producing laptop screens that automatically change their refresh rate from 1 Hz to up to 120 Hz, based on what’s on-screen, it announced this week. The display supplier said that it’s the first company to mass-produce these 1–120 Hz screens, which are supposed ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/XPS-16-500x500.jpeg"
+        },
+        {
+          "id": "47f25cc162a3",
+          "title": "CISOs Debate Human Role in AI-Powered Security",
+          "url": "https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security",
+          "source": "Dark Reading",
+          "published": "2026-03-23T20:26:26+00:00",
+          "summary": "The idea of a \"human in the loop\" in AI deployment was challenged during a security executive panel at the RSAC 2026 Conference this week.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt654ea4d6d54b8adf/69c1a3571190c79717853685/AI_vs_human_robert_hyrons_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "cf375e7ab13b",
+          "title": "Kalshi says it will block politicians and athletes from trading in markets they’re tied to",
+          "url": "https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked",
+          "source": "The Verge",
+          "published": "2026-03-23T20:24:43+00:00",
+          "summary": "The prediction market platform Kalshi says it's rolling out new guardrails to \"preemptively block\" political candidates and athletes from trading in their own markets, as reported earlier by Axios . In addition to blocking political candidates from trading on their own campaigns,",
+          "image": null
+        },
+        {
+          "id": "892b8ef05385",
+          "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
+          "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+          "source": "TechCrunch",
+          "published": "2026-03-23T20:15:59+00:00",
+          "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
+          "image": null
+        },
+        {
+          "id": "195d0f982986",
+          "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks",
+          "url": "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/",
+          "source": "BleepingComputer",
+          "published": "2026-03-23T20:09:10+00:00",
+          "summary": "The TeamPCP hacking group is targeting Kubernetes clusters with a malicious script that wipes all machines when it detects systems configured for Iran. [...]",
+          "image": null
+        },
+        {
+          "id": "73c37d5c4403",
+          "title": "Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’",
+          "url": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
+          "source": "The Verge",
+          "published": "2026-03-23T19:49:11+00:00",
+          "summary": "Ever watch a TV ad and wonder, \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones , and… let's just say they may not come across as intended. First, there's \"With 100x Zoom,\" an ad that appears to suggest that if a va",
+          "image": null
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 7,
+      "briefing": "Today's Race, Religion & Royalty section covers 7 stories.",
+      "articles": [
+        {
+          "id": "e9d3e434f83e",
+          "title": "Kedah Ruler hosts Hari Raya open house",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/24/kedah-ruler-hosts-hari-raya-open-house",
+          "source": "The Star Malaysia",
+          "published": "2026-03-24T05:19:00+00:00",
+          "summary": "ALOR SETAR: The Sultan of Kedah, Al-Aminul Karim Sultan Sallehuddin Sultan Badlishah, hosted a Hari Raya Aidilfitri open house at Istana Anak Bukit here on Tuesday (March 24). Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/24/3827208.jpg"
+        },
+        {
+          "id": "efe91f85bd07",
+          "title": "What’s the status of top environment officials’ case, MACC, AGC asked",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/24/whats-the-status-of-top-environment-officials-case-macc-agc-asked",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-24T05:15:55+00:00",
+          "summary": "The environment department DG and his deputy were among four people remanded by MACC as part of investigations into allegations of abuse of power and corruption involving e-waste management. (Bernama pic) PETALING JAYA: Two NGOs have urged the Malaysian Anti-Corruption Commission",
+          "image": null
+        },
+        {
+          "id": "1260d8dfe1d4",
+          "title": "Gelombang haba berlarutan hingga Jun, kata MetMalaysia",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/24/gelombang-haba-berlarutan-hingga-jun-kata-metmalaysia",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-24T04:18:33+00:00",
+          "summary": "Suhu boleh cecah 37 hingga 38 darjah Celsius, khasnya di negeri utara Semenanjung. (Gambar Bernama) PETALING JAYA: Gelombang haba yang sedang melanda negara dijangka berlarutan hingga Jun ini, dengan suhu diramalkan mencapai kemuncaknya antara pertengahan Mac dan pertengahan Apri",
+          "image": null
+        },
+        {
+          "id": "818c2280eaf5",
+          "title": "Heatwave to last until June, says MetMalaysia",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/24/heatwave-to-last-until-june-says-metmalaysia",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-24T03:52:45+00:00",
+          "summary": "Temperatures could reach between 37 and 38 degrees Celsius, particularly in the northern states of the peninsula. (Bernama pic) PETALING JAYA: The heatwave currently affecting the country is expected to last until June, with temperatures predicted to peak between mid-March and mi",
+          "image": null
+        },
+        {
+          "id": "20745e823404",
+          "title": "17 areas at ‘alert’ level as hot weather persists",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/24/17-areas-at-alert-level-as-hot-weather-persists",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-24T03:41:08+00:00",
+          "summary": "Raub and Jerantut in Pahang, along with 15 other areas, have been issued a Level 1 (alert) heat warning, while three areas in Kedah are under a Level 2 (heatwave) alert. (EPA Images pic) PETALING JAYA: A total of 17 areas in Peninsular Malaysia are under Level 1 alert, while thre",
+          "image": null
+        },
+        {
+          "id": "c6a7ea36c0a9",
+          "title": "Terbabit penipuan dalam talian, 3 rakyat Malaysia ditahan di Kemboja",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/24/terbabit-penipuan-dalam-talian-3-rakyat-malaysia-ditahan-di-kemboja",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-24T03:34:45+00:00",
+          "summary": "Tiga rakyat Malaysia antara 49 suspek ditahan dalam serbuan di sebuah hotel di Khan Sen Sok, Phnom Penh pada petang Ahad. (Gambar Rawpixel) PHNOM PENH: Tiga rakyat Malaysia antara 49 suspek ditahan pihak berkuasa Kemboja kerana didakwa terbabit penipuan dalam talian, selain 46 ka",
+          "image": null
+        },
+        {
+          "id": "d64659aed170",
+          "title": "Who Is Winning Southeast Asia’s Chip Race?",
+          "url": "https://thediplomat.com/2026/03/who-is-winning-southeast-asias-chip-race/",
+          "source": "The Diplomat",
+          "published": "2026-03-23T12:01:00+00:00",
+          "summary": "Six of the 11 nations of Southeast Asia are making a concerted effort to carve out a role for themselves in the semiconductor industry. Which ones are actually succeeding?",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-23-211351.png"
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 7,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 7 stories.",
+      "articles": [
+        {
+          "id": "efe91f85bd07",
+          "title": "What’s the status of top environment officials’ case, MACC, AGC asked",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/24/whats-the-status-of-top-environment-officials-case-macc-agc-asked",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-24T05:15:55+00:00",
+          "summary": "The environment department DG and his deputy were among four people remanded by MACC as part of investigations into allegations of abuse of power and corruption involving e-waste management. (Bernama pic) PETALING JAYA: Two NGOs have urged the Malaysian Anti-Corruption Commission",
+          "image": null
+        },
+        {
+          "id": "3fed43ddd526",
+          "title": "Personal agendas could weaken Gerakan, says Lau",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/24/personal-agendas-could-weaken-gerakan-says-lau",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-24T04:49:27+00:00",
+          "summary": "Gerakan president Dominic Lau said the party must be united, from the grassroots to the leadership, to gain public support and votes. KUALA LUMPUR: Gerakan president Dominic Lau has warned party leaders against pursuing personal agendas, saying such actions could weaken the party",
+          "image": null
+        },
+        {
+          "id": "61cd2b7c43d0",
+          "title": "Kebakaran hutan masuk hari ke-4, cuaca panas tambah risiko",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/24/kebakaran-hutan-masuk-hari-ke-4-cuaca-panas-tambah-risiko",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-24T04:49:24+00:00",
+          "summary": "Operasi pemadaman dijalankan oleh pasukan bomba dari BBP Punggai bersama polis dan Yayasan Perladangan Johor. (Gambar JBPM) PETALING JAYA: Kebakaran hutan dan belukar di sepanjang Lebuhraya Bypass Punggai ke Sebana Cove, Pengerang, kini masuk hari keempat dengan asap tebal masih ",
+          "image": null
+        },
+        {
+          "id": "9d33e034bcef",
+          "title": "Fight to put out Pengerang forest blaze enters 4th day",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/24/fight-to-put-out-pengerang-forest-blaze-enters-4th-day",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-24T04:29:03+00:00",
+          "summary": "The situation could worsen due to the ongoing hot, dry spell and strong winds in the area, said a fire and rescue department spokesman. (JBPM pic) PETALING JAYA: Firefighters have entered the fourth day of battling a forest fire along the Punggai Bypass Highway headed towards Seb",
+          "image": null
+        },
+        {
+          "id": "818c2280eaf5",
+          "title": "Heatwave to last until June, says MetMalaysia",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/24/heatwave-to-last-until-june-says-metmalaysia",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-24T03:52:45+00:00",
+          "summary": "Temperatures could reach between 37 and 38 degrees Celsius, particularly in the northern states of the peninsula. (Bernama pic) PETALING JAYA: The heatwave currently affecting the country is expected to last until June, with temperatures predicted to peak between mid-March and mi",
+          "image": null
+        },
+        {
+          "id": "93f2fe421e83",
+          "title": "Philippines Approves Shift to Dirtier Fuels as Oil Supply Crisis Bites",
+          "url": "https://thediplomat.com/2026/03/philippines-approves-shift-to-dirtier-fuels-as-oil-supply-crisis-bites/",
+          "source": "The Diplomat",
+          "published": "2026-03-23T03:44:00+00:00",
+          "summary": "The country has experienced some of the sharpest increases in the price of petrol and diesel since the beginning of the Iran war.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-23-130319.jpg"
+        },
+        {
+          "id": "51792bbbe9d8",
+          "title": "Drug War: How the World Failed the Philippines",
+          "url": "https://thediplomat.com/2026/03/drug-war-how-the-world-failed-the-philippines/",
+          "source": "The Diplomat",
+          "published": "2026-03-23T00:41:00+00:00",
+          "summary": "Aside from the belated case at the International Criminal Court, institutions of international accountability have been missing in action.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/02/thediplomat_2026-02-03-011050.jpg"
+        }
+      ]
+    }
+  }
+}
