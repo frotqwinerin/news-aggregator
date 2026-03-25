@@ -1,0 +1,477 @@
+{
+  "date": "2026-03-25",
+  "generated_at": "2026-03-25T05:41:37.097729+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "68aaececa783",
+          "title": "Rover Promo Codes and Deals: Get Up to $50 This Month",
+          "url": "https://www.wired.com/story/rover-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-25T05:00:00+00:00",
+          "summary": "Looking for reliable pet care? Use a Rover promo code or referral link to save on dog walking, pet sitting, and boarding services this month.",
+          "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png"
+        },
+        {
+          "id": "de9dc00ad484",
+          "title": "Iran Hacktivists Make Noise but Have Little Impact on War",
+          "url": "https://www.darkreading.com/threat-intelligence/iran-hacktivists-impact-on-war",
+          "source": "Dark Reading",
+          "published": "2026-03-25T05:00:00+00:00",
+          "summary": "Iran-aligned groups are trying to make their mark in the Gulf, but the results have fallen short of remarkable.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbb0fdc008e2181e3/69c2be0c15fb25e392a6c708/Iran-Skorzewiak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "dbb201c9ae11",
+          "title": "\"The last straw\"—RFK Jr.'s anti-vaccine ally angrily quits CDC panel after spat",
+          "url": "https://arstechnica.com/health/2026/03/rfk-jr-anti-vaccine-ally-dramatically-quits-cdc-panel-complaining-of-drama/",
+          "source": "Ars Technica",
+          "published": "2026-03-25T03:43:55+00:00",
+          "summary": "One of the federal vaccine advisors hand-selected by anti-vaccine Health Secretary Robert F. Kennedy Jr. has angrily resigned from his position, complaining of \"drama\" amid a spat with a spokesperson. Robert Malone—a former researcher turned outspoken anti-vaccine activist and co",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2249521703-500x500.jpg"
+        },
+        {
+          "id": "562ea869844e",
+          "title": "A former Thiel fellow’s startup just launched a drone it says can replace police helicopters",
+          "url": "https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/",
+          "source": "TechCrunch",
+          "published": "2026-03-25T02:30:00+00:00",
+          "summary": "Brinc launched its newest 911 response drone this week, as the company seeks to expand its prominence in the public safety industry.",
+          "image": null
+        },
+        {
+          "id": "6536c8274a2f",
+          "title": "The BB-777 is the ultimate in boombox nostalgia",
+          "url": "https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia",
+          "source": "The Verge",
+          "published": "2026-03-25T02:00:00+00:00",
+          "summary": "Scooby Doo. | Image: Bumpboxx Bumpboxx is fully embracing nostalgia with its latest boombox, the BB-777 , which is modeled very closely on the legendary Sharp GF-777. A real deal GF-777 will set you back over $2,000 for one in working order. Plus, that vintage unit lacks modern a",
+          "image": null
+        },
+        {
+          "id": "8068282939bf",
+          "title": "Amazon just bought a startup making kid-size humanoid robots",
+          "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+          "source": "TechCrunch",
+          "published": "2026-03-25T00:53:39+00:00",
+          "summary": "The acquisition of Fauna Robotics is the second robotics startup Amazon has purchased this month.",
+          "image": null
+        },
+        {
+          "id": "9a9029b5ae89",
+          "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+          "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+          "source": "TechCrunch",
+          "published": "2026-03-25T00:47:20+00:00",
+          "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+          "image": null
+        },
+        {
+          "id": "5780c9344bfb",
+          "title": "New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching",
+          "url": "https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/",
+          "source": "TechCrunch",
+          "published": "2026-03-25T00:14:12+00:00",
+          "summary": "The dollar amount isn’t as important as the fact that this is the first jury verdict of its kind against Meta over harm to young people.",
+          "image": null
+        },
+        {
+          "id": "0329f9907ec8",
+          "title": "Lululemon bets Epoch Biodesign can eat its shorts, literally",
+          "url": "https://techcrunch.com/2026/03/24/lululemon-bets-epoch-biodesign-can-eat-its-shorts-literally/",
+          "source": "TechCrunch",
+          "published": "2026-03-25T00:01:00+00:00",
+          "summary": "Startup Epoch Biodesign uses enzymes to break plastic waste down into monomers, the chemical building blocks that can be used to make new plastic.",
+          "image": null
+        },
+        {
+          "id": "9b9139cc9f94",
+          "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+          "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+          "source": "TechCrunch",
+          "published": "2026-03-24T23:57:55+00:00",
+          "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+          "image": null
+        },
+        {
+          "id": "99bc0e83de0a",
+          "title": "Accel, Prosus pick six ‘off-the-map’ startups for inaugural India cohort",
+          "url": "https://techcrunch.com/2026/03/24/accel-prosus-pick-six-off-the-map-startups-for-inaugural-india-cohort-atoms/",
+          "source": "TechCrunch",
+          "published": "2026-03-24T23:30:00+00:00",
+          "summary": "The six startups were selected from over 2,000 applications and will receive $500,000 to $2 million each.",
+          "image": null
+        },
+        {
+          "id": "ce263d1b3776",
+          "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
+          "url": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
+          "source": "BleepingComputer",
+          "published": "2026-03-24T23:04:36+00:00",
+          "summary": "PTC Inc. is warning of a critical vulnerability in Windchill and FlexPLM, widely used product lifecycle management (PLM) solutions, that could allow remote code execution. [...]",
+          "image": null
+        },
+        {
+          "id": "0ab49b37640c",
+          "title": "Instagram and Facebook are about to be filled with affiliate content",
+          "url": "https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels",
+          "source": "The Verge",
+          "published": "2026-03-24T23:00:00+00:00",
+          "summary": "Instagram and Facebook content will soon have shopping links baked into posts, essentially cutting out third-party \"link in bio\"-style tools. Meta announced Tuesday that it's adding commerce features on the two platforms, though the functionality will be slightly different for ea",
+          "image": null
+        },
+        {
+          "id": "9b0136a45de0",
+          "title": "Final analysis of 2025 Iberian blackout: Policies left Spain at risk",
+          "url": "https://arstechnica.com/science/2026/03/final-analysis-of-2025-iberian-blackout-policies-left-spain-at-risk/",
+          "source": "Ars Technica",
+          "published": "2026-03-24T22:43:49+00:00",
+          "summary": "Roughly a year ago, Spain and Portugal went dark when the electrical grid of the entire Iberian Peninsula failed. While the grid operators did a heroic job of restarting the grid quickly, there were obvious questions about what had led to the blackout in the first place. A prelim",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2263005227-500x500.jpg"
+        },
+        {
+          "id": "a82ddfa8f913",
+          "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens",
+          "url": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
+          "source": "BleepingComputer",
+          "published": "2026-03-24T22:29:01+00:00",
+          "summary": "The TeamPCP hacking group continues its supply-chain rampage, now compromising the massively popular \"LiteLLM\" Python package on PyPI and claiming to have stolen data from hundreds of thousands of devices during the attack. [...]",
+          "image": null
+        },
+        {
+          "id": "6205626cdb7c",
+          "title": "Newly purchased Vizio TVs now require Walmart accounts to use smart features",
+          "url": "https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/",
+          "source": "Ars Technica",
+          "published": "2026-03-24T22:26:56+00:00",
+          "summary": "Prospective Vizio TV buyers should know there’s a good chance the set won’t work properly without a Walmart account. In an attempt to better serve advertisers, Walmart, which bought Vizio in December 2024, announced this week that select newly purchased Vizio TVs now require a Wa",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Vizio-500x500.jpeg"
+        },
+        {
+          "id": "4a3f9e7e09db",
+          "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+          "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+          "source": "TechCrunch",
+          "published": "2026-03-24T22:22:57+00:00",
+          "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+          "image": null
+        },
+        {
+          "id": "6f59a3d0f550",
+          "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
+          "url": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+          "source": "Wired",
+          "published": "2026-03-24T22:13:17+00:00",
+          "summary": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
+          "image": "https://media.wired.com/photos/69c30bf9dc53bcd949e45335/master/pass/Pentagon-Attempt-to-Cripple-Anthropic-Troublesome-Business-2268179185.jpg"
+        },
+        {
+          "id": "818103099c8c",
+          "title": "Meta misled users about its products’ safety, jury decides",
+          "url": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict",
+          "source": "The Verge",
+          "published": "2026-03-24T21:54:29+00:00",
+          "summary": "Meta willfully violated New Mexico law by misleading users about the safety of its products and engaging in an unconscionable trade practice, a jury found. The company will face a $375 million penalty for the violations, awarding the maximum penalty of $5,000 per violation for 37",
+          "image": null
+        },
+        {
+          "id": "7a975cf5b633",
+          "title": "NASA wants to put a $20 billion base on the Moon",
+          "url": "https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman",
+          "source": "The Verge",
+          "published": "2026-03-24T21:47:24+00:00",
+          "summary": "NASA's Artemis II Space Launch System rocket and Orion spacecraft. | AFP via Getty Images NASA Administrator Jared Isaacman has big plans for the future of the agency, including the construction of a $20 billion lunar base that he said will establish an \"enduring presence\" on the",
+          "image": null
+        },
+        {
+          "id": "c492caa796fe",
+          "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
+          "url": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+          "source": "Ars Technica",
+          "published": "2026-03-24T21:37:07+00:00",
+          "summary": "Mozilla developer Peter Wilson has taken to the Mozilla.ai blog to announce cq, which he describes as \"Stack Overflow for agents.\" The nascent project hints at something genuinely useful, but it will have to address security, data poisoning, and accuracy to achieve significant ad",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-500x500.jpg"
+        },
+        {
+          "id": "f453dd655176",
+          "title": "Checkmarx KICS Code Scanner Targeted in Widening Supply Chain Hit",
+          "url": "https://www.darkreading.com/application-security/checkmarx-kics-code-scanner-widening-supply-chain",
+          "source": "Dark Reading",
+          "published": "2026-03-24T21:28:16+00:00",
+          "summary": "TeamPCP is the likely cyber threat actor behind attacks on Trivy, Checkmarx's KICS and VS Code plug-ins, and the LiteLLM AI library — and all signs point to more attacks to come.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc695e46616cc03ae/69c2f4e89279f2162fe82972/sschain_ImageFlow_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "944dbdc75def",
+          "title": "How AI Coding Tools Crushed the Endpoint Security Fortress",
+          "url": "https://www.darkreading.com/application-security/ai-coding-tools-endpoint-security",
+          "source": "Dark Reading",
+          "published": "2026-03-24T21:25:00+00:00",
+          "summary": "Security vendors have spent years building up defenses around the endpoint, but one researcher says AI coding tools have brought the walls down.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteb95272b2303ce6d/69c19c25ce26fd1445111e7f/castle_PictorialPressLtd_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "9f536bf11cb4",
+          "title": "OpenAI announces plans to shut down its Sora video generator",
+          "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+          "source": "Ars Technica",
+          "published": "2026-03-24T21:19:50+00:00",
+          "summary": "OpenAI is preparing to shut down Sora, the video generation app that drew widespread attention when it launched in late 2024 . OpenAI announced the move in a social media post Tuesday just after a Wall Street Journal story broke the news . The company said it will have more to sh",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cooldog-500x500-1774386814.jpg"
+        },
+        {
+          "id": "148b91ff370e",
+          "title": "What is ICE actually doing at the airport?",
+          "url": "https://www.theverge.com/policy/899855/ice-airports-tsa-shutdown-dhs-jfk",
+          "source": "The Verge",
+          "published": "2026-03-24T21:17:28+00:00",
+          "summary": "I arrived at John F. Kennedy International Airport nearly five hours before my domestic flight. This is not my way - usually I roll up to the airport 30 minutes before boarding - but not even I have enough hubris to think that my good luck is more powerful than a partial governme",
+          "image": null
+        },
+        {
+          "id": "56974e3d4b1f",
+          "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+          "source": "The Verge",
+          "published": "2026-03-24T21:08:10+00:00",
+          "summary": "A frame from a Sora 2-generated video. | Image: OpenAI On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street",
+          "image": null
+        },
+        {
+          "id": "3ade5e5e8374",
+          "title": "Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate",
+          "url": "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
+          "source": "Ars Technica",
+          "published": "2026-03-24T21:00:49+00:00",
+          "summary": "Back in 2022 when Cindy Cohn, the executive director of a US digital rights nonprofit called the Electronic Frontier Foundation, started writing her memoir, Privacy's Defender , she worried that people would think she was an \"old fuddy duddy\" still sounding alarms about governmen",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/eff-leadership-change-500x500.jpg"
+        },
+        {
+          "id": "e10571cbf55b",
+          "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+          "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+          "source": "TechCrunch",
+          "published": "2026-03-24T21:00:30+00:00",
+          "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
+          "image": null
+        },
+        {
+          "id": "fa092ffb21ec",
+          "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+          "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+          "source": "TechCrunch",
+          "published": "2026-03-24T20:56:25+00:00",
+          "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
+          "image": null
+        },
+        {
+          "id": "eabcc45a6c52",
+          "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+          "source": "The Verge",
+          "published": "2026-03-24T20:43:14+00:00",
+          "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agent",
+          "image": null
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 13,
+      "briefing": "Today's Race, Religion & Royalty section covers 13 stories.",
+      "articles": [
+        {
+          "id": "ee05ac928f7a",
+          "title": "Domestic travel best option for Malaysians during school holidays",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/25/domestic-travel-best-option-for-malaysians-during-school-holidays",
+          "source": "The Star Malaysia",
+          "published": "2026-03-25T05:37:00+00:00",
+          "summary": "KUALA LUMPUR: With the escalating cost of international travel due to the Middle East conflict, Cuti-Cuti Malaysia appears to be the best option for Malaysians during this school holidays. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/25/3829044.jpg"
+        },
+        {
+          "id": "bf71b0f1e189",
+          "title": "Solat mohon hujan di Istana Arau mula 8 pagi esok",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/25/solat-mohon-hujan-di-istana-arau-mula-8-pagi-esok",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T05:28:32+00:00",
+          "summary": "Setakat 6 pagi tadi, terdapat 16 kawasan di Semenanjung Malaysia berada pada Tahap 1 (Berjaga-Jaga) hadapi cuaca panas, termasuk Perlis. (Gambar Bernama) KANGAR: Istana Arau akan melaksanakan solat sunat Al-Istisqa’ bagi memohon hujan di Dataran Istiadat pada 8 pagi esok. Raja Mu",
+          "image": null
+        },
+        {
+          "id": "da690d4e9b68",
+          "title": "All Whites ready to play World Cup opener against Iran outside US",
+          "url": "https://www.freemalaysiatoday.com/category/sports/2026/03/25/all-whites-ready-to-play-world-cup-opener-against-iran-outside-us",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T05:18:16+00:00",
+          "summary": "New Zealand earned a direct 2026 World Cup spot by winning the Oceania Football Confederation qualifiers last year. (All Whites pic) AUCKLAND: New Zealand football players have said they would be willing to play Iran outside the United States in their opening match at the 2026 Wo",
+          "image": null
+        },
+        {
+          "id": "b5e8540cdc7b",
+          "title": "High Court acquits man of trafficking 43kg of cannabis",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/25/high-court-acquits-man-of-trafficking-43kg-of-cannabis",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T05:11:21+00:00",
+          "summary": "Khairudin Abdullah was accused of trafficking 24kg of cannabis under the first charge and 19kg under the second. (File pic) PETALING JAYA: The Sungai Petani High Court today acquitted a man of two counts of trafficking about 43kg of cannabis found in a room at a house in Kota Kua",
+          "image": null
+        },
+        {
+          "id": "63cf09f4fc12",
+          "title": "Private hospitals report no medicine shortages amid Middle East conflict",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/25/private-hospitals-report-no-medicine-shortages-amid-middle-east-conflict",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T05:04:49+00:00",
+          "summary": "The Association of Private Hospitals Malaysia is watching for potential rises in medicine and medical supply costs due to higher oil prices or global shipping disruptions due to the war in the Middle East. (Rawpixel pic) PETALING JAYA: Private hospitals in Malaysia are not facing",
+          "image": null
+        },
+        {
+          "id": "e035df03cc00",
+          "title": "Ujian sistem bayaran jalan Genting bermula 2 Apr",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/25/ujian-sistem-bayaran-jalan-genting-bermula-2-apr",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T04:50:32+00:00",
+          "summary": "Pada November tahun lalu, Genting Malaysia Bhd mengesahkan rancangan mengenakan bayaran ke atas kenderaan yang menggunakan jalan persendirian ke Genting Highlands. PETALING JAYA: Ujian sistem bayaran jalan untuk Jalan Genting Highlands akan bermula pada 2 Apr, menurut Lingkaran C",
+          "image": null
+        },
+        {
+          "id": "57610175db61",
+          "title": "Trial run of Genting road charge system to begin April 2",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/25/trial-run-of-genting-road-charge-system-to-begin-april-2",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T04:42:29+00:00",
+          "summary": "Genting Malaysia Bhd confirmed last November that a road charge would be levied on vehicles entering Genting Highlands through the 24km-long private road. PETALING JAYA: A trial run of the road charge system for Jalan Genting Highlands will begin on April 2, says Lingkaran Cekap ",
+          "image": null
+        },
+        {
+          "id": "1d8d5c73173d",
+          "title": "Pulau Sebatik di Tawau dilanda kemarau",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/25/pulau-sebatik-di-tawau-dilanda-kemarau",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T04:42:26+00:00",
+          "summary": "Pulau Sebatik di Tawau diisytihar kemarau susulan cuaca kering berpanjangan. (Gambar Bernama) PETALING JAYA: Jawatankuasa Pengurusan Bencana Daerah (JPBD) Tawau hari ini mengisytiharkan Pulau Sebatik di daerah Tawau dilanda bencana kemarau. Menurut pengerusi jawatankuasa yang jug",
+          "image": null
+        },
+        {
+          "id": "d73225947507",
+          "title": "Currency markets stall amid uncertainty over US efforts to end Iran war",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/03/25/currency-markets-stall-amid-uncertainty-over-us-efforts-to-end-iran-war",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T04:42:14+00:00",
+          "summary": "As the dollar made slight gains, the euro fluctuated in choppy trade to be down 0.1% at US$1.1599. (Pexels pic) SINGAPORE: Currency markets showed signs of fatigue in Asian trade on Wednesday, with traders cautious over US President Donald Trump s efforts to bring an end to the w",
+          "image": null
+        },
+        {
+          "id": "fb70f680d8bb",
+          "title": "From ‘agak-agak’ to ‘kaypoh’, our everyday lingo goes global",
+          "url": "https://www.freemalaysiatoday.com/category/leisure/2026/03/25/from-agak-agak-to-kaypoh-our-everyday-lingo-goes-global",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T04:12:30+00:00",
+          "summary": "These are just three terms familiar to Malaysians and Singaporeans that have been added to the Oxford English Dictionary. KUALA LUMPUR: If you’ve ever cooked by “agak-agak” instead of following a recipe, or warned a friend not to “play-play , you might be speaking a form of Engli",
+          "image": null
+        },
+        {
+          "id": "dcceb9395bb8",
+          "title": "Saman ART diteruskan walaupun mahkamah AS isytihar tarif tak sah, kata peguam",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/25/saman-art-diteruskan-walaupun-mahkamah-as-isytihar-tak-sah-kata-peguam",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T03:56:32+00:00",
+          "summary": "Saman difailkan Rosol Wahid (Hulu Terengganu), Fathul Huzir Ayob (Gerik), Awang Hashim (Pendang), Mas Ermieyati Samsudin (Masjid Tanah) dan Abdul Khalib Abdullah (Rompin). PETALING JAYA: Lima Ahli Parlimen Perikatan Nasional (PN) meneruskan cabaran undang-undang mereka terhadap P",
+          "image": null
+        },
+        {
+          "id": "6aa6a462d5a9",
+          "title": "China consumer stocks jump on strong earnings, but analysts warn of limited recovery",
+          "url": "https://www.scmp.com/business/banking-finance/article/3347779/china-consumer-stocks-jump-strong-earnings-analysts-warn-limited-recovery?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "published": "2026-03-25T01:39:46+00:00",
+          "summary": "Major Chinese consumer stocks listed in Hong Kong rose sharply following strong full-year earnings, though analysts said the results did not point to a broad recovery in the consumer market but rather highlighted structural divergence and new growth drivers in mainland China cons",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/25/b0e3cc3e-1d03-41f6-8427-56a6033bbbd2_d3320b41.jpg?itok=GvsSuzXf&v=1774402712"
+        },
+        {
+          "id": "c7a6e9447b9e",
+          "title": "China’s WeRide eyes Hong Kong, Singapore roads for robotaxis as self-driving giants expand",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3347747/chinas-weride-eyes-hong-kong-singapore-roads-robotaxis-self-driving-giants-expand?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "published": "2026-03-24T14:15:08+00:00",
+          "summary": "Chinese self-driving technology developers continue to expand outside the mainland as WeRide seeks to launch robotaxi services this year in Hong Kong and Singapore, according to an executive. WeRide’s planned entry into Hong Kong was set to cover both robotaxis and robobuses, sai",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/24/d6fb6e59-4086-475f-b7e6-c8912505f2ce_8d46838e.jpg?itok=93YgYD7-&v=1774356982"
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 6,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 6 stories.",
+      "articles": [
+        {
+          "id": "5cbace509ea3",
+          "title": "Bomba records 87 cases of open fires within a week in Pahang",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/25/bomba-records-87-cases-of-open-fires-within-a-week-in-pahang",
+          "source": "The Star Malaysia",
+          "published": "2026-03-25T05:21:00+00:00",
+          "summary": "KUANTAN: The Pahang Fire and Rescue Department (JBPM) reported 87 open fires over seven days from March 18 to yesterday. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/25/3829030.jpeg"
+        },
+        {
+          "id": "b5e8540cdc7b",
+          "title": "High Court acquits man of trafficking 43kg of cannabis",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/25/high-court-acquits-man-of-trafficking-43kg-of-cannabis",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T05:11:21+00:00",
+          "summary": "Khairudin Abdullah was accused of trafficking 24kg of cannabis under the first charge and 19kg under the second. (File pic) PETALING JAYA: The Sungai Petani High Court today acquitted a man of two counts of trafficking about 43kg of cannabis found in a room at a house in Kota Kua",
+          "image": null
+        },
+        {
+          "id": "1443323d3776",
+          "title": "Fadillah pays tribute to police on 219th anniversary",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/25/fadillah-pays-tribute-to-police-on-219th-anniversary",
+          "source": "The Star Malaysia",
+          "published": "2026-03-25T04:03:00+00:00",
+          "summary": "KUALA LUMPUR: Deputy Prime Minister Datuk Seri Fadillah Yusof on Wednesday (March 25) extended his highest appreciation and gratitude to all members of the police force for their unwavering service and sacrifices in safeguarding the nation. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/25/3828968.jpg"
+        },
+        {
+          "id": "dcceb9395bb8",
+          "title": "Saman ART diteruskan walaupun mahkamah AS isytihar tarif tak sah, kata peguam",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/25/saman-art-diteruskan-walaupun-mahkamah-as-isytihar-tak-sah-kata-peguam",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T03:56:32+00:00",
+          "summary": "Saman difailkan Rosol Wahid (Hulu Terengganu), Fathul Huzir Ayob (Gerik), Awang Hashim (Pendang), Mas Ermieyati Samsudin (Masjid Tanah) dan Abdul Khalib Abdullah (Rompin). PETALING JAYA: Lima Ahli Parlimen Perikatan Nasional (PN) meneruskan cabaran undang-undang mereka terhadap P",
+          "image": null
+        },
+        {
+          "id": "df4ba3e3c6ba",
+          "title": "South Korean ‘drug lord’ extradited from the Philippines",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/03/25/south-korean-drug-lord-extradited-from-the-philippines",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-25T03:45:44+00:00",
+          "summary": "Park Wang-yeol (centre) arrives at Incheon International Airport in South Korea. (EPA Images pic) SEOUL: South Korean police on Wednesday took into custody an alleged drug lord accused of running a narcotics ring in the country from a Philippines prison, officials said on Wednesd",
+          "image": null
+        },
+        {
+          "id": "36dce43e59de",
+          "title": "Australia, Singapore Agree to Keep Oil and Gas Flowing Amid Global Supply Crisis",
+          "url": "https://thediplomat.com/2026/03/australia-singapore-agree-to-keep-oil-and-gas-flowing-amid-global-supply-crisis/",
+          "source": "The Diplomat",
+          "published": "2026-03-24T04:19:00+00:00",
+          "summary": "The arrangement reflects both the two nations' robust bilateral ties and their largely complementary energy needs.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/10/thediplomat_2025-10-09-000808.jpg"
+        }
+      ]
+    }
+  }
+}
