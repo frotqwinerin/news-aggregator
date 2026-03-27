@@ -1,0 +1,504 @@
+{
+  "date": "2026-03-27",
+  "generated_at": "2026-03-27T06:02:14.579647+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "2f8b94167c61",
+          "title": "Surfshark Promo Codes: 87% Off | March 2026",
+          "url": "https://www.wired.com/story/surfshark-coupon/",
+          "source": "Wired",
+          "published": "2026-03-27T05:00:00+00:00",
+          "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+          "image": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg"
+        },
+        {
+          "id": "1e0a6ea2c3d4",
+          "title": "Layla Sleep Coupon: Save Up to $600 in March 2026",
+          "url": "https://www.wired.com/story/layla-sleep-coupon/",
+          "source": "Wired",
+          "published": "2026-03-27T05:00:00+00:00",
+          "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases during the Spring Sale.",
+          "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png"
+        },
+        {
+          "id": "759e38e9768d",
+          "title": "50% Off DoorDash Promo Code | March 2026",
+          "url": "https://www.wired.com/story/doordash-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-27T05:00:00+00:00",
+          "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and up to 50% off for existing customers.",
+          "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg"
+        },
+        {
+          "id": "7291534430f9",
+          "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+          "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+          "source": "TechCrunch",
+          "published": "2026-03-27T01:26:40+00:00",
+          "summary": "Sacks will be much further from power center in Washington than since the outset of this second Trump administration.",
+          "image": null
+        },
+        {
+          "id": "cc04af859941",
+          "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+          "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+          "source": "TechCrunch",
+          "published": "2026-03-27T01:18:38+00:00",
+          "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+          "image": null
+        },
+        {
+          "id": "09328889744f",
+          "title": "Judge sides with Anthropic to temporarily block the Pentagon s ban",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+          "source": "The Verge",
+          "published": "2026-03-27T00:33:44+00:00",
+          "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records sh",
+          "image": null
+        },
+        {
+          "id": "23300910a7ce",
+          "title": "Brendan Carr says his broadcast license threat wasn t really about Iran war coverage",
+          "url": "https://www.theverge.com/policy/902132/brendan-carr-iran-broadcast-license-threat",
+          "source": "The Verge",
+          "published": "2026-03-26T23:53:16+00:00",
+          "summary": "Federal Communications Commission Chair Brendan Carr never meant to threaten broadcast licenses over their coverage of the war in Iran, he told reporters after an event hosted by FGS and Semafor . \"My comments weren't actually on the Iran war,\" Carr said in response to a question",
+          "image": null
+        },
+        {
+          "id": "897b13ec94f9",
+          "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+          "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+          "source": "TechCrunch",
+          "published": "2026-03-26T23:47:56+00:00",
+          "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+          "image": null
+        },
+        {
+          "id": "461f4b13867e",
+          "title": "David Sacks is no longer the White House AI and Crypto Czar",
+          "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+          "source": "The Verge",
+          "published": "2026-03-26T23:40:22+00:00",
+          "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no ",
+          "image": null
+        },
+        {
+          "id": "b089c105418a",
+          "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+          "url": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
+          "source": "Wired",
+          "published": "2026-03-26T23:33:05+00:00",
+          "summary": "A judge temporarily blocked the Trump administration’s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
+          "image": "https://media.wired.com/photos/69c5b0bd07d68ae7468ce59a/master/pass/Apple-Supply-Chain-Risk-Business-2261514689.jpg"
+        },
+        {
+          "id": "e4a132adfbaa",
+          "title": "Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale",
+          "url": "https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals",
+          "source": "The Verge",
+          "published": "2026-03-26T22:30:00+00:00",
+          "summary": "A good robovac can save you a surprising amount of time. Luckily, Amazon’s Big Spring Sale is a great time to pick one up, as you can currently find deals on everything from basic, budget-friendly robovacs to high-end models that can mop or pick up objects . Whether you’re lookin",
+          "image": null
+        },
+        {
+          "id": "69a375703f47",
+          "title": "Apple’s Mac Pro is dead, apparently for good this time",
+          "url": "https://www.theverge.com/tech/902050/mac-pro-discontinued",
+          "source": "The Verge",
+          "published": "2026-03-26T22:21:05+00:00",
+          "summary": "The most expensive Mac you could get is no longer available on Apple's website, as 9to5Mac reports that the \"cheese grater\" Mac Pro workstation has been discontinued. It had been a part of the lineup since replacing the Power Mac G5 in 2006 when Apple shifted from Arm to Intel pr",
+          "image": null
+        },
+        {
+          "id": "af9b8e083acc",
+          "title": "Elon Musk loses big in court; X boycott perfectly legal",
+          "url": "https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/",
+          "source": "Ars Technica",
+          "published": "2026-03-26T21:50:26+00:00",
+          "summary": "On Thursday, Elon Musk lost his lawsuit alleging that advertisers violated antitrust law by colluding on an ad boycott after he took over Twitter, gutted content moderation teams, and disbanded the Trust and Safety Council. In her opinion , US District Judge Jane Boyle wrote that",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1244262469-2-500x500-1774560028.jpg"
+        },
+        {
+          "id": "e92acf9d052b",
+          "title": "Wikipedia cracks down on the use of AI in article writing",
+          "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+          "source": "TechCrunch",
+          "published": "2026-03-26T21:50:10+00:00",
+          "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+          "image": null
+        },
+        {
+          "id": "d62db6722b8d",
+          "title": "Google is making it easier to import another AI’s memory into Gemini",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+          "source": "The Verge",
+          "published": "2026-03-26T21:44:37+00:00",
+          "summary": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly copy over everything their current AI already knows about th",
+          "image": null
+        },
+        {
+          "id": "f4d568ce2d52",
+          "title": "How Trump’s Plot to Grab Iran's Nuclear Fuel Would Actually Work",
+          "url": "https://www.wired.com/story/us-iran-war-nuclear-extraction-ground-operation/",
+          "source": "Wired",
+          "published": "2026-03-26T21:42:52+00:00",
+          "summary": "Experts say that an American ground operation targeting nuclear sites in Iran would be incredibly complicated, put troops’ lives at great risk—and might still fail.",
+          "image": "https://media.wired.com/photos/69c31174ac9dd3ca1ad22d1e/master/pass/security_uranium_GettyImages-1226809254.jpg"
+        },
+        {
+          "id": "a6fb96d5a578",
+          "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+          "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+          "source": "The Verge",
+          "published": "2026-03-26T21:31:27+00:00",
+          "summary": "Siri currently has an integration with OpenAI’s ChatGPT. | Photo: Allison Johnson / The Verge Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg 's Mark Gurman , who says third-party chatbots do",
+          "image": null
+        },
+        {
+          "id": "c0657404d705",
+          "title": "Spotify seeks $300M from Anna's Archive, which ignores all court proceedings",
+          "url": "https://arstechnica.com/tech-policy/2026/03/spotify-lawsuit-tries-to-kick-annas-archive-off-the-web-without-much-success/",
+          "source": "Ars Technica",
+          "published": "2026-03-26T21:27:16+00:00",
+          "summary": "Spotify and major record labels are seeking a $322 million default judgment from Anna's Archive, which hasn't responded to court proceedings over its scraping of millions of music files from Spotify's streaming service. The music companies are also seeking a permanent injunction ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/spotify-logos-500x500-1767642286.jpg"
+        },
+        {
+          "id": "271816a8b3e4",
+          "title": "Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips",
+          "url": "https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/",
+          "source": "Ars Technica",
+          "published": "2026-03-26T21:04:31+00:00",
+          "summary": "P3 Global Intel claims that it has \"quickly become the new standard in tip management for Crime Stoppers programs, [Law Enforcement Agencies], and government agencies helping to solve and prevent crimes around the world.\" Its software does what it says on the tin: It accepts tips",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/p3-app-500x500-1774557723.jpg"
+        },
+        {
+          "id": "bf0124ca9662",
+          "title": "Anker’s wireless charging pad offers Qi2 speeds for $15",
+          "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
+          "source": "The Verge",
+          "published": "2026-03-26T21:00:00+00:00",
+          "summary": "The MagGo wireless charging pad is available in black (shown here) or white. | Image: Anker I’ve probably saved minutes of my life by using a wireless charging puck. Minutes! More valuable than that, I’ve saved myself from bending over numerous times to pick up my USB-C cable tha",
+          "image": null
+        },
+        {
+          "id": "d028addf7edc",
+          "title": "Apple’s AI Playlist Playground is bad at music",
+          "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+          "source": "The Verge",
+          "published": "2026-03-26T20:51:31+00:00",
+          "summary": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording , an ambient electronic track , and a piece of doom jazz .\" I am skeptical of AI's ability to serve up the music ",
+          "image": null
+        },
+        {
+          "id": "7f84f8475d34",
+          "title": "As RFK Jr.’s anti-vaccine ways turn toxic to GOP, CDC director is hard to find",
+          "url": "https://arstechnica.com/health/2026/03/as-rfk-jr-s-anti-vaccine-ways-turn-toxic-to-gop-cdc-director-is-hard-to-find/",
+          "source": "Ars Technica",
+          "published": "2026-03-26T20:46:09+00:00",
+          "summary": "The Centers for Disease Control and Prevention hasn't had a director since August, and now it's without even a temporary one after the Trump administration blew through a federal deadline on Wednesday to nominate someone for the permanent role. According to federal law, there's a",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/GettyImages-1207345889-500x500.jpg"
+        },
+        {
+          "id": "d510fdc19505",
+          "title": "Mastodon is making its decentralized social network easier to use with its latest revamp",
+          "url": "https://techcrunch.com/2026/03/26/mastodon-is-making-its-decentralized-social-network-easier-to-use-with-its-latest-revamp/",
+          "source": "TechCrunch",
+          "published": "2026-03-26T20:42:50+00:00",
+          "summary": "Mastodon is redesigning user profiles to simplify the experience and better appeal to mainstream users and organizations.",
+          "image": null
+        },
+        {
+          "id": "5b1c84e2a2ff",
+          "title": "Netflix confirms it’s raising prices again",
+          "url": "https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/",
+          "source": "TechCrunch",
+          "published": "2026-03-26T20:39:17+00:00",
+          "summary": "The standard plan without ads now costs $19.99 per month, a $2 increase from the previous $17.99 subscription fee, while the premium plan is also going up by $2 and will now cost $26.99 per month.",
+          "image": null
+        },
+        {
+          "id": "e556606ae788",
+          "title": "Ajax football club hack exposed fan data, enabled ticket hijack",
+          "url": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
+          "source": "BleepingComputer",
+          "published": "2026-03-26T20:37:25+00:00",
+          "summary": "Dutch professional football club Ajax Amsterdam (AFC Ajax) disclosed that a hacker exploited vulnerabilities in its IT systems and accessed data belonging to a few hundred people. [...]",
+          "image": null
+        },
+        {
+          "id": "64bff132dde3",
+          "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
+          "url": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/",
+          "source": "Ars Technica",
+          "published": "2026-03-26T20:30:48+00:00",
+          "summary": "Netflix isn't preparing for a multibillion acquisition anymore, but it's still raising prices. As first spotted by Android Authority today, Netflix now lists its ad-supported plan as costing $9 per month, up from $8/month. The Standard, ad-free plan went up from $18/month to $20/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/07/Stranger-Things-3-trailer-500x476.png"
+        },
+        {
+          "id": "29fc7da365e5",
+          "title": "Is the FCC's Router Ban the Wrong Fix?",
+          "url": "https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix",
+          "source": "Dark Reading",
+          "published": "2026-03-26T19:48:32+00:00",
+          "summary": "The agency put foreign-made consumer routers on its list of prohibited communications devices, but the ban could create more problems down the road.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfed473879eac0c64/69c5741d4d1a6e092936c342/router_SOLDATOOFF_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "262f732a5176",
+          "title": "Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles",
+          "url": "https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles",
+          "source": "Dark Reading",
+          "published": "2026-03-26T19:48:21+00:00",
+          "summary": "More than a decade since the 2015 Jeep hack, the cybersecurity of vehicles remains of the utmost importance.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0545789d5e2ff1e7/698ce0c84229558aa7937805/car-Henrik5000-iStock_15613460_MEDIUM.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "id": "5707ec3f0c38",
+          "title": "16 of the most interesting startups from YC W26 Demo Day",
+          "url": "https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/",
+          "source": "TechCrunch",
+          "published": "2026-03-26T19:30:00+00:00",
+          "summary": "From redirecting doomscrolling to training humanoid robots, these 16 startups stood out as the most interesting ones from an overflowing YC cohort.",
+          "image": null
+        },
+        {
+          "id": "7a6329687419",
+          "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
+          "source": "BleepingComputer",
+          "published": "2026-03-26T19:17:43+00:00",
+          "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are actively exploiting a critical vulnerability identified as CVE-2026-33017, which affects the Langflow framework for building AI agents. [...]",
+          "image": null
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 11,
+      "briefing": "Today's Race, Religion & Royalty section covers 11 stories.",
+      "articles": [
+        {
+          "id": "a8255ed9acf1",
+          "title": "Kecualikan cukai, duti barangan dikembalikan, gesa persatuan pekilang",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/27/kecualikan-cukai-duti-barangan-dikembalikan-gesa-persatuan-pekilang",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T05:30:45+00:00",
+          "summary": "Persekutuan Pekilang-Pekilang Malaysia berkata eksport dikembalikan hanyalah barangan yang dipulangkan kepada pengilang kerana ketidakupayaan mengakses pelabuhan, laluan kapal dilencongkan, atau penangguhan oleh pembeli. PETALING JAYA: Persekutuan Pekilang-Pekilang Malaysia (FMM)",
+          "image": null
+        },
+        {
+          "id": "f704aa6d5747",
+          "title": "Highlight what you’ve done for Dayaks in a forum, Sng urges GPS",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/27/highlight-what-youve-done-for-dayaks-in-a-forum-sng-urges-gps",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T05:30:42+00:00",
+          "summary": "Julau MP Larry Sng said the Dayak community should come together to find common ground as uniting them under a single party would be difficult for now. (Facebook pic) PETALING JAYA: Julau MP Larry Sng has suggested that Gabungan Parti Sarawak (GPS) highlight its achievements for ",
+          "image": null
+        },
+        {
+          "id": "16bb27f0f530",
+          "title": "Transporters call for faster payout of diesel subsidies citing liquidity crisis",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/27/transporters-call-for-faster-payout-of-diesel-subsidies-citing-liquidity-crisis",
+          "source": "The Star Malaysia",
+          "published": "2026-03-27T05:12:00+00:00",
+          "summary": "Malaysia Trucking Federation President Datuk Ng Koong Sinn delivers the welcoming speech at the seminar on challenges facing the logistics industry, held at the Kuala Lumpur Convention Centre. — YAP CHEE HONG/The Star",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/27/3832321.jpg"
+        },
+        {
+          "id": "2f00c216fec9",
+          "title": "Exempt tax, duty for returned exports, manufacturers urge govt",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/27/exempt-tax-duty-for-returned-exports-manufacturers-urge-govt",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T04:48:34+00:00",
+          "summary": "The Federation of Malaysian Manufacturing said returned exports are merely goods being turned back to manufacturers because of theIr inability to access ports, carrier diversions, or buyer suspensions. PETALING JAYA: The Federation of Malaysian Manufacturing (FMM) has urged the g",
+          "image": null
+        },
+        {
+          "id": "ef0c6ef6cc61",
+          "title": "Malaysia studying nuclear power to boost long-term energy security, says fadillah",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/27/malaysia-studying-nuclear-power-to-boost-long-term-energy-security-says-fadillah",
+          "source": "The Star Malaysia",
+          "published": "2026-03-27T04:47:00+00:00",
+          "summary": "PUTRAJAYA: MyPower Corporation Malaysia is undertaking a comprehensive assessment of Malaysia's potential nuclear energy programme, covering policy development, legal and regulatory frameworks, project feasibility, industry participation, stakeholder engagement and human capital ",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/27/3832301.jfif"
+        },
+        {
+          "id": "2a2611ffbed3",
+          "title": "Newborn’s body found near Kuala Pilah telco tower substation",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/27/newborns-body-found-near-kuala-pilah-telco-tower-substation",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T04:44:07+00:00",
+          "summary": "Kuala Pilah deputy police chief Shamrol Shah Ramli said an initial check found that the baby died about two days earlier. PETALING JAYA: The body of a full-term baby boy, with the umbilical cord still attached, was found near a telecommunications tower substation by Masjid Remban",
+          "image": null
+        },
+        {
+          "id": "3443e928da3c",
+          "title": "Heatwave expands in Peninsular Malaysia",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/27/heatwave-expands-in-peninsular-malaysia",
+          "source": "The Star Malaysia",
+          "published": "2026-03-27T04:27:00+00:00",
+          "summary": "PETALING JAYA: Heatwave conditions are spreading across northern Peninsular Malaysia, with more districts placed under Level Two (heatwave) alert as temperatures reach up to 40°C. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/27/3832277.JPG"
+        },
+        {
+          "id": "58a5a3845619",
+          "title": "M’sian activist-lawyer denied entry over political activism, says S’pore",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/27/msian-activist-lawyer-denied-entry-over-political-activism-says-spore",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T04:15:39+00:00",
+          "summary": "Fadiah Nadwa Fikri was a student at NUS’s Southeast Asian Studies department and received her PhD in January. PETALING JAYA: Singapore’s home ministry says it denied entry to a Malaysian activist-lawyer for alleged involvement in domestic political advocacy. In an email reply to ",
+          "image": null
+        },
+        {
+          "id": "13889d6b2c53",
+          "title": "NIISe rollout begins March 31",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/27/niise-rollout-begins-march-31",
+          "source": "The Star Malaysia",
+          "published": "2026-03-27T04:00:00+00:00",
+          "summary": "PUTRAJAYA: The Home Ministry will begin a phased rollout of the National Integrated Immigration System (NIISe) at all air, land and sea entry points nationwide starting March 31, aimed at strengthening border security through a more efficient, user-friendly digital immigration sy",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/27/3832253.jpg"
+        },
+        {
+          "id": "1f56e1198662",
+          "title": "Trump eyes China deal, but dragging out talks risks backlash, warns former diplomat",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3348020/trump-eyes-china-deal-dragging-out-talks-risks-backlash-warns-former-diplomat?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "published": "2026-03-26T13:00:13+00:00",
+          "summary": "US President Donald Trump is expected to aim for an “economic deal” with China when he is in Beijing, according to a former senior diplomat who served under the American leader during his first term. However if Beijing were to drag out trade negotiations with Washington for too l",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/26/fb332d0d-2b66-4002-8986-1057b1502943_3a30e806.jpg?itok=IlACpfYr&v=1774520845"
+        },
+        {
+          "id": "78368ffdc175",
+          "title": "The Islamic State Is Targeting Youth in Malaysia",
+          "url": "https://thediplomat.com/2026/03/the-islamic-state-is-targeting-youth-in-malaysia/",
+          "source": "The Diplomat",
+          "published": "2026-03-26T03:35:00+00:00",
+          "summary": "",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2022/06/thediplomat_2022-06-10-061054.jpg"
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 11,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 11 stories.",
+      "articles": [
+        {
+          "id": "f704aa6d5747",
+          "title": "Highlight what you’ve done for Dayaks in a forum, Sng urges GPS",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/27/highlight-what-youve-done-for-dayaks-in-a-forum-sng-urges-gps",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T05:30:42+00:00",
+          "summary": "Julau MP Larry Sng said the Dayak community should come together to find common ground as uniting them under a single party would be difficult for now. (Facebook pic) PETALING JAYA: Julau MP Larry Sng has suggested that Gabungan Parti Sarawak (GPS) highlight its achievements for ",
+          "image": null
+        },
+        {
+          "id": "d14d9c5da603",
+          "title": "Philippines’ Marcos says Asean summit will focus on Middle East war",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/03/27/philippines-marcos-says-asean-summit-will-focus-on-middle-east-war",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T05:30:28+00:00",
+          "summary": "Philippine President Ferdinand Marcos said he had consulted other Asean members about postponing the summit in the face of a regional energy crisis.(EPA Images pic) MANILA: President Ferdinand Marcos said Friday that an Asean summit the Philippines will host in May will be a stre",
+          "image": null
+        },
+        {
+          "id": "d96763d6bcb2",
+          "title": "Govt maintains diesel subsidy for Sabah, Sarawak amid cost pressures",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/27/govt-maintains-diesel-subsidy-for-sabah-sarawak-amid-cost-pressures",
+          "source": "The Star Malaysia",
+          "published": "2026-03-27T05:16:00+00:00",
+          "summary": "KOTA KINABALU: The continuation of diesel subsidies for Sabah and Sarawak reflects the federal government's commitment to addressing the needs of the people in both states, says Datuk Mustapha Sakmud. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/27/3832326.jpg"
+        },
+        {
+          "id": "16bb27f0f530",
+          "title": "Transporters call for faster payout of diesel subsidies citing liquidity crisis",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/27/transporters-call-for-faster-payout-of-diesel-subsidies-citing-liquidity-crisis",
+          "source": "The Star Malaysia",
+          "published": "2026-03-27T05:12:00+00:00",
+          "summary": "Malaysia Trucking Federation President Datuk Ng Koong Sinn delivers the welcoming speech at the seminar on challenges facing the logistics industry, held at the Kuala Lumpur Convention Centre. — YAP CHEE HONG/The Star",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/27/3832321.jpg"
+        },
+        {
+          "id": "39ba9cc757ac",
+          "title": "Company directors in Penang lose nearly RM900,000 to phone scams",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/27/company-directors-in-penang-lose-nearly-rm900000-to-phone-scams",
+          "source": "The Star Malaysia",
+          "published": "2026-03-27T05:02:00+00:00",
+          "summary": "GEORGE TOWN: Two company directors in Penang have lost a combined total of nearly RM900,000 after falling victim to separate phone scam syndicates involving impersonation tactics. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/27/3832310.jpeg"
+        },
+        {
+          "id": "d570db3beaf1",
+          "title": "Security guard gets 10 years’ jail, caning for raping disabled woman",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/27/security-guard-gets-10-years-jail-caning-for-raping-disabled-woman",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T05:01:59+00:00",
+          "summary": "Security guard R Sivanesan was charged at the sessions court in Johor Bahru. (Bernama pic) JOHOR BAHRU: A security guard was sentenced to 10 years in prison and five strokes of the rotan by the sessions court here today after pleading guilty to raping a disabled woman. Judge Madi",
+          "image": null
+        },
+        {
+          "id": "2a58281ac361",
+          "title": "Singapore looks to host foreign central banks’ gold reserves",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/03/27/singapore-looks-to-host-foreign-central-banks-gold-reserves",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T04:54:39+00:00",
+          "summary": "Data showed central banks worldwide held nearly 39,000 tonnes of gold, while Singapore recorded 193.6 tonnes in January. (Unsplash pic) SINGAPORE: Singapore is planning to expand its gold-storage capacity to become a custodian of bullion held by foreign central banks, part of a b",
+          "image": null
+        },
+        {
+          "id": "2a2611ffbed3",
+          "title": "Newborn’s body found near Kuala Pilah telco tower substation",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/27/newborns-body-found-near-kuala-pilah-telco-tower-substation",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T04:44:07+00:00",
+          "summary": "Kuala Pilah deputy police chief Shamrol Shah Ramli said an initial check found that the baby died about two days earlier. PETALING JAYA: The body of a full-term baby boy, with the umbilical cord still attached, was found near a telecommunications tower substation by Masjid Remban",
+          "image": null
+        },
+        {
+          "id": "43357c293c47",
+          "title": "Krisis tenaga: Senator Filipina gesa hidup semula tuntutan ke atas Sabah",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/27/senator-filipina-gesa-hidupkan-semula-tuntutan-ke-atas-sabah",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T04:30:27+00:00",
+          "summary": "Senator Filipina Robin Padilla menggesa Pengawal Pantai Filipina digerakkan bagi memperkukuh tuntutan ke atas Sabah. (Gambar Facebook) PETALING JAYA: Seorang senator Filipina menggesa Presiden Ferdinand Marcos Jr untuk menghidupkan semula tuntutan negara itu ke atas Sabah yang ka",
+          "image": null
+        },
+        {
+          "id": "3443e928da3c",
+          "title": "Heatwave expands in Peninsular Malaysia",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/27/heatwave-expands-in-peninsular-malaysia",
+          "source": "The Star Malaysia",
+          "published": "2026-03-27T04:27:00+00:00",
+          "summary": "PETALING JAYA: Heatwave conditions are spreading across northern Peninsular Malaysia, with more districts placed under Level Two (heatwave) alert as temperatures reach up to 40°C. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/27/3832277.JPG"
+        },
+        {
+          "id": "58a5a3845619",
+          "title": "M’sian activist-lawyer denied entry over political activism, says S’pore",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/27/msian-activist-lawyer-denied-entry-over-political-activism-says-spore",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-27T04:15:39+00:00",
+          "summary": "Fadiah Nadwa Fikri was a student at NUS’s Southeast Asian Studies department and received her PhD in January. PETALING JAYA: Singapore’s home ministry says it denied entry to a Malaysian activist-lawyer for alleged involvement in domestic political advocacy. In an email reply to ",
+          "image": null
+        }
+      ]
+    }
+  }
+}
