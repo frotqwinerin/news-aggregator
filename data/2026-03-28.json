@@ -1,0 +1,477 @@
+{
+  "date": "2026-03-28",
+  "generated_at": "2026-03-28T05:37:15.089542+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "81c7b5f466f5",
+          "title": "Loop Earplugs Discount Codes and Deals: Save on Ear Buds and Gift Sets",
+          "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
+          "source": "Wired",
+          "published": "2026-03-28T05:00:00+00:00",
+          "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+          "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png"
+        },
+        {
+          "id": "f1530afc8b0a",
+          "title": "Instacart Promo Code: Save on Groceries in March 2026",
+          "url": "https://www.wired.com/story/instacart-promo/code/",
+          "source": "Wired",
+          "published": "2026-03-28T05:00:00+00:00",
+          "summary": "From $0 delivery fees on your first three orders to $50 credits with the Instacart Mastercard, here is how to maximize your grocery budget this month.",
+          "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png"
+        },
+        {
+          "id": "b3ecbdd5ff22",
+          "title": "Meta Quest Promo Codes: $50 Off | March 2026",
+          "url": "https://www.wired.com/story/meta-quest-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-28T05:00:00+00:00",
+          "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+          "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png"
+        },
+        {
+          "id": "2cdaa2f118cb",
+          "title": "Acer Promo Codes and Deals: Save 40% on Bundles",
+          "url": "https://www.wired.com/story/acer-promo-code/",
+          "source": "Wired",
+          "published": "2026-03-28T05:00:00+00:00",
+          "summary": "From 40% off accessory bundles to verified student and military discounts, here's how to save on Predator, Nitro, and Swift laptops and monitors at Acer.com.",
+          "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png"
+        },
+        {
+          "id": "27017bef80e3",
+          "title": "Whoop has LeBron – now it wants your mom",
+          "url": "https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/",
+          "source": "TechCrunch",
+          "published": "2026-03-28T02:31:10+00:00",
+          "summary": "Whoop founder Will Ahmed has spent 14 years building a health wearable beloved by elite athletes, and is now racing Oura — and the FDA, and the limits of consumer medicine — to turn it into something that could one day save your life.",
+          "image": null
+        },
+        {
+          "id": "0fc17f580415",
+          "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
+          "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+          "source": "TechCrunch",
+          "published": "2026-03-27T23:59:40+00:00",
+          "summary": "The deal would effectively double the company's $5.6 billion valuation in just four months.",
+          "image": null
+        },
+        {
+          "id": "132f0698316d",
+          "title": "Sony temporarily suspends memory card sales due to shortages",
+          "url": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage",
+          "source": "The Verge",
+          "published": "2026-03-27T22:21:11+00:00",
+          "summary": "Sony has announced that as of March 27th, 2026, the company is no longer accepting orders for nearly all the products in its CFexpress and SD memory card lines. The list of affected memory products includes CFexpress Type A, Type B, and SDXC/SDHC cards, although a few models of T",
+          "image": null
+        },
+        {
+          "id": "c6c8ea7d5565",
+          "title": "Playing Wolfenstein 3D with one hand in 2026",
+          "url": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
+          "source": "Ars Technica",
+          "published": "2026-03-27T22:09:00+00:00",
+          "summary": "Like practically everyone who owned a PC in the early '90s, I tore through the shareware episode of Wolfenstein 3D shortly after it came out. At the time, the game’s mere existence seemed like a magic trick, offering a smooth-scrolling first-person perspective that was unlike pre",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/wofl3d-1-500x500-1774646731.jpg"
+        },
+        {
+          "id": "f2b5f75558a3",
+          "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
+          "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+          "source": "Ars Technica",
+          "published": "2026-03-27T21:53:45+00:00",
+          "summary": "OpenAI has added plugin support to its agentic coding app Codex in an apparent attempt to match similar features offered by competitors Anthropic (in Claude Code) and Google (in Gemini's command line interface). What OpenAI calls \"plugins\" are actually bundles that may include sk",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/codex-plugins-500x500.jpg"
+        },
+        {
+          "id": "3177f3096bcb",
+          "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+          "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+          "source": "Wired",
+          "published": "2026-03-27T21:46:39+00:00",
+          "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+          "image": "https://media.wired.com/photos/69c6b7c2b1e88611bd972d9a/master/pass/Made-In-China-AI-Research-Is-Starting-to-Split-Along-Geopolitical-Lines-Business-2246178146.jpg"
+        },
+        {
+          "id": "36489717681a",
+          "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+          "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+          "source": "TechCrunch",
+          "published": "2026-03-27T21:44:45+00:00",
+          "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+          "image": null
+        },
+        {
+          "id": "39febb6e27dc",
+          "title": "Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure",
+          "url": "https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/",
+          "source": "Ars Technica",
+          "published": "2026-03-27T21:43:00+00:00",
+          "summary": "Two more illnesses have been identified in an E. coli outbreak linked to unpasteurized cheese and milk, the Food and Drug Administration reported Thursday . The maker of the products, California-based Raw Farm, continues to deny the link and has refused to issue a recall. Accordi",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/RAW-FARM-Raw-Cheddar-Cheese-Label-500x500.png"
+        },
+        {
+          "id": "92d62b600660",
+          "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
+          "url": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
+          "source": "BleepingComputer",
+          "published": "2026-03-27T21:13:26+00:00",
+          "summary": "TeamPCP hackers compromised the Telnyx package on the Python Package Index today, uploading malicious versions that deliver credential-stealing malware hidden inside a WAV file. [...]",
+          "image": null
+        },
+        {
+          "id": "c92135572bb4",
+          "title": "Judge irate as defendant joins by Zoom while driving—then lies about it",
+          "url": "https://arstechnica.com/tech-policy/2026/03/judge-irate-as-defendant-joins-by-zoom-while-driving-then-lies-about-it/",
+          "source": "Ars Technica",
+          "published": "2026-03-27T21:10:25+00:00",
+          "summary": "A local judge in Woodhaven, Michigan, lost it this week when a defendant showed up to her court hearing late, on Zoom, and... while driving a car. Kimberly Carroll was facing a hearing over a few thousand dollars that she allegedly owed and had defaulted on. She was allowed to at",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1407642057-500x500-1774644568.jpg"
+        },
+        {
+          "id": "8abf666c43b6",
+          "title": "The Best Office Chair Is $50 Cheaper Than We've Seen Before",
+          "url": "https://www.wired.com/story/branch-ergonomic-chair-pro-amazon-spring-sale-2026/",
+          "source": "Wired",
+          "published": "2026-03-27T20:45:41+00:00",
+          "summary": "The Branch Ergonomic Chair Pro offers great value at full price—but right now, it's $100 off.",
+          "image": "https://media.wired.com/photos/69c6b5b86eaa8a62bf6b71cd/master/pass/The-Best-Office-Chair-is-Cheaper-Than-We've-Seen-Before.jpg"
+        },
+        {
+          "id": "57eb45e722aa",
+          "title": "10 Things You Can Do While Waiting in the TSA Line",
+          "url": "https://www.wired.com/story/10-things-you-can-do-while-waiting-in-the-tsa-line/",
+          "source": "Wired",
+          "published": "2026-03-27T20:44:00+00:00",
+          "summary": "As Washington wrangles over the future of federal employees’ pay, here are some ideas for passing the time.",
+          "image": "https://media.wired.com/photos/69c6c6fead062033a04be7a8/master/pass/gear_TSA_Lines_GettyImages-2267899051.jpg"
+        },
+        {
+          "id": "286234177e23",
+          "title": "AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec",
+          "url": "https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/",
+          "source": "Ars Technica",
+          "published": "2026-03-27T20:31:21+00:00",
+          "summary": "AOMedia Video 1 (AV1) was invented by a group of technology companies to be an open, royalty-free alternative to other video codecs, like HEVC/H.265. But a lawsuit that Dolby Laboratories Inc. filed this week against Snap Inc. calls all that into question with claims of patent in",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2259062605-500x500.jpg"
+        },
+        {
+          "id": "24d8e3a9d1b8",
+          "title": "Insta360’s last-gen Link 2C is fantastic 4K webcam now that it’s 20 percent off",
+          "url": "https://www.theverge.com/gadgets/902499/insta360-link-2c-webcam-amazon-big-spring-sale-2026-deal",
+          "source": "The Verge",
+          "published": "2026-03-27T20:30:00+00:00",
+          "summary": "If you spend a lot of time presenting or chatting over video, you know how big a difference a decent webcam can make. Thankfully, if you’re looking to level up your setup at home or at work, the last-gen Insta360 Link 2C is currently available for $119.99 ($30 off) at Amazon , Be",
+          "image": null
+        },
+        {
+          "id": "f518283b7340",
+          "title": "The White House has an app now, and Trump wants you to report people to ICE on it",
+          "url": "https://www.theverge.com/tech/902703/white-house-app-iphone-android",
+          "source": "The Verge",
+          "published": "2026-03-27T19:59:53+00:00",
+          "summary": "A new official White House app on Android and iOS takes the content from the White House website and copies it into app format. A tweet announcing the app on Friday morning appeared alongside a video joking about missile launches that also appears to feature an iPhone, rather tha",
+          "image": null
+        },
+        {
+          "id": "4bb444d4b024",
+          "title": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
+          "url": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/",
+          "source": "Ars Technica",
+          "published": "2026-03-27T19:49:18+00:00",
+          "summary": "\"Classic First Amendment retaliation.\" That's how US District Judge Rita Lin described the Department of War's effort to blacklist Anthropic and designate it a supply-chain risk . By all appearances, \"these measures appear designed to punish Anthropic,\" Lin wrote in an order gran",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2267370596-500x500-1774638087.jpg"
+        },
+        {
+          "id": "58cca8be9b12",
+          "title": "Iranian Hackers Breached Kash Patel’s Email—but Not the FBI’s",
+          "url": "https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/",
+          "source": "Wired",
+          "published": "2026-03-27T19:45:21+00:00",
+          "summary": "Plus: Apple makes big claims about the effectiveness of its Lockdown Mode anti-spyware feature, Russia moves to implement homegrown encryption for 5G, and more.",
+          "image": "https://media.wired.com/photos/69c6b14c2e33b7e4cae4cc2b/master/pass/secutiy_Kash_Patel_GettyImages-2266686717.jpg"
+        },
+        {
+          "id": "c59b5cf825fa",
+          "title": "Wait, the Trump phone might actually exist",
+          "url": "https://www.theverge.com/tech/902399/trump-phone-mobile-t1-fcc-certification-authorization",
+          "source": "The Verge",
+          "published": "2026-03-27T19:44:05+00:00",
+          "summary": "The Trumpometer is just beginning to shift. | Image: The Verge / Shutterstock Where's the Trump phone? We're going to keep talking about it every week . We've reached out, as usual, to ask about the Trump phone's whereabouts. This week I think I've found an FCC listing for the ph",
+          "image": null
+        },
+        {
+          "id": "cdf638f56323",
+          "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+          "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+          "source": "TechCrunch",
+          "published": "2026-03-27T19:11:28+00:00",
+          "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+          "image": null
+        },
+        {
+          "id": "7cd204c00aac",
+          "title": "Waymo’s skyrocketing ridership in one chart",
+          "url": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
+          "source": "TechCrunch",
+          "published": "2026-03-27T19:11:10+00:00",
+          "summary": "Waymo's weekly paid robotaxi trips have increased tenfold in less than two years.",
+          "image": null
+        },
+        {
+          "id": "3bc01457309b",
+          "title": "The latest in data centers, AI, and energy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+          "source": "The Verge",
+          "published": "2026-03-27T18:35:53+00:00",
+          "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and th",
+          "image": null
+        },
+        {
+          "id": "fa4955a6b84c",
+          "title": "Anker’s 160W Prime Charger can power three devices at once, and it s $50 off",
+          "url": "https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal",
+          "source": "The Verge",
+          "published": "2026-03-27T18:30:00+00:00",
+          "summary": "If you’re constantly switching between working at home and on the go, Anker’s latest 160W Prime Charger can lighten your load by replacing multiple chargers with a single device. It’s normally $149.99, but right now you can buy it at both Amazon and Anker’s online storefront (wit",
+          "image": null
+        },
+        {
+          "id": "04b0faddd53f",
+          "title": "European Commission confirms cyberattack after hackers claim data breach",
+          "url": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
+          "source": "TechCrunch",
+          "published": "2026-03-27T17:59:29+00:00",
+          "summary": "The European Union's top executive body has confirmed a cyberattack after hackers reportedly stole reams of data from the European Commission's cloud storage.",
+          "image": null
+        },
+        {
+          "id": "2eb8333cd74d",
+          "title": "This Premium Sennheiser Soundbar Is $1,000 Off",
+          "url": "https://www.wired.com/story/sennheiser-ambeo-max-deal-326/",
+          "source": "Wired",
+          "published": "2026-03-27T17:39:12+00:00",
+          "summary": "Save big on this oversized Sennheiser soundbar with lots of ports and excellent virtual surround.",
+          "image": "https://media.wired.com/photos/69c6bfb494502e7091a2c38a/master/pass/This-Sennheiser-Soundbar-Is-$1,000-Off.jpg"
+        },
+        {
+          "id": "df8e9ec1c4c7",
+          "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+          "url": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+          "source": "The Hacker News",
+          "published": "2026-03-27T17:22:00+00:00",
+          "summary": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development was first reported by MacRumors. \"Apple is aware of attacks targeting out-of-date ",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7dxzt-3rxkQ1A-6Sd9EzxINF3V70WAx4hsUUNPofdWcCO6hp0vEHavIsQsCUyXY7hOUOk7kDGIt2zN__gnigtzyYJyc31aiwpivHd4GEMPh0CHZHIBm58PtiyDXn7XNzI4hoZzmqVpErPty3VvEoyZCC4heyU0FE0uvM8_Ad_mWtXpSj5bcLIcTBwLNi/s1600/apple.jpg"
+        },
+        {
+          "id": "90b1342eac39",
+          "title": "Aetherflux reportedly raising Series B at $2 billion valuation",
+          "url": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
+          "source": "TechCrunch",
+          "published": "2026-03-27T17:05:26+00:00",
+          "summary": "Index Ventures is said to be leading a $250 million to $350 million round.",
+          "image": null
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 14,
+      "briefing": "Today's Race, Religion & Royalty section covers 14 stories.",
+      "articles": [
+        {
+          "id": "a5c71ba83e46",
+          "title": "7 kapal tangki Malaysia tunggu ‘lampu hijau’ lalui Selat Hormuz, kata Tok Mat",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/28/7-kapal-tangki-malaysia-tunggu-lampu-hijau-lalui-selat-hormuz-kata-tok-mat",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T05:06:08+00:00",
+          "summary": "Menteri Luar Mohamad Hasan berkata daripada tujuh kapal tangki yang sedang menunggu kebenaran dari Tehran, tiga dimiliki oleh Petronas, dua oleh MISC, satu oleh Sapura, dan satu oleh Sepadu. (Gambar Bernama) PETALING JAYA: Tujuh kapal tangki Malaysia sedang menunggu lampu hijau d",
+          "image": null
+        },
+        {
+          "id": "b5b99456bae9",
+          "title": "Perak Mufti Dept urges ‘Tidur Lambak’ organisers to consult religious authorities",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/28/perak-mufti-dept-urges-tidur-lambak-organisers-to-consult-religious-authorities",
+          "source": "The Star Malaysia",
+          "published": "2026-03-28T04:55:00+00:00",
+          "summary": "IPOH: The Perak State Mufti Department has advised organisers of the \"Tidur Lambak\" mass sleep event to refine its implementation and consult religious authorities before proceeding. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/28/3833783.jpg"
+        },
+        {
+          "id": "52e830dfe78e",
+          "title": "7 M’sian tankers awaiting cue to pass Strait of Hormuz, says Tok Mat",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/28/7-msian-tankers-awaiting-cue-to-pass-strait-of-hormuz-says-tok-mat",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T04:50:11+00:00",
+          "summary": "Foreign minister Mohamad Hasan said that of the seven tankers waiting for the go-ahead from Tehran, three are owned by Petronas, two by MISC, one by Sapura, and one by Sepadu. (Bernama pic) PETALING JAYA: Seven Malaysian tankers are waiting for the go-ahead from the Iranian milit",
+          "image": null
+        },
+        {
+          "id": "9db667fd78d9",
+          "title": "Traveller SOCSO scheme planned for 400,000 Malaysians working in Singapore",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/28/traveller-socso-scheme-planned-for-400000-malaysians-working-in-singapore",
+          "source": "The Star Malaysia",
+          "published": "2026-03-28T04:15:00+00:00",
+          "summary": "KUALA LUMPUR: The Human Resources Ministry is in the final stages of submitting a proposal to the Cabinet to introduce a Traveller Scheme under the Social Security Organisation (SOCSO), aimed at protecting more than 400,000 Malaysians who commute daily to work in Singapore. Read ",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/28/3833753.jpg"
+        },
+        {
+          "id": "56e7a9667480",
+          "title": "Paras air empangan di Melaka menyusut",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/28/paras-air-empangan-di-melaka-menyusut",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T04:10:14+00:00",
+          "summary": "MetMalaysia sebelum ini memaklumkan fenomena cuaca panas yang sedang melanda negara ketika ini dijangka berterusan hingga awal monsun barat daya pada Jun, susulan keadaan atmosfera lebih kering dan taburan hujan rendah. (Gambar Bernama) ALOR GAJAH: Paras air semasa di tiga empang",
+          "image": null
+        },
+        {
+          "id": "7a26379a55cb",
+          "title": "Malaysia to send diplomatic note to Philippines rejecting Sabah claims",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/28/malaysia-to-send-diplomatic-note-to-philippines-rejecting-sabah-claims",
+          "source": "The Star Malaysia",
+          "published": "2026-03-28T04:10:00+00:00",
+          "summary": "REMBAU: Malaysia will send a diplomatic note to the Philippines Govt to reject any claims on Sabah, says Datuk Seri Mohamad Hasan. Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/28/3833752.jpg"
+        },
+        {
+          "id": "ba62199906c9",
+          "title": "Malaysia’s addiction to consultants",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/28/malaysias-addiction-to-consultants",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T03:47:40+00:00",
+          "summary": "From Kua Kia Soong There is a quiet scandal at the heart of the Malaysian state. It does not explode like a corruption case. It does not provoke outrage like a price hike. It simply drains the country – year after year – of money, confidence, and the ability to govern. It is the ",
+          "image": null
+        },
+        {
+          "id": "eb0b361885c2",
+          "title": "KPDN beri amaran keras, tiada kompromi terhadap penyelewengan subsidi",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/28/kpdn-beri-amaran-keras-tiada-kompromi-terhadap-penyelewengan-subsidi",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T03:38:58+00:00",
+          "summary": "KPDN akan menguatkuasakan sepenuhnya larangan penjualan dan pembelian petrol RON95 oleh kenderaan berpendaftaran asing bermula 1 April. PUTRAJAYA: Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN) memberikan amaran keras sebarang cubaan oleh mana-mana pihak, sama ada",
+          "image": null
+        },
+        {
+          "id": "78cb06033a8b",
+          "title": "MetMalaysia: Perlis, Parts of Kedah, Perak at level 2 heatwave",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/28/metmalaysia-perlis-parts-of-kedah-perak-at-level-2-heatwave",
+          "source": "The Star Malaysia",
+          "published": "2026-03-28T03:36:00+00:00",
+          "summary": "PADANG BESAR, 26 Mac -- Jalan lama di Empangan Tasik Timah Tasoh, di sini, kembali muncul susulan penyusutan paras air akibat cuaca panas berpanjangan. Laluan sepanjang kira-kira satu kilometer di Kampung Sahabat, Tasoh yang sebelum ini tenggelam selepas pembinaan empangan itu pe",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/28/3833739.JPG"
+        },
+        {
+          "id": "d0aec5aa3ae6",
+          "title": "19 elephants ‘loaned’ to whom, group asks Perhilitan",
+          "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/28/19-elephants-loaned-to-whom-group-asks-perhilitan",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T03:20:42+00:00",
+          "summary": "Perhilitan director-general Abdul Kadir Abu Hashim denied a claim on social media that it sold 19 elephants to certain parties. (Bernama pic) PETALING JAYA: An environmental group has called on the wildlife and national parks department (Perhilitan) to provide more details on the",
+          "image": null
+        },
+        {
+          "id": "4f4d57351e54",
+          "title": "Malaysia, Cambridge to partner on urban platform under economic framework",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/28/malaysia-cambridge-to-partner-on-urban-platform-under-economic-framework",
+          "source": "The Star Malaysia",
+          "published": "2026-03-28T03:20:00+00:00",
+          "summary": "UN Habitat President cum Housing and local Govt Minister Nga Kor Ming delivers his keynote address at Cambridge university, Downing College.",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/28/3833729.jpg"
+        },
+        {
+          "id": "260d766a9088",
+          "title": "Pesara tentera raih pendapatan ‘lumayan’ ternak ayam di rumah",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/28/pesara-tentera-raih-pendapatan-lumayan-ternak-ayam-di-rumah",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T02:25:39+00:00",
+          "summary": "Hamdan Ahmad Sapli memulakan penternakan ayam penelur pada April 2022 semasa pelaksanaan perintah kawalan pergerakan akibat penularan Covid-19. (Gambar Facebook) LUMUT: Ketika ada yang merungut atau merintih dek kesukaran hidup, seorang pesara Tentera Laut Diraja Malaysia (TLDM) ",
+          "image": null
+        },
+        {
+          "id": "9b5630f4ab75",
+          "title": "The bitter pill we take now to save Malaysia long-term",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/28/the-bitter-pill-we-take-now-to-save-malaysia-long-term",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T01:30:39+00:00",
+          "summary": "Like many Malaysians, I was delighted when the government introduced the BUDI95 initiative on Sept 30 last year, allowing us to purchase RON95 petrol at RM1.99 per litre instead of RM2.05 previously. As with any consumer, I welcomed the lower price, hoping it would remain indefin",
+          "image": null
+        },
+        {
+          "id": "b6f571850574",
+          "title": "‘Ubat pahit’ subsidi untuk ketahanan masa depan negara",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/03/28/ubat-pahit-subsidi-untuk-ketahanan-masa-depan-negara",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T01:30:39+00:00",
+          "summary": "Saya masih ingat ketika Budi Madani RON95 (BUDI95) diperkenalkan pada 30 Sept tahun lalu, ramai warga Malaysia tersenyum apabila membayar RM1.99 seliter untuk membeli bahan bakar itu. Harganya lebih rendah berbanding RM2.05 sebelum itu. Seperti pengguna lain yang mahukan sesuatu ",
+          "image": null
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 5,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 5 stories.",
+      "articles": [
+        {
+          "id": "55760e5633fe",
+          "title": "Unemployed man arrested for slapping teen at Pasar Seni LRT station",
+          "url": "https://www.thestar.com.my/news/nation/2026/03/28/unemployed-man-arrested-for-slapping-teen-at-pasar-seni-lrt-station",
+          "source": "The Star Malaysia",
+          "published": "2026-03-28T04:27:00+00:00",
+          "summary": "KUALA LUMPUR: A man has been arrested for allegedly slapping a teenager at a food outlet at the Pasar Seni LRT station on Tuesday (March 24). Read full story",
+          "image": "https://apicms.thestar.com.my/uploads/images/2026/03/28/3833769.jpg"
+        },
+        {
+          "id": "56e7a9667480",
+          "title": "Paras air empangan di Melaka menyusut",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/28/paras-air-empangan-di-melaka-menyusut",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T04:10:14+00:00",
+          "summary": "MetMalaysia sebelum ini memaklumkan fenomena cuaca panas yang sedang melanda negara ketika ini dijangka berterusan hingga awal monsun barat daya pada Jun, susulan keadaan atmosfera lebih kering dan taburan hujan rendah. (Gambar Bernama) ALOR GAJAH: Paras air semasa di tiga empang",
+          "image": null
+        },
+        {
+          "id": "ba62199906c9",
+          "title": "Malaysia’s addiction to consultants",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/28/malaysias-addiction-to-consultants",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T03:47:40+00:00",
+          "summary": "From Kua Kia Soong There is a quiet scandal at the heart of the Malaysian state. It does not explode like a corruption case. It does not provoke outrage like a price hike. It simply drains the country – year after year – of money, confidence, and the ability to govern. It is the ",
+          "image": null
+        },
+        {
+          "id": "eb0b361885c2",
+          "title": "KPDN beri amaran keras, tiada kompromi terhadap penyelewengan subsidi",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/28/kpdn-beri-amaran-keras-tiada-kompromi-terhadap-penyelewengan-subsidi",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-28T03:38:58+00:00",
+          "summary": "KPDN akan menguatkuasakan sepenuhnya larangan penjualan dan pembelian petrol RON95 oleh kenderaan berpendaftaran asing bermula 1 April. PUTRAJAYA: Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup (KPDN) memberikan amaran keras sebarang cubaan oleh mana-mana pihak, sama ada",
+          "image": null
+        },
+        {
+          "id": "1f23cbf82795",
+          "title": "The Iran War: Is Southeast Asia Heading Into Its Next Crisis?",
+          "url": "https://thediplomat.com/2026/03/the-iran-war-is-southeast-asia-heading-into-its-next-crisis/",
+          "source": "The Diplomat",
+          "published": "2026-03-27T15:01:00+00:00",
+          "summary": "History suggests the energy crunch is just the beginning of a chain reaction that ends with a food and social stability crisis.",
+          "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-28-001000.png"
+        }
+      ]
+    }
+  }
+}
