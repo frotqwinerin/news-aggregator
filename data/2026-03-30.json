@@ -1,0 +1,351 @@
+{
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T03:57:59.804054+00:00",
+  "categories": {
+    "tech": {
+      "id": "tech",
+      "label": "Tech, AI & Cybersecurity",
+      "icon": "💻",
+      "color": "#4f46e5",
+      "article_count": 30,
+      "briefing": "Today's Tech, AI & Cybersecurity section covers 30 stories.",
+      "articles": [
+        {
+          "id": "b670ae2eda60",
+          "title": "Why OpenAI really shut down Sora",
+          "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+          "source": "TechCrunch",
+          "published": "2026-03-30T03:09:38+00:00",
+          "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+          "image": null
+        },
+        {
+          "id": "f12c817ec8d9",
+          "title": "All the latest in AI music",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+          "source": "The Verge",
+          "published": "2026-03-30T01:32:14+00:00",
+          "summary": "People don’t like that they can’t identify AI music. | Image: Cath Virginia / The Verge AI has touched every part of the music industry, from sample sourcing and demo recording , to serving up digital liner notes and building playlists . There are technical and legal challenges, ",
+          "image": null
+        },
+        {
+          "id": "4318c4715eec",
+          "title": "Bluesky’s new app is an AI for customizing your feed",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+          "source": "The Verge",
+          "published": "2026-03-29T21:44:41+00:00",
+          "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm . At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's",
+          "image": null
+        },
+        {
+          "id": "ee305b01be9a",
+          "title": "The Pixel 10a doesn’t have a camera bump, and it’s great",
+          "url": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
+          "source": "TechCrunch",
+          "published": "2026-03-29T21:30:00+00:00",
+          "summary": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
+          "image": null
+        },
+        {
+          "id": "80a97b961beb",
+          "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
+          "url": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+          "source": "TechCrunch",
+          "published": "2026-03-29T21:17:52+00:00",
+          "summary": "CEO Neal Mohan insisted that he isn’t worried about Netflix luring away YouTube's most popular creators.",
+          "image": null
+        },
+        {
+          "id": "1d75cb2ab01e",
+          "title": "FBI confirms hack of Director Patel's personal email inbox",
+          "url": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
+          "source": "BleepingComputer",
+          "published": "2026-03-29T21:09:50+00:00",
+          "summary": "The Handala hackers associated with Iran have breached the personal email account of FBI Director Kash Patel and published photos and documents. [...]",
+          "image": null
+        },
+        {
+          "id": "77cb0882ff99",
+          "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
+          "url": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
+          "source": "TechCrunch",
+          "published": "2026-03-29T19:50:57+00:00",
+          "summary": "Amazon’s bet on “Project Hail Mary” has paid off handsomely.",
+          "image": null
+        },
+        {
+          "id": "768448b71247",
+          "title": "Red Rooms makes online poker as thrilling as its serial killer",
+          "url": "https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web",
+          "source": "The Verge",
+          "published": "2026-03-29T19:45:00+00:00",
+          "summary": "Juliette Gariépy’s Kelly-Anne is an uncomfortable mystery. | Image: Nemesis Films Productions It's rare for a movie to get technology right. And it's even rarer for that movie to be a thriller or horror, where realism takes a backseat to scares and tension. But Red Rooms mostly g",
+          "image": null
+        },
+        {
+          "id": "98dfd42a9ae6",
+          "title": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
+          "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
+          "source": "The Verge",
+          "published": "2026-03-29T16:30:17+00:00",
+          "summary": "Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon’s third annual Big Spring Sale , which runs through March 31st, the retail behemoth is hoping to lure in would-be shoppers with the promise of steep(ish) savings and discounts ",
+          "image": null
+        },
+        {
+          "id": "e0fe23a4975f",
+          "title": "Sora’s shutdown could be a reality check moment for AI video",
+          "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+          "source": "TechCrunch",
+          "published": "2026-03-29T16:30:00+00:00",
+          "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+          "image": null
+        },
+        {
+          "id": "22ba4e114b98",
+          "title": "TechCrunch Mobility: When a robotaxi has to call 911",
+          "url": "https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/",
+          "source": "TechCrunch",
+          "published": "2026-03-29T16:05:00+00:00",
+          "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+          "image": null
+        },
+        {
+          "id": "ab5246ab7130",
+          "title": "Can my favorite Game Boy gadget tell fake cartridges from real?",
+          "url": "https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection",
+          "source": "The Verge",
+          "published": "2026-03-29T15:00:00+00:00",
+          "summary": "The GB Operator. | Photo by Sean Hollister / The Verge The $50 Epilogue GB Operator has a brand-new trick up its sleeve. In addition to backing up Game Boy, Game Boy Color and Game Boy Advance cartridges and saves to a PC (and writing saves back to carts again!), it can now plug ",
+          "image": null
+        },
+        {
+          "id": "37a97f635c73",
+          "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
+          "url": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
+          "source": "BleepingComputer",
+          "published": "2026-03-29T14:38:25+00:00",
+          "summary": "A vulnerability in the Smart Slider 3 WordPress plugin, active on more than 800,000 websites, can be exploited to allow subscriber-level users access to arbitrary files on the server. [...]",
+          "image": null
+        },
+        {
+          "id": "54d159b7f15e",
+          "title": "SXSW rebounds as a top networking, ideas festival for founders and VCs",
+          "url": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/",
+          "source": "TechCrunch",
+          "published": "2026-03-29T14:01:00+00:00",
+          "summary": "SXSW made some changes this year, but some founders loved it all the same.",
+          "image": null
+        },
+        {
+          "id": "a98e5a90633d",
+          "title": "There is no ethical consumption of HBO’s Harry Potter series",
+          "url": "https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
+          "source": "The Verge",
+          "published": "2026-03-29T14:00:00+00:00",
+          "summary": "In the coming years, HBO wants its new Harry Potter series to become \" the streaming event of the decade \" as it adapts each of the franchise's seven original books . The show could very well become a hit that captures the imaginations of a new generation of fans who weren't ther",
+          "image": null
+        },
+        {
+          "id": "44a290d706b4",
+          "title": "Amazon’s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder",
+          "url": "https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals",
+          "source": "The Verge",
+          "published": "2026-03-29T13:00:00+00:00",
+          "summary": "Bird feeders have come a long way since their inception in the early 1900s. These days, it’s not all that surprising to see feeders kitted out with cameras and solar roofs, two marquee features you’ll find on feeders from both BirdBuddy and Netvue. And while modern hoppers can co",
+          "image": null
+        },
+        {
+          "id": "9cf62c1fec69",
+          "title": "The Macintosh changed computers forever",
+          "url": "https://www.theverge.com/podcast/903068/macintosh-1984-version-history",
+          "source": "The Verge",
+          "published": "2026-03-29T12:30:36+00:00",
+          "summary": "Apple's most legendary computer has two legacies: there's the computer itself, and there's the commercial. That commercial. Only a couple of days before Steve Jobs debuted the computer that would both help cement his legacy and contribute to his unceremonious exile from Apple, th",
+          "image": null
+        },
+        {
+          "id": "235308819484",
+          "title": "Apple’s long, bitter App Store antitrust war",
+          "url": "https://www.theverge.com/column/902668/apple-antitrust-app-store-war",
+          "source": "The Verge",
+          "published": "2026-03-29T12:00:00+00:00",
+          "summary": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the legal travails of Big Tech, follow Adi Robertson . The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here . How it started The year ",
+          "image": null
+        },
+        {
+          "id": "266f339df214",
+          "title": "Pints meet prop bets: Polymarket’s “Situation Room” pop-up bar in DC",
+          "url": "https://arstechnica.com/culture/2026/03/pints-meet-prop-bets-polymarkets-situation-room-pop-up-bar-in-dc/",
+          "source": "Ars Technica",
+          "published": "2026-03-29T11:35:10+00:00",
+          "summary": "Polymarket’s temporary makeover of a K Street bar as “The Situation Room” yielded a few notable differences from other Washington watering holes: more laptops open, more overheard conversations about cryptocurrency, and more screens—most of which were not showing sports. The New ",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-2-500x500.jpeg"
+        },
+        {
+          "id": "df679e928697",
+          "title": "Polygraphs have major flaws. Are there better options?",
+          "url": "https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/",
+          "source": "Ars Technica",
+          "published": "2026-03-29T11:01:46+00:00",
+          "summary": "When George W. Maschke applied to work for the FBI in 1994, he had already held a security clearance for over 11 years. The government had deemed him trustworthy through his career in the Army. But soon, a machine and a man would not come to the same conclusion. His application t",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/liedetector-500x500.jpg"
+        },
+        {
+          "id": "18ea30cf6f9d",
+          "title": "9 Best Android Phones of 2026, Tested and Reviewed",
+          "url": "https://www.wired.com/gallery/best-android-phones/",
+          "source": "Wired",
+          "published": "2026-03-29T11:00:00+00:00",
+          "summary": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to find the ones worth your money.",
+          "image": "https://media.wired.com/photos/69aa57fa133f03206e0ed537/master/pass/The%20Best%20Android%20Phones%20-%202.png"
+        },
+        {
+          "id": "72c7c908f380",
+          "title": "A School District Tried to Help Train Waymos to Stop for School Buses. It Didn’t Work",
+          "url": "https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/",
+          "source": "Wired",
+          "published": "2026-03-29T11:00:00+00:00",
+          "summary": "The incidents in Austin raise questions about how self-driving cars “learn” and adapt to their surroundings.",
+          "image": "https://media.wired.com/photos/69c41990d449365b26bdb7c5/master/pass/gear_waymo_bus_GettyImages-2149191988.jpg"
+        },
+        {
+          "id": "a6da4af21043",
+          "title": "Your Photos Are Probably Giving Away Your Location. Here’s How to Stop That",
+          "url": "https://www.wired.com/story/how-to-stop-your-photos-giving-away-your-location/",
+          "source": "Wired",
+          "published": "2026-03-29T10:30:00+00:00",
+          "summary": "All your snaps come with metadata containing more information than you might realize.",
+          "image": "https://media.wired.com/photos/69c3cbd2667a0efa0564afc3/master/pass/032526_Gear-Your%20Photos%20Are%20Probably%20Giving%20Away%20Your%20Location.jpg"
+        },
+        {
+          "id": "4691312a5d7b",
+          "title": "Best Noise-Canceling Earbuds: Bose, Sony, Apple, and More",
+          "url": "https://www.wired.com/gallery/best-noise-canceling-earbuds/",
+          "source": "Wired",
+          "published": "2026-03-29T10:30:00+00:00",
+          "summary": "Everyone needs a good pair of ANC earbuds. These are the best of the bunch.",
+          "image": "https://media.wired.com/photos/69c6c3acb2e9941fa7bff773/master/pass/Best-Noise-Canceling-Earbuds.jpg"
+        },
+        {
+          "id": "774b385493c7",
+          "title": "The Deceptively Tricky Art of Designing a Steering Wheel",
+          "url": "https://www.wired.com/story/the-deceptively-tricky-art-of-designing-a-steering-wheel/",
+          "source": "Wired",
+          "published": "2026-03-29T10:00:00+00:00",
+          "summary": "Veteran designers in the auto industry—and Jony Ive—tell us how hard it is to make a functional yet beautiful steering wheel.",
+          "image": "https://media.wired.com/photos/69c5335d0f4f67ce2441bc51/master/pass/032526_The%20Deceptively%20Tricky%20Art%20of%20Designing%20a%20Steering%20Wheel.jpg"
+        },
+        {
+          "id": "c74f04e4da09",
+          "title": "Best Heart Rate Monitors (2026): Polar, Coros, Garmin",
+          "url": "https://www.wired.com/gallery/best-heart-rate-monitors/",
+          "source": "Wired",
+          "published": "2026-03-29T09:30:00+00:00",
+          "summary": "These chest straps and watches will help you keep your finger on your pulse—and many other heart-related metrics.",
+          "image": "https://media.wired.com/photos/68a957cf70656c60608141a9/master/pass/The%20Best%20Heart%20Rate%20Monitors%20to%20Check%20Your%20Cardiac%20Health.png"
+        },
+        {
+          "id": "5ef0aee94582",
+          "title": "These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
+          "url": "https://www.wired.com/story/the-amazon-spring-sale-2026-2/",
+          "source": "Wired",
+          "published": "2026-03-29T09:03:00+00:00",
+          "summary": "This sale spans almost an entire week, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.",
+          "image": "https://media.wired.com/photos/69c31871ea56e672b4eef17c/master/pass/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg"
+        },
+        {
+          "id": "63c0fcbc2223",
+          "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+          "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+          "source": "TechCrunch",
+          "published": "2026-03-28T23:00:00+00:00",
+          "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+          "image": null
+        },
+        {
+          "id": "f32ffc173640",
+          "title": "Mark Zuckerberg texted Elon Musk to offer help with DOGE",
+          "url": "https://techcrunch.com/2026/03/28/mark-zuckerberg-texted-elon-musk-to-offer-help-with-doge/",
+          "source": "TechCrunch",
+          "published": "2026-03-28T21:23:58+00:00",
+          "summary": "While the relationship was once thorny enough that Musk challenged Zuckerberg to a cagefight, things seem to have warmed up by the early days of the second Trump administration.",
+          "image": null
+        },
+        {
+          "id": "7e192f12ec42",
+          "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+          "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+          "source": "TechCrunch",
+          "published": "2026-03-28T20:45:54+00:00",
+          "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+          "image": null
+        }
+      ]
+    },
+    "society": {
+      "id": "society",
+      "label": "Race, Religion & Royalty",
+      "icon": "🕌",
+      "color": "#dc2626",
+      "article_count": 3,
+      "briefing": "Today's Race, Religion & Royalty section covers 3 stories.",
+      "articles": [
+        {
+          "id": "c0ec5b1a76ac",
+          "title": "Wakil rakyat PAS gesa ‘blacklist’ pemandu mabuk seumur hidup",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/30/wakil-rakyat-pas-gesa-blacklist-pemandu-mabuk-seumur-hidup",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-30T03:40:03+00:00",
+          "summary": "Seorang penunggang motosikal maut dirempuh kereta dipandu lelaki di bawah pengaruh alkohol dan dadah dalam kejadian di Klang, semalam. PETALING JAYA: Wakil rakyat PAS menggesa kerajaan melaksanakan hukuman lebih tegas terhadap pemandu mabuk termasuk menyenarai hitam daripada mema",
+          "image": null
+        },
+        {
+          "id": "1dd7265739e7",
+          "title": "Bursa eases in early trade, tracking weaker regional markets",
+          "url": "https://www.freemalaysiatoday.com/category/business/2026/03/30/bursa-eases-in-early-trade-tracking-weaker-regional-markets",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-30T02:13:44+00:00",
+          "summary": "KUALA LUMPUR: Bursa Malaysia eased in early trade on Monday as it tracked regional market losses after a sharp Wall Street sell-off, as Brent crude oil surged above US$110 per barrel. At 9.15am, the FTSE Bursa Malaysia KLCI (FBM KLCI) eased 17.17 points or 0.99% to 1,695.48 from ",
+          "image": null
+        },
+        {
+          "id": "3ddaa82ebc99",
+          "title": "Why revived China-Philippine talks won’t lead to energy cooperation in the South China Sea",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3348303/why-revived-china-philippine-talks-wont-lead-energy-cooperation-south-china-sea?utm_source=rss_feed",
+          "source": "South China Morning Post",
+          "published": "2026-03-30T00:00:15+00:00",
+          "summary": "Maritime tensions between China and the Philippines are likely to persist despite Manila’s call for energy cooperation, Chinese observers said after revived diplomatic talks on the weekend. Senior diplomats from the two countries met in the Chinese city of Quanzhou on Friday and ",
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/29/3b6966dd-3fb7-449e-af1f-f9bb28cf4b26_b9088df6.jpg?itok=5cPhbxR4&v=1774781876"
+        }
+      ]
+    },
+    "security": {
+      "id": "security",
+      "label": "Counter-terrorism & Organised Crime",
+      "icon": "🔒",
+      "color": "#b45309",
+      "article_count": 2,
+      "briefing": "Today's Counter-terrorism & Organised Crime section covers 2 stories.",
+      "articles": [
+        {
+          "id": "c0ec5b1a76ac",
+          "title": "Wakil rakyat PAS gesa ‘blacklist’ pemandu mabuk seumur hidup",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/30/wakil-rakyat-pas-gesa-blacklist-pemandu-mabuk-seumur-hidup",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-30T03:40:03+00:00",
+          "summary": "Seorang penunggang motosikal maut dirempuh kereta dipandu lelaki di bawah pengaruh alkohol dan dadah dalam kejadian di Klang, semalam. PETALING JAYA: Wakil rakyat PAS menggesa kerajaan melaksanakan hukuman lebih tegas terhadap pemandu mabuk termasuk menyenarai hitam daripada mema",
+          "image": null
+        },
+        {
+          "id": "5634eee676ae",
+          "title": "Pemandu mabuk rempuh penunggang hingga maut direman 4 hari",
+          "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/30/pemandu-mabuk-rempuh-penunggang-hingga-maut-direman-4-hari",
+          "source": "Free Malaysia Today",
+          "published": "2026-03-30T03:12:54+00:00",
+          "summary": "Reman empat hari dikeluarkan Majistret Siti Zubaidah Mahat terhadap pemandu kereta yang melanggar penunggang motosikal hingga maut. (Gambar Reuters) PETALING JAYA: Seorang pemandu mabuk yang merempuh penunggang motosikal sehingga maut dalam kejadian di Klang semalam, direman empa",
+          "image": null
+        }
+      ]
+    }
+  }
+}
